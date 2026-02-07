@@ -1,0 +1,3501 @@
+city,number_of_bedrooms,number_of_bathrooms,furnished,power_supply_hours,security_level,estate_type,proximity_to_road,parking_space,monthly_rent
+Abuja,2,1,Yes,4,Low,Non-Estate,Near,No,470000
+Ilorin,4,2,Yes,4,Medium,Non-Estate,Far,Yes,295000
+Ibadan,5,4,No,16,High,Non-Estate,Far,No,600000
+Port Harcourt,1,1,Yes,12,Low,Estate,Far,No,300000
+Lagos,4,3,No,16,Medium,Estate,Far,Yes,1175000
+Lagos,3,2,No,20,Medium,Non-Estate,Near,Yes,885000
+Lagos,5,4,No,8,Medium,Non-Estate,Near,Yes,915000
+Benin,2,1,No,12,Medium,Estate,Far,No,210000
+Port Harcourt,4,2,No,12,Low,Estate,Far,Yes,740000
+Ibadan,1,1,Yes,24,High,Estate,Near,Yes,380000
+Lagos,2,1,Yes,16,Low,Non-Estate,Near,Yes,660000
+Ilorin,1,1,No,20,Medium,Estate,Far,No,150000
+Ibadan,5,3,Yes,8,Low,Non-Estate,Near,No,525000
+Lagos,4,2,No,16,Medium,Estate,Near,No,1030000
+Lagos,4,3,No,8,Medium,Estate,Near,No,860000
+Lagos,4,4,No,8,High,Estate,Near,Yes,945000
+Abuja,1,1,No,20,Medium,Non-Estate,Near,Yes,540000
+Abuja,2,1,No,0,Medium,Non-Estate,Far,No,310000
+Abuja,1,1,No,24,High,Estate,Far,No,615000
+Lagos,2,2,No,4,Medium,Non-Estate,Far,Yes,405000
+Port Harcourt,2,1,No,16,Medium,Estate,Far,Yes,495000
+Lagos,2,2,No,8,Medium,Non-Estate,Near,No,445000
+Lagos,2,2,No,8,Medium,Non-Estate,Far,Yes,475000
+Abuja,1,1,No,8,High,Estate,Far,Yes,400000
+Abuja,2,1,No,12,Low,Non-Estate,Far,No,495000
+Ibadan,1,1,No,8,Medium,Non-Estate,Far,No,160000
+Lagos,5,3,No,16,Medium,Estate,Near,Yes,1460000
+Abuja,3,3,Yes,0,High,Non-Estate,Near,Yes,845000
+Port Harcourt,5,3,No,4,High,Estate,Near,Yes,820000
+Lagos,2,1,Yes,4,Medium,Non-Estate,Far,No,390000
+Port Harcourt,2,1,No,12,Medium,Estate,Near,No,415000
+Lagos,3,2,No,16,Medium,Non-Estate,Far,No,665000
+Lagos,2,1,No,20,Medium,Estate,Near,Yes,620000
+Benin,2,1,Yes,8,High,Estate,Far,Yes,330000
+Ilorin,2,1,No,12,High,Estate,Near,No,240000
+Ibadan,1,1,No,16,High,Estate,Near,Yes,230000
+Abuja,2,1,Yes,8,Low,Non-Estate,Near,No,590000
+Lagos,2,1,Yes,12,High,Estate,Far,No,780000
+Port Harcourt,3,2,No,12,High,Non-Estate,Near,Yes,570000
+Abuja,1,1,No,4,Medium,Estate,Far,No,335000
+Lagos,2,2,Yes,0,Medium,Non-Estate,Near,Yes,450000
+Abuja,4,3,No,4,High,Non-Estate,Far,No,735000
+Lagos,1,1,No,12,Medium,Non-Estate,Near,Yes,370000
+Benin,2,1,No,4,High,Non-Estate,Far,No,195000
+Lagos,4,4,No,4,Medium,Non-Estate,Near,No,685000
+Port Harcourt,2,1,No,8,Medium,Non-Estate,Far,Yes,335000
+Abuja,1,1,No,4,High,Estate,Near,Yes,410000
+Abuja,2,1,No,4,Medium,Non-Estate,Far,Yes,465000
+Abuja,2,1,Yes,20,High,Non-Estate,Far,Yes,995000
+Lagos,3,2,Yes,0,Medium,Estate,Near,No,585000
+Ilorin,4,4,No,16,Medium,Non-Estate,Near,Yes,395000
+Ibadan,1,1,No,8,Low,Estate,Far,Yes,150000
+Benin,3,3,No,16,Medium,Non-Estate,Far,Yes,275000
+Benin,3,2,No,12,Medium,Non-Estate,Near,No,290000
+Port Harcourt,1,1,No,8,High,Non-Estate,Near,No,275000
+Benin,3,2,No,16,Medium,Non-Estate,Near,Yes,320000
+Lagos,2,2,Yes,12,Medium,Non-Estate,Near,No,660000
+Lagos,2,1,No,16,Low,Non-Estate,Near,No,430000
+Lagos,1,1,Yes,12,Medium,Non-Estate,Far,Yes,390000
+Abuja,2,2,No,24,High,Estate,Near,No,975000
+Abuja,2,2,Yes,16,Medium,Non-Estate,Near,Yes,775000
+Lagos,4,3,No,24,Medium,Non-Estate,Far,Yes,915000
+Ibadan,1,1,Yes,12,Medium,Estate,Near,Yes,235000
+Abuja,2,2,Yes,12,Low,Estate,Far,Yes,840000
+Lagos,2,1,Yes,16,Medium,Non-Estate,Far,No,675000
+Abuja,3,3,No,20,Medium,Non-Estate,Near,Yes,890000
+Lagos,3,2,No,24,Medium,Non-Estate,Near,Yes,815000
+Ibadan,3,2,No,8,High,Estate,Far,Yes,400000
+Lagos,3,2,No,16,High,Estate,Far,No,980000
+Ilorin,4,2,No,8,High,Non-Estate,Near,No,260000
+Ibadan,2,1,No,12,High,Estate,Near,Yes,370000
+Lagos,3,2,No,4,High,Estate,Near,No,680000
+Lagos,4,3,Yes,8,Medium,Estate,Near,No,1230000
+Ibadan,5,3,No,20,Low,Estate,Near,Yes,620000
+Ibadan,4,3,No,4,Medium,Estate,Far,No,420000
+Ibadan,2,1,No,12,High,Estate,Far,Yes,305000
+Ibadan,2,1,No,12,Low,Estate,Near,Yes,315000
+Lagos,2,1,No,4,Low,Non-Estate,Far,Yes,345000
+Abuja,3,2,Yes,8,Low,Estate,Near,Yes,960000
+Lagos,2,2,No,12,Medium,Non-Estate,Near,No,555000
+Benin,2,1,No,4,Medium,Non-Estate,Near,Yes,180000
+Port Harcourt,4,3,No,16,Medium,Non-Estate,Near,No,765000
+Abuja,2,1,No,24,Low,Estate,Near,Yes,785000
+Lagos,4,3,No,8,Medium,Non-Estate,Far,No,760000
+Abuja,2,1,No,4,Medium,Estate,Near,Yes,590000
+Abuja,2,1,Yes,12,Medium,Estate,Far,No,610000
+Ibadan,2,1,Yes,16,Medium,Non-Estate,Near,Yes,360000
+Port Harcourt,3,3,No,8,Medium,Non-Estate,Near,No,550000
+Benin,1,1,No,0,Medium,Non-Estate,Near,No,110000
+Abuja,2,1,Yes,12,Medium,Non-Estate,Far,No,680000
+Lagos,5,3,No,24,Medium,Non-Estate,Near,Yes,1505000
+Ibadan,2,2,No,8,High,Estate,Far,Yes,320000
+Ibadan,3,3,No,12,Low,Estate,Far,No,385000
+Port Harcourt,3,2,Yes,24,Low,Non-Estate,Far,Yes,885000
+Ibadan,2,1,No,16,High,Non-Estate,Near,Yes,355000
+Abuja,3,2,No,16,Medium,Estate,Far,Yes,990000
+Abuja,2,2,No,12,Low,Non-Estate,Near,Yes,505000
+Abuja,3,2,No,24,Low,Estate,Far,Yes,940000
+Lagos,2,1,Yes,16,High,Non-Estate,Near,No,755000
+Lagos,3,3,No,20,High,Non-Estate,Near,Yes,1055000
+Lagos,1,1,Yes,16,Medium,Non-Estate,Near,Yes,465000
+Port Harcourt,3,2,Yes,16,Medium,Estate,Near,Yes,750000
+Abuja,2,2,No,8,Low,Non-Estate,Near,Yes,490000
+Abuja,2,1,No,8,Medium,Non-Estate,Far,No,485000
+Benin,2,1,No,16,Low,Estate,Far,Yes,265000
+Lagos,2,1,Yes,8,Medium,Estate,Near,No,685000
+Abuja,4,2,No,12,Low,Non-Estate,Near,Yes,860000
+Ibadan,2,1,No,8,Medium,Non-Estate,Near,Yes,220000
+Lagos,4,4,No,16,Medium,Estate,Near,Yes,1150000
+Lagos,5,3,No,4,Medium,Non-Estate,Far,Yes,735000
+Lagos,3,3,No,16,Low,Non-Estate,Far,No,700000
+Lagos,1,1,No,12,Medium,Estate,Near,Yes,395000
+Benin,2,1,Yes,4,High,Non-Estate,Near,No,200000
+Ibadan,3,2,Yes,12,Medium,Estate,Far,No,435000
+Port Harcourt,2,1,No,8,Medium,Estate,Far,No,330000
+Benin,1,1,No,8,Medium,Estate,Near,Yes,135000
+Ibadan,3,3,No,8,Medium,Non-Estate,Near,Yes,330000
+Lagos,4,2,No,4,Medium,Non-Estate,Near,No,570000
+Benin,3,3,Yes,24,High,Estate,Near,No,620000
+Abuja,2,1,Yes,0,Low,Non-Estate,Near,No,420000
+Ibadan,3,3,No,16,Low,Non-Estate,Near,Yes,400000
+Benin,2,1,Yes,8,Medium,Estate,Far,No,280000
+Abuja,2,1,No,12,High,Non-Estate,Near,No,625000
+Lagos,4,4,No,8,High,Non-Estate,Far,Yes,930000
+Lagos,2,1,No,16,Medium,Non-Estate,Near,No,585000
+Abuja,2,1,No,16,Medium,Non-Estate,Near,Yes,600000
+Ibadan,1,1,No,16,Medium,Estate,Near,Yes,210000
+Benin,4,2,No,4,Medium,Non-Estate,Near,No,250000
+Lagos,3,2,Yes,16,Medium,Estate,Far,Yes,960000
+Abuja,3,3,No,8,High,Non-Estate,Near,Yes,885000
+Abuja,3,2,No,0,Medium,Non-Estate,Near,Yes,460000
+Lagos,2,1,No,12,Medium,Estate,Far,Yes,585000
+Lagos,2,1,Yes,12,Medium,Non-Estate,Near,Yes,540000
+Abuja,2,1,No,12,Medium,Non-Estate,Near,No,605000
+Benin,1,1,No,16,Medium,Non-Estate,Near,Yes,195000
+Abuja,2,2,No,8,Medium,Estate,Near,Yes,720000
+Abuja,4,4,No,8,Low,Non-Estate,Near,No,955000
+Ibadan,1,1,No,4,Low,Non-Estate,Near,Yes,125000
+Abuja,2,1,No,16,Medium,Estate,Far,Yes,705000
+Ilorin,2,1,Yes,12,High,Estate,Far,Yes,235000
+Ilorin,2,2,No,8,Medium,Non-Estate,Near,Yes,185000
+Lagos,4,2,No,16,Medium,Estate,Near,Yes,980000
+Abuja,2,2,No,12,Medium,Estate,Near,Yes,665000
+Abuja,2,1,No,12,Low,Non-Estate,Near,Yes,605000
+Lagos,3,3,Yes,12,High,Non-Estate,Near,No,840000
+Lagos,2,2,Yes,12,High,Non-Estate,Far,Yes,640000
+Port Harcourt,2,2,No,16,Low,Estate,Far,No,440000
+Abuja,2,1,No,8,Medium,Non-Estate,Near,No,515000
+Lagos,3,2,No,4,Medium,Non-Estate,Far,Yes,525000
+Lagos,5,4,No,4,High,Estate,Near,No,1160000
+Benin,3,3,No,12,Medium,Non-Estate,Near,Yes,345000
+Lagos,2,1,No,20,Low,Non-Estate,Near,Yes,500000
+Lagos,4,4,No,12,Medium,Non-Estate,Near,Yes,940000
+Abuja,2,2,No,4,High,Non-Estate,Far,No,525000
+Ilorin,1,1,No,16,Low,Estate,Near,Yes,155000
+Lagos,2,2,No,16,Medium,Non-Estate,Near,Yes,575000
+Port Harcourt,2,1,No,20,Low,Non-Estate,Far,Yes,360000
+Ibadan,3,2,No,12,High,Non-Estate,Near,No,330000
+Lagos,3,2,No,20,Low,Non-Estate,Near,Yes,685000
+Ibadan,4,3,No,0,High,Estate,Near,Yes,395000
+Abuja,3,3,No,4,Medium,Estate,Near,Yes,675000
+Port Harcourt,3,2,Yes,4,Medium,Estate,Far,No,535000
+Port Harcourt,1,1,No,16,High,Non-Estate,Near,Yes,325000
+Abuja,1,1,No,4,High,Estate,Far,Yes,435000
+Lagos,3,3,No,12,Medium,Non-Estate,Near,No,765000
+Ibadan,2,1,Yes,12,Low,Estate,Near,Yes,335000
+Abuja,4,4,Yes,8,Medium,Non-Estate,Near,No,1150000
+Lagos,2,1,Yes,20,Medium,Estate,Far,No,855000
+Lagos,1,1,No,4,Medium,Non-Estate,Near,No,275000
+Port Harcourt,2,1,Yes,8,Medium,Non-Estate,Far,Yes,475000
+Port Harcourt,2,1,No,16,Low,Non-Estate,Near,Yes,370000
+Lagos,1,1,Yes,0,Medium,Non-Estate,Near,Yes,350000
+Abuja,3,2,Yes,16,Medium,Estate,Near,No,1165000
+Lagos,1,1,Yes,16,Low,Estate,Far,No,410000
+Port Harcourt,3,2,Yes,20,Medium,Non-Estate,Near,Yes,925000
+Lagos,2,1,No,20,Medium,Non-Estate,Near,No,645000
+Port Harcourt,2,2,No,8,Medium,Estate,Near,No,405000
+Abuja,2,2,No,12,Low,Non-Estate,Far,Yes,610000
+Benin,4,2,Yes,4,Medium,Non-Estate,Far,Yes,290000
+Lagos,2,1,Yes,8,Medium,Estate,Far,Yes,625000
+Abuja,3,2,No,4,Medium,Estate,Near,Yes,645000
+Lagos,1,1,No,8,High,Non-Estate,Far,No,300000
+Benin,3,3,Yes,20,Medium,Estate,Far,No,510000
+Benin,2,2,No,8,Low,Estate,Near,Yes,215000
+Lagos,3,2,No,12,Medium,Estate,Near,Yes,665000
+Port Harcourt,3,3,Yes,12,High,Estate,Near,Yes,925000
+Ibadan,4,3,No,12,Low,Non-Estate,Near,No,375000
+Port Harcourt,2,1,Yes,24,High,Estate,Far,No,785000
+Abuja,1,1,No,8,Medium,Estate,Far,Yes,360000
+Lagos,1,1,Yes,12,High,Non-Estate,Far,No,500000
+Lagos,4,3,No,12,Medium,Estate,Near,Yes,940000
+Benin,3,2,Yes,4,Medium,Estate,Near,Yes,325000
+Benin,3,2,No,12,High,Non-Estate,Near,No,295000
+Port Harcourt,2,1,Yes,16,Medium,Non-Estate,Near,Yes,570000
+Abuja,2,2,No,4,Low,Non-Estate,Far,Yes,375000
+Abuja,1,1,No,4,Medium,Estate,Near,Yes,375000
+Ibadan,5,3,No,4,Low,Non-Estate,Far,Yes,355000
+Benin,3,3,No,16,High,Non-Estate,Far,No,385000
+Benin,4,4,No,16,Medium,Non-Estate,Far,No,340000
+Ibadan,2,2,No,12,High,Estate,Near,No,375000
+Port Harcourt,3,2,Yes,12,High,Estate,Far,Yes,740000
+Lagos,3,2,No,20,Low,Non-Estate,Far,Yes,630000
+Lagos,2,1,Yes,16,Medium,Non-Estate,Far,Yes,575000
+Benin,4,2,No,16,High,Non-Estate,Far,No,345000
+Port Harcourt,4,4,Yes,16,Medium,Estate,Far,Yes,1100000
+Lagos,4,2,No,12,High,Estate,Near,No,1180000
+Lagos,3,2,No,12,Medium,Non-Estate,Far,Yes,540000
+Port Harcourt,2,1,No,20,Low,Non-Estate,Far,Yes,415000
+Lagos,2,1,No,20,High,Estate,Far,Yes,700000
+Lagos,5,4,Yes,0,Low,Estate,Far,No,885000
+Abuja,1,1,No,4,Low,Non-Estate,Near,Yes,300000
+Port Harcourt,3,2,Yes,24,Medium,Non-Estate,Near,Yes,985000
+Port Harcourt,3,2,No,8,High,Non-Estate,Near,Yes,475000
+Lagos,3,2,No,20,Medium,Non-Estate,Near,Yes,880000
+Ibadan,5,3,No,8,Medium,Non-Estate,Near,Yes,445000
+Lagos,2,1,Yes,4,Medium,Estate,Near,Yes,550000
+Abuja,2,1,Yes,4,Medium,Non-Estate,Near,Yes,550000
+Ibadan,1,1,Yes,4,Medium,Non-Estate,Far,Yes,160000
+Port Harcourt,2,2,Yes,8,Low,Non-Estate,Near,Yes,400000
+Ibadan,2,2,Yes,12,Medium,Non-Estate,Near,Yes,300000
+Port Harcourt,2,2,No,16,High,Estate,Near,No,550000
+Port Harcourt,4,2,Yes,24,Medium,Non-Estate,Near,Yes,1170000
+Lagos,4,2,No,12,Low,Non-Estate,Near,Yes,695000
+Abuja,2,1,No,12,High,Non-Estate,Near,Yes,695000
+Lagos,2,2,No,12,Medium,Estate,Far,Yes,530000
+Lagos,4,4,No,12,High,Non-Estate,Near,No,1135000
+Ilorin,1,1,No,12,Low,Non-Estate,Far,No,100000
+Abuja,1,1,No,0,Low,Estate,Far,No,250000
+Benin,2,2,Yes,0,Medium,Estate,Far,Yes,245000
+Port Harcourt,3,2,No,4,Medium,Non-Estate,Near,Yes,390000
+Ibadan,2,1,No,4,Medium,Non-Estate,Near,Yes,210000
+Abuja,5,3,No,16,Medium,Estate,Near,Yes,1525000
+Port Harcourt,2,1,No,8,Low,Non-Estate,Near,Yes,325000
+Abuja,3,2,No,20,Medium,Non-Estate,Near,Yes,1055000
+Lagos,2,1,No,20,Medium,Non-Estate,Far,No,580000
+Ibadan,2,1,Yes,24,Medium,Estate,Near,Yes,525000
+Lagos,3,3,No,20,Medium,Non-Estate,Near,No,945000
+Lagos,3,3,No,8,Medium,Estate,Near,Yes,740000
+Port Harcourt,3,3,Yes,12,Medium,Estate,Far,No,645000
+Lagos,3,2,Yes,4,Medium,Estate,Far,Yes,780000
+Benin,4,4,Yes,16,Medium,Non-Estate,Near,No,505000
+Ilorin,4,4,No,20,Low,Estate,Near,Yes,380000
+Benin,3,2,Yes,20,Medium,Estate,Near,Yes,500000
+Abuja,1,1,No,12,High,Estate,Far,Yes,565000
+Lagos,1,1,No,16,Medium,Non-Estate,Far,No,315000
+Benin,2,1,No,4,Low,Non-Estate,Far,No,155000
+Abuja,3,3,No,0,High,Non-Estate,Near,Yes,645000
+Ilorin,2,2,No,16,Medium,Estate,Far,No,180000
+Ilorin,2,1,No,12,Low,Estate,Far,Yes,190000
+Benin,4,4,Yes,24,Medium,Estate,Far,Yes,790000
+Lagos,4,4,No,4,Medium,Non-Estate,Near,Yes,700000
+Abuja,4,4,No,20,Medium,Estate,Near,No,1320000
+Benin,2,1,No,12,Medium,Estate,Near,Yes,235000
+Abuja,3,3,No,16,Medium,Non-Estate,Near,Yes,995000
+Lagos,2,1,Yes,16,Low,Estate,Far,Yes,590000
+Port Harcourt,2,1,No,20,Medium,Estate,Far,Yes,465000
+Benin,2,1,Yes,8,Medium,Estate,Near,Yes,290000
+Port Harcourt,2,1,No,20,Medium,Estate,Near,Yes,530000
+Port Harcourt,2,2,Yes,4,Low,Non-Estate,Near,Yes,385000
+Lagos,4,3,No,4,Low,Non-Estate,Far,Yes,690000
+Port Harcourt,1,1,Yes,12,Medium,Estate,Near,Yes,465000
+Ilorin,3,2,No,16,High,Estate,Near,Yes,380000
+Lagos,3,3,No,12,Medium,Non-Estate,Near,No,640000
+Abuja,2,1,Yes,16,Medium,Non-Estate,Near,Yes,875000
+Benin,2,2,No,16,Low,Estate,Far,No,260000
+Ibadan,2,1,No,8,Medium,Non-Estate,Far,Yes,190000
+Port Harcourt,3,2,No,20,Low,Estate,Near,Yes,735000
+Ibadan,2,1,No,4,High,Non-Estate,Far,Yes,185000
+Abuja,2,1,No,20,Medium,Non-Estate,Near,No,685000
+Lagos,1,1,No,8,High,Non-Estate,Far,No,350000
+Ibadan,3,2,No,12,Medium,Non-Estate,Near,Yes,380000
+Ibadan,4,4,No,12,High,Estate,Near,Yes,570000
+Benin,2,1,No,4,Medium,Non-Estate,Near,No,170000
+Benin,3,2,Yes,8,Low,Non-Estate,Near,Yes,280000
+Abuja,3,2,Yes,4,High,Non-Estate,Near,No,955000
+Abuja,4,4,Yes,8,Medium,Estate,Far,Yes,1350000
+Ibadan,4,3,Yes,4,High,Non-Estate,Far,No,400000
+Port Harcourt,3,2,No,12,Low,Non-Estate,Near,Yes,465000
+Ibadan,3,3,No,16,Medium,Estate,Far,Yes,455000
+Ibadan,4,3,Yes,12,Medium,Estate,Near,No,615000
+Benin,2,1,No,20,Low,Estate,Far,Yes,275000
+Abuja,2,1,No,12,Medium,Non-Estate,Near,Yes,530000
+Abuja,1,1,No,16,Medium,Non-Estate,Far,Yes,440000
+Lagos,4,3,No,16,Low,Non-Estate,Near,Yes,830000
+Port Harcourt,4,2,No,12,Low,Estate,Near,Yes,730000
+Lagos,1,1,Yes,16,Medium,Non-Estate,Near,No,535000
+Abuja,3,2,Yes,4,Low,Non-Estate,Near,No,730000
+Abuja,2,1,Yes,20,Medium,Estate,Far,Yes,780000
+Lagos,1,1,No,16,Low,Estate,Near,No,475000
+Port Harcourt,5,4,Yes,8,Medium,Estate,Near,Yes,1020000
+Lagos,2,2,No,16,High,Non-Estate,Near,No,680000
+Lagos,1,1,Yes,0,Medium,Estate,Near,Yes,365000
+Ibadan,3,2,No,8,Medium,Estate,Far,No,300000
+Abuja,3,2,Yes,4,Medium,Estate,Near,No,765000
+Lagos,1,1,Yes,16,High,Non-Estate,Far,No,450000
+Abuja,3,3,Yes,16,Low,Estate,Near,Yes,1380000
+Ibadan,3,2,No,16,Medium,Estate,Far,Yes,455000
+Lagos,1,1,Yes,0,Medium,Non-Estate,Far,Yes,290000
+Port Harcourt,2,1,No,12,Medium,Non-Estate,Far,Yes,325000
+Lagos,3,3,Yes,16,High,Non-Estate,Far,Yes,1175000
+Lagos,2,1,No,4,High,Non-Estate,Near,No,430000
+Abuja,4,3,No,12,High,Non-Estate,Far,No,995000
+Abuja,4,2,Yes,4,Medium,Non-Estate,Far,Yes,845000
+Port Harcourt,5,4,No,4,Low,Non-Estate,Far,Yes,595000
+Ibadan,2,1,No,12,High,Estate,Far,No,295000
+Ilorin,5,4,Yes,16,Medium,Non-Estate,Far,No,470000
+Abuja,2,2,Yes,4,Low,Estate,Near,Yes,660000
+Abuja,2,1,No,4,Medium,Estate,Near,Yes,580000
+Ibadan,1,1,No,8,Medium,Non-Estate,Near,No,150000
+Lagos,1,1,No,8,Medium,Non-Estate,Far,No,290000
+Abuja,3,3,No,8,High,Non-Estate,Near,Yes,800000
+Lagos,2,1,No,8,Low,Non-Estate,Near,No,435000
+Lagos,2,1,Yes,16,Low,Non-Estate,Near,No,545000
+Ilorin,3,2,No,12,Medium,Non-Estate,Near,Yes,210000
+Ibadan,2,1,No,16,Medium,Non-Estate,Far,No,270000
+Port Harcourt,3,3,No,16,Low,Non-Estate,Far,Yes,510000
+Abuja,2,1,No,4,Medium,Estate,Near,No,515000
+Lagos,4,3,No,0,Medium,Estate,Near,Yes,805000
+Lagos,4,3,Yes,20,High,Non-Estate,Near,Yes,1515000
+Lagos,2,2,No,4,Low,Estate,Near,No,400000
+Abuja,2,1,No,4,High,Estate,Near,No,535000
+Ibadan,2,1,Yes,0,Low,Estate,Near,No,255000
+Port Harcourt,4,3,No,12,Medium,Estate,Near,Yes,770000
+Lagos,2,2,Yes,12,Medium,Non-Estate,Near,Yes,710000
+Ilorin,2,1,No,24,Low,Non-Estate,Far,No,200000
+Ibadan,1,1,No,20,Medium,Non-Estate,Near,No,210000
+Port Harcourt,2,1,Yes,12,Low,Non-Estate,Near,No,485000
+Port Harcourt,2,2,No,8,Low,Non-Estate,Near,Yes,345000
+Abuja,4,2,No,8,Medium,Non-Estate,Far,Yes,785000
+Lagos,2,1,No,4,Medium,Non-Estate,Near,Yes,420000
+Abuja,2,1,Yes,4,Low,Non-Estate,Near,No,460000
+Ibadan,4,4,Yes,4,Low,Estate,Near,No,470000
+Lagos,4,4,No,4,Low,Estate,Far,Yes,795000
+Lagos,2,1,Yes,8,Medium,Non-Estate,Far,Yes,540000
+Lagos,2,1,No,8,Medium,Non-Estate,Far,Yes,410000
+Lagos,2,1,No,24,Low,Non-Estate,Near,No,635000
+Benin,4,2,No,12,Low,Non-Estate,Far,Yes,310000
+Ibadan,1,1,No,24,Medium,Estate,Far,No,270000
+Abuja,4,3,No,8,High,Estate,Near,Yes,1270000
+Lagos,3,2,No,12,Medium,Non-Estate,Far,Yes,590000
+Abuja,3,3,No,8,High,Estate,Near,Yes,945000
+Abuja,1,1,No,4,Low,Non-Estate,Near,No,315000
+Lagos,2,1,No,4,High,Non-Estate,Far,Yes,470000
+Abuja,2,1,Yes,20,Medium,Non-Estate,Far,No,675000
+Abuja,2,1,Yes,24,High,Estate,Near,No,1155000
+Port Harcourt,3,2,No,0,Medium,Non-Estate,Near,Yes,335000
+Port Harcourt,5,3,No,4,Medium,Non-Estate,Far,Yes,570000
+Lagos,3,2,No,12,Medium,Non-Estate,Near,No,680000
+Abuja,3,3,No,4,Medium,Non-Estate,Near,Yes,580000
+Port Harcourt,1,1,Yes,8,High,Non-Estate,Near,Yes,390000
+Abuja,2,1,No,4,Medium,Estate,Far,No,515000
+Benin,1,1,No,12,High,Non-Estate,Far,No,175000
+Port Harcourt,3,2,No,8,Medium,Non-Estate,Near,Yes,445000
+Lagos,4,3,No,8,Medium,Estate,Near,Yes,975000
+Lagos,3,2,Yes,4,Low,Estate,Near,No,795000
+Port Harcourt,1,1,No,12,High,Estate,Near,Yes,330000
+Lagos,2,2,No,24,Medium,Non-Estate,Far,Yes,625000
+Port Harcourt,3,3,Yes,8,Medium,Non-Estate,Near,Yes,735000
+Benin,2,1,No,20,Medium,Estate,Near,Yes,265000
+Port Harcourt,4,4,No,16,Medium,Non-Estate,Far,No,820000
+Abuja,4,3,No,24,High,Non-Estate,Near,No,1430000
+Port Harcourt,3,2,Yes,16,Low,Estate,Near,No,685000
+Abuja,2,1,Yes,16,Medium,Estate,Near,No,840000
+Abuja,2,2,No,20,Low,Estate,Far,Yes,700000
+Benin,1,1,Yes,4,High,Non-Estate,Near,Yes,165000
+Abuja,2,1,No,12,Low,Estate,Near,No,600000
+Ilorin,2,1,Yes,24,Low,Non-Estate,Near,Yes,260000
+Benin,3,2,No,16,Medium,Non-Estate,Far,Yes,295000
+Lagos,3,2,No,24,Medium,Non-Estate,Near,Yes,770000
+Lagos,1,1,No,16,Medium,Estate,Far,Yes,460000
+Lagos,2,1,Yes,20,Low,Non-Estate,Far,Yes,650000
+Lagos,2,1,No,16,High,Non-Estate,Far,Yes,630000
+Lagos,2,1,No,16,High,Estate,Near,Yes,785000
+Port Harcourt,4,3,Yes,12,Medium,Estate,Near,Yes,955000
+Lagos,1,1,No,20,Medium,Non-Estate,Near,Yes,370000
+Abuja,2,1,Yes,16,Medium,Non-Estate,Near,Yes,875000
+Ibadan,2,1,No,16,Low,Estate,Far,No,290000
+Lagos,4,3,No,16,Medium,Non-Estate,Near,No,810000
+Ibadan,3,2,Yes,8,Medium,Non-Estate,Near,No,395000
+Lagos,2,1,No,0,Medium,Non-Estate,Near,No,285000
+Lagos,3,2,No,20,Medium,Estate,Far,No,705000
+Port Harcourt,3,2,Yes,12,High,Non-Estate,Near,Yes,780000
+Port Harcourt,5,4,No,8,Medium,Estate,Near,Yes,800000
+Benin,2,1,No,4,Medium,Non-Estate,Near,No,185000
+Ibadan,4,3,No,16,Low,Non-Estate,Far,No,465000
+Ibadan,4,3,No,16,Medium,Estate,Near,Yes,595000
+Lagos,4,2,Yes,16,Medium,Non-Estate,Near,No,935000
+Lagos,3,3,Yes,12,Medium,Estate,Near,Yes,985000
+Ibadan,3,2,No,8,High,Non-Estate,Far,Yes,320000
+Ibadan,2,1,Yes,8,High,Estate,Near,Yes,375000
+Ilorin,3,3,No,0,Medium,Non-Estate,Far,Yes,145000
+Abuja,3,2,Yes,16,Medium,Estate,Far,Yes,1160000
+Abuja,3,3,No,4,High,Non-Estate,Near,No,705000
+Ibadan,2,1,No,12,Medium,Non-Estate,Near,Yes,290000
+Abuja,3,2,No,12,Low,Non-Estate,Near,Yes,835000
+Benin,4,2,Yes,12,Medium,Estate,Near,Yes,515000
+Benin,1,1,Yes,20,Low,Non-Estate,Near,No,220000
+Abuja,4,4,Yes,0,High,Estate,Near,No,1045000
+Ibadan,3,3,Yes,16,Medium,Non-Estate,Near,Yes,470000
+Ibadan,4,2,Yes,4,Medium,Non-Estate,Near,Yes,475000
+Lagos,2,1,No,0,Low,Non-Estate,Far,Yes,325000
+Benin,2,1,No,12,Medium,Non-Estate,Far,No,170000
+Abuja,4,3,No,4,High,Estate,Near,Yes,1080000
+Ibadan,2,1,No,16,Low,Non-Estate,Near,Yes,300000
+Abuja,4,3,No,12,Medium,Estate,Far,Yes,1020000
+Benin,2,1,No,0,High,Non-Estate,Far,Yes,140000
+Abuja,3,3,No,0,Medium,Non-Estate,Far,No,580000
+Lagos,2,2,No,12,Medium,Non-Estate,Near,Yes,525000
+Benin,3,2,No,16,Medium,Non-Estate,Near,Yes,310000
+Lagos,2,1,Yes,12,Medium,Estate,Near,No,630000
+Abuja,1,1,Yes,12,Low,Non-Estate,Far,No,485000
+Ilorin,2,1,No,16,Low,Estate,Near,Yes,225000
+Ilorin,1,1,Yes,12,Medium,Non-Estate,Near,No,145000
+Port Harcourt,5,4,No,8,High,Non-Estate,Near,No,740000
+Port Harcourt,5,3,No,12,Low,Estate,Far,Yes,825000
+Abuja,2,1,Yes,12,Low,Estate,Near,Yes,700000
+Lagos,3,2,Yes,16,Medium,Estate,Far,Yes,885000
+Abuja,2,1,No,12,High,Non-Estate,Far,Yes,580000
+Port Harcourt,3,2,No,24,Medium,Estate,Far,Yes,660000
+Ibadan,4,3,Yes,4,High,Non-Estate,Near,No,560000
+Ibadan,4,2,No,24,Low,Non-Estate,Far,No,400000
+Ibadan,2,1,No,12,High,Estate,Near,Yes,325000
+Lagos,3,2,Yes,16,Medium,Non-Estate,Near,Yes,835000
+Abuja,2,1,Yes,4,Medium,Non-Estate,Far,Yes,555000
+Lagos,5,3,No,8,Medium,Estate,Near,No,890000
+Abuja,1,1,Yes,16,High,Non-Estate,Near,No,625000
+Abuja,3,2,No,16,Low,Estate,Near,Yes,1010000
+Benin,3,2,No,0,Low,Estate,Near,No,240000
+Abuja,3,3,No,12,Medium,Non-Estate,Near,Yes,875000
+Lagos,1,1,No,4,High,Non-Estate,Near,No,275000
+Lagos,4,2,No,24,High,Non-Estate,Near,Yes,1070000
+Ibadan,2,1,No,20,Medium,Non-Estate,Far,Yes,305000
+Port Harcourt,3,2,Yes,0,Medium,Non-Estate,Near,Yes,435000
+Lagos,2,1,No,20,Low,Estate,Near,No,610000
+Lagos,2,1,No,20,High,Estate,Near,No,850000
+Ibadan,3,3,Yes,8,High,Estate,Far,No,530000
+Lagos,2,1,No,16,Medium,Non-Estate,Far,Yes,555000
+Ibadan,2,1,Yes,12,Medium,Non-Estate,Far,Yes,325000
+Ibadan,2,1,Yes,16,High,Estate,Near,Yes,475000
+Lagos,2,1,Yes,8,High,Estate,Near,No,750000
+Lagos,3,3,No,8,Medium,Non-Estate,Near,No,595000
+Ilorin,4,2,No,12,Medium,Estate,Near,No,355000
+Abuja,1,1,Yes,4,Medium,Non-Estate,Near,No,365000
+Abuja,2,1,Yes,16,Medium,Non-Estate,Far,No,705000
+Ibadan,1,1,Yes,8,Medium,Non-Estate,Near,No,185000
+Benin,1,1,No,12,Medium,Estate,Far,Yes,145000
+Ilorin,3,2,Yes,20,Medium,Non-Estate,Near,No,340000
+Ibadan,3,2,No,12,Medium,Estate,Far,No,335000
+Abuja,2,1,Yes,12,Medium,Non-Estate,Near,Yes,725000
+Lagos,2,1,No,24,Medium,Estate,Far,No,665000
+Ibadan,1,1,Yes,20,High,Non-Estate,Near,Yes,320000
+Port Harcourt,4,3,No,4,Medium,Non-Estate,Far,Yes,460000
+Abuja,5,3,Yes,12,Low,Estate,Near,No,1510000
+Benin,1,1,Yes,24,Medium,Non-Estate,Near,Yes,275000
+Lagos,2,2,No,8,High,Non-Estate,Near,Yes,515000
+Abuja,4,4,No,8,High,Estate,Near,No,1185000
+Lagos,4,3,No,4,Medium,Estate,Far,Yes,745000
+Abuja,2,1,No,4,High,Non-Estate,Far,Yes,530000
+Lagos,1,1,No,16,Low,Non-Estate,Far,No,350000
+Lagos,1,1,No,16,High,Non-Estate,Far,Yes,370000
+Lagos,3,2,Yes,24,Low,Non-Estate,Near,Yes,1160000
+Port Harcourt,2,1,No,16,Low,Non-Estate,Far,Yes,420000
+Ibadan,1,1,No,8,Medium,Non-Estate,Near,Yes,180000
+Port Harcourt,3,2,No,0,Medium,Non-Estate,Far,Yes,345000
+Ilorin,1,1,No,24,Medium,Estate,Near,No,190000
+Abuja,3,2,Yes,8,High,Non-Estate,Far,Yes,915000
+Lagos,2,2,Yes,8,High,Estate,Near,Yes,840000
+Benin,1,1,No,20,Medium,Estate,Near,No,225000
+Lagos,3,3,No,12,Medium,Non-Estate,Near,No,770000
+Ilorin,2,1,Yes,8,Low,Non-Estate,Near,Yes,180000
+Lagos,5,4,No,20,Low,Estate,Near,Yes,1600000
+Ilorin,3,2,No,24,Medium,Estate,Near,No,290000
+Lagos,2,2,Yes,4,Low,Non-Estate,Far,No,395000
+Benin,3,2,No,20,Medium,Non-Estate,Near,No,335000
+Abuja,2,1,No,8,Medium,Non-Estate,Far,Yes,495000
+Ilorin,4,3,No,12,Low,Non-Estate,Near,Yes,255000
+Lagos,2,1,No,20,Medium,Estate,Near,Yes,680000
+Port Harcourt,3,2,No,24,Low,Estate,Near,No,645000
+Ilorin,1,1,No,8,Medium,Estate,Near,No,125000
+Abuja,2,1,No,8,High,Estate,Near,Yes,740000
+Port Harcourt,4,3,No,4,Medium,Non-Estate,Near,Yes,600000
+Port Harcourt,4,2,No,12,Low,Estate,Near,No,660000
+Abuja,2,1,No,0,Medium,Estate,Far,Yes,485000
+Port Harcourt,2,1,No,12,Low,Non-Estate,Near,Yes,395000
+Port Harcourt,4,3,Yes,4,Medium,Non-Estate,Near,No,735000
+Benin,4,3,Yes,12,Medium,Non-Estate,Far,Yes,460000
+Lagos,1,1,Yes,0,Medium,Non-Estate,Far,Yes,335000
+Lagos,2,2,Yes,16,High,Estate,Near,Yes,1055000
+Ilorin,2,1,No,8,Medium,Non-Estate,Far,No,135000
+Benin,4,4,No,8,Low,Estate,Far,Yes,350000
+Abuja,1,1,No,20,Medium,Non-Estate,Near,No,495000
+Port Harcourt,2,1,No,16,High,Non-Estate,Near,Yes,510000
+Lagos,3,2,No,8,Low,Non-Estate,Far,No,530000
+Lagos,1,1,No,4,Medium,Non-Estate,Near,Yes,275000
+Abuja,2,2,No,16,Medium,Non-Estate,Near,Yes,655000
+Abuja,2,1,No,8,Medium,Non-Estate,Near,No,495000
+Port Harcourt,2,1,No,16,High,Estate,Far,Yes,585000
+Lagos,2,2,No,12,Medium,Non-Estate,Far,No,505000
+Ilorin,3,2,Yes,8,Medium,Estate,Far,Yes,245000
+Ilorin,2,1,No,12,High,Non-Estate,Far,Yes,165000
+Port Harcourt,3,2,No,16,Medium,Estate,Near,Yes,590000
+Abuja,4,4,Yes,20,Medium,Estate,Near,No,1495000
+Abuja,3,2,No,0,Medium,Non-Estate,Far,Yes,460000
+Ibadan,2,1,Yes,12,Medium,Estate,Far,No,350000
+Port Harcourt,1,1,Yes,0,High,Non-Estate,Near,Yes,325000
+Lagos,2,2,No,12,Medium,Estate,Near,Yes,590000
+Benin,2,1,No,20,Medium,Non-Estate,Near,Yes,260000
+Ibadan,2,1,No,8,High,Non-Estate,Near,Yes,280000
+Benin,3,3,No,20,Medium,Non-Estate,Near,Yes,425000
+Ibadan,1,1,No,12,Low,Estate,Near,No,215000
+Port Harcourt,1,1,No,20,Medium,Estate,Far,Yes,320000
+Abuja,2,2,No,16,High,Non-Estate,Near,Yes,705000
+Benin,3,2,No,4,High,Estate,Far,No,235000
+Benin,2,1,Yes,8,Medium,Estate,Near,Yes,285000
+Lagos,3,3,No,8,Low,Non-Estate,Near,Yes,660000
+Lagos,2,2,No,4,High,Non-Estate,Near,Yes,460000
+Abuja,4,2,No,12,Medium,Estate,Far,Yes,1105000
+Ibadan,4,2,No,12,High,Estate,Near,Yes,550000
+Ilorin,2,2,No,24,Medium,Estate,Far,Yes,290000
+Lagos,2,1,No,12,Low,Non-Estate,Far,Yes,370000
+Port Harcourt,2,1,No,16,Medium,Estate,Near,No,420000
+Abuja,2,1,Yes,20,Medium,Non-Estate,Near,No,760000
+Ilorin,3,2,No,20,Medium,Estate,Far,No,240000
+Ibadan,4,3,No,8,High,Estate,Near,Yes,580000
+Ibadan,3,2,No,12,Medium,Non-Estate,Near,Yes,300000
+Abuja,4,3,No,8,High,Estate,Near,Yes,1275000
+Abuja,2,1,Yes,8,Medium,Non-Estate,Near,Yes,550000
+Lagos,2,1,No,8,High,Non-Estate,Far,Yes,435000
+Lagos,3,3,No,16,High,Estate,Near,Yes,1155000
+Benin,2,1,Yes,12,Medium,Non-Estate,Near,Yes,300000
+Ibadan,3,2,Yes,12,Medium,Estate,Near,No,465000
+Ilorin,2,1,Yes,24,Medium,Estate,Far,Yes,335000
+Ilorin,1,1,No,4,Medium,Estate,Far,No,105000
+Port Harcourt,5,4,No,12,Medium,Non-Estate,Far,No,755000
+Ibadan,2,2,No,16,High,Estate,Far,Yes,400000
+Benin,5,4,No,4,High,Non-Estate,Near,Yes,405000
+Ibadan,5,4,No,12,Medium,Non-Estate,Near,No,500000
+Lagos,3,2,Yes,8,Medium,Estate,Near,No,875000
+Abuja,3,2,No,20,Medium,Non-Estate,Far,Yes,830000
+Lagos,3,2,No,8,Medium,Non-Estate,Far,Yes,500000
+Ilorin,4,2,No,8,Medium,Non-Estate,Far,Yes,205000
+Port Harcourt,2,1,No,12,High,Non-Estate,Far,Yes,455000
+Lagos,2,1,No,4,Medium,Non-Estate,Near,No,395000
+Port Harcourt,3,3,No,8,Low,Estate,Near,Yes,555000
+Port Harcourt,2,1,No,12,High,Non-Estate,Near,Yes,505000
+Abuja,2,1,No,8,Medium,Non-Estate,Near,Yes,495000
+Lagos,2,2,Yes,12,High,Non-Estate,Near,No,770000
+Port Harcourt,3,2,No,12,Low,Non-Estate,Near,No,550000
+Abuja,4,4,No,12,Low,Non-Estate,Near,No,1070000
+Ibadan,2,2,Yes,16,High,Non-Estate,Far,No,380000
+Abuja,4,4,Yes,8,Low,Non-Estate,Near,No,1150000
+Benin,3,2,Yes,4,High,Estate,Near,No,355000
+Port Harcourt,4,3,No,16,High,Non-Estate,Near,Yes,925000
+Port Harcourt,3,2,No,20,Medium,Estate,Near,Yes,695000
+Benin,3,3,No,8,Low,Non-Estate,Far,No,230000
+Abuja,1,1,Yes,12,Medium,Estate,Near,Yes,540000
+Lagos,4,2,No,12,High,Estate,Far,No,820000
+Lagos,1,1,No,12,Medium,Estate,Near,Yes,425000
+Ibadan,4,3,Yes,16,Medium,Non-Estate,Near,No,655000
+Port Harcourt,5,4,No,0,Medium,Estate,Near,Yes,610000
+Ibadan,2,2,No,16,Low,Non-Estate,Near,Yes,260000
+Lagos,2,1,Yes,4,High,Estate,Near,No,610000
+Lagos,3,2,No,12,High,Non-Estate,Far,Yes,750000
+Lagos,2,2,No,16,High,Estate,Near,No,660000
+Abuja,4,3,Yes,12,Medium,Estate,Near,Yes,1250000
+Port Harcourt,1,1,Yes,4,High,Non-Estate,Near,No,315000
+Abuja,1,1,Yes,24,Low,Non-Estate,Near,No,665000
+Abuja,5,3,Yes,20,Medium,Estate,Far,Yes,1625000
+Benin,3,3,No,16,Medium,Non-Estate,Far,No,285000
+Abuja,4,2,No,12,High,Non-Estate,Near,Yes,1125000
+Abuja,2,1,Yes,4,High,Estate,Near,Yes,660000
+Ibadan,3,2,No,20,High,Estate,Near,No,480000
+Abuja,3,2,No,12,High,Non-Estate,Far,No,790000
+Port Harcourt,3,3,Yes,20,High,Estate,Near,Yes,1295000
+Benin,3,2,Yes,8,Low,Non-Estate,Far,Yes,270000
+Benin,3,2,No,8,High,Non-Estate,Near,No,285000
+Lagos,2,1,No,24,Medium,Non-Estate,Far,Yes,580000
+Benin,2,2,Yes,12,Medium,Non-Estate,Near,No,305000
+Abuja,3,3,Yes,4,Low,Non-Estate,Near,No,655000
+Lagos,2,2,No,8,Medium,Estate,Far,Yes,520000
+Abuja,3,3,No,12,Medium,Non-Estate,Far,Yes,845000
+Ilorin,2,1,Yes,0,Medium,Non-Estate,Far,Yes,160000
+Abuja,3,2,No,12,Medium,Estate,Far,No,830000
+Abuja,3,2,No,12,High,Non-Estate,Far,No,750000
+Port Harcourt,2,1,No,16,High,Estate,Near,No,530000
+Lagos,1,1,No,8,Medium,Estate,Far,Yes,330000
+Lagos,1,1,No,24,Medium,Non-Estate,Far,No,425000
+Lagos,3,3,No,4,Low,Non-Estate,Near,Yes,590000
+Lagos,4,3,No,12,Medium,Non-Estate,Far,No,850000
+Lagos,1,1,No,4,Low,Estate,Near,Yes,310000
+Lagos,3,2,No,16,High,Non-Estate,Near,No,865000
+Port Harcourt,2,2,No,24,Medium,Estate,Far,No,630000
+Lagos,2,2,Yes,16,Low,Non-Estate,Near,Yes,785000
+Abuja,4,4,Yes,12,Medium,Non-Estate,Near,No,1350000
+Benin,2,1,No,12,Medium,Non-Estate,Near,Yes,220000
+Abuja,2,2,Yes,16,Medium,Non-Estate,Near,Yes,845000
+Port Harcourt,1,1,No,20,Low,Non-Estate,Near,Yes,300000
+Lagos,1,1,No,24,High,Non-Estate,Far,No,420000
+Lagos,2,2,No,8,Medium,Non-Estate,Far,No,420000
+Lagos,1,1,No,24,Low,Non-Estate,Far,No,355000
+Lagos,3,3,Yes,4,Low,Non-Estate,Near,No,670000
+Lagos,2,1,No,8,Medium,Non-Estate,Far,Yes,430000
+Lagos,3,2,No,4,Low,Non-Estate,Far,Yes,480000
+Lagos,2,2,No,8,Low,Estate,Near,Yes,450000
+Lagos,2,1,No,16,Medium,Estate,Far,No,480000
+Abuja,3,3,Yes,20,Medium,Non-Estate,Far,No,965000
+Lagos,5,3,No,16,Low,Non-Estate,Near,Yes,970000
+Abuja,1,1,No,12,Medium,Non-Estate,Near,No,450000
+Abuja,4,3,Yes,12,Medium,Estate,Far,No,1215000
+Port Harcourt,3,2,No,16,Low,Estate,Near,Yes,610000
+Lagos,3,2,No,8,Medium,Non-Estate,Far,Yes,490000
+Ibadan,3,2,Yes,16,Low,Non-Estate,Near,No,450000
+Port Harcourt,1,1,Yes,16,Low,Estate,Near,Yes,455000
+Lagos,1,1,No,16,Medium,Non-Estate,Far,No,315000
+Benin,3,2,No,12,Low,Non-Estate,Near,Yes,310000
+Benin,2,1,No,20,Low,Estate,Far,Yes,280000
+Lagos,4,3,No,8,Medium,Estate,Near,Yes,835000
+Lagos,2,2,No,8,High,Estate,Near,No,595000
+Ibadan,1,1,No,16,Medium,Estate,Near,Yes,230000
+Ibadan,3,2,No,12,High,Non-Estate,Near,No,360000
+Lagos,2,2,No,20,High,Estate,Near,Yes,920000
+Lagos,3,2,Yes,8,High,Estate,Far,Yes,820000
+Abuja,3,2,No,8,High,Non-Estate,Far,No,685000
+Abuja,4,3,No,20,Medium,Non-Estate,Far,Yes,1090000
+Port Harcourt,3,2,Yes,12,Medium,Non-Estate,Near,No,640000
+Abuja,3,3,No,12,Low,Estate,Far,Yes,930000
+Abuja,3,3,No,8,Medium,Non-Estate,Far,No,600000
+Ibadan,4,3,No,8,High,Non-Estate,Near,No,390000
+Lagos,2,2,No,16,Medium,Non-Estate,Near,No,575000
+Lagos,1,1,No,4,Medium,Non-Estate,Near,Yes,260000
+Ibadan,2,1,No,20,Medium,Non-Estate,Near,No,255000
+Benin,2,1,Yes,16,Medium,Non-Estate,Far,Yes,265000
+Abuja,3,2,Yes,4,Medium,Non-Estate,Near,Yes,710000
+Abuja,3,3,No,16,Medium,Estate,Far,Yes,930000
+Lagos,3,3,No,12,Medium,Estate,Near,Yes,770000
+Abuja,1,1,Yes,4,Medium,Estate,Near,No,395000
+Abuja,3,2,Yes,8,High,Estate,Near,No,1110000
+Lagos,2,1,No,12,High,Estate,Far,Yes,515000
+Lagos,3,2,No,16,Low,Non-Estate,Near,No,770000
+Abuja,3,2,No,12,High,Estate,Far,Yes,895000
+Lagos,2,1,No,12,Medium,Non-Estate,Near,No,500000
+Abuja,1,1,No,16,Medium,Non-Estate,Far,No,435000
+Lagos,1,1,Yes,16,Medium,Estate,Far,No,470000
+Abuja,4,2,No,12,Medium,Non-Estate,Far,Yes,935000
+Lagos,4,2,Yes,16,Low,Estate,Near,No,1295000
+Benin,3,3,No,8,Medium,Non-Estate,Near,Yes,255000
+Port Harcourt,1,1,No,20,Medium,Non-Estate,Near,No,380000
+Port Harcourt,2,1,Yes,12,Medium,Estate,Far,Yes,450000
+Ibadan,3,2,No,16,Medium,Non-Estate,Near,No,335000
+Abuja,3,2,No,12,Medium,Non-Estate,Near,Yes,840000
+Lagos,1,1,Yes,8,Medium,Estate,Near,No,405000
+Abuja,1,1,No,12,High,Non-Estate,Near,No,475000
+Port Harcourt,3,2,No,8,Medium,Non-Estate,Far,No,475000
+Ibadan,2,2,No,16,Low,Estate,Far,No,330000
+Abuja,2,2,No,12,Medium,Non-Estate,Near,No,575000
+Lagos,1,1,Yes,16,Medium,Estate,Far,No,575000
+Lagos,3,3,No,16,Medium,Non-Estate,Far,Yes,715000
+Abuja,4,3,Yes,16,Low,Estate,Near,No,1320000
+Port Harcourt,5,3,No,8,Medium,Non-Estate,Far,Yes,690000
+Port Harcourt,3,3,No,24,High,Non-Estate,Far,No,790000
+Abuja,3,2,Yes,16,Medium,Estate,Near,No,1150000
+Ilorin,1,1,Yes,16,Medium,Estate,Far,Yes,185000
+Port Harcourt,3,3,No,8,High,Estate,Near,No,635000
+Lagos,2,1,No,12,High,Non-Estate,Near,No,545000
+Lagos,3,2,Yes,4,Medium,Estate,Far,Yes,820000
+Lagos,2,1,No,12,Medium,Non-Estate,Far,Yes,460000
+Lagos,2,1,Yes,4,High,Non-Estate,Far,Yes,485000
+Lagos,1,1,Yes,12,Medium,Non-Estate,Near,No,460000
+Lagos,2,2,No,12,Low,Estate,Far,Yes,515000
+Lagos,1,1,Yes,8,Medium,Estate,Near,No,485000
+Lagos,2,2,No,12,Medium,Non-Estate,Near,Yes,460000
+Benin,5,4,No,20,High,Non-Estate,Near,Yes,615000
+Lagos,2,2,No,4,Low,Non-Estate,Near,No,340000
+Abuja,3,2,No,16,Low,Non-Estate,Near,Yes,710000
+Abuja,4,3,No,4,High,Estate,Far,No,975000
+Ilorin,5,4,No,0,High,Non-Estate,Far,Yes,270000
+Lagos,3,3,No,4,Medium,Estate,Far,Yes,685000
+Abuja,4,4,No,16,Medium,Non-Estate,Far,Yes,1095000
+Ilorin,2,1,No,12,Medium,Non-Estate,Near,No,150000
+Benin,2,1,Yes,20,Medium,Estate,Far,Yes,360000
+Ibadan,2,2,No,12,High,Non-Estate,Far,Yes,300000
+Lagos,3,2,No,0,Low,Non-Estate,Near,Yes,490000
+Lagos,3,3,No,16,Low,Non-Estate,Far,Yes,730000
+Port Harcourt,2,1,No,4,Low,Estate,Near,No,295000
+Benin,1,1,No,16,Medium,Estate,Near,No,195000
+Port Harcourt,3,3,No,4,Low,Estate,Near,Yes,490000
+Port Harcourt,1,1,Yes,8,Low,Estate,Far,Yes,325000
+Lagos,3,2,No,16,High,Non-Estate,Far,No,845000
+Ibadan,3,2,Yes,24,Low,Non-Estate,Near,Yes,515000
+Lagos,3,3,No,8,High,Estate,Near,Yes,885000
+Abuja,3,2,No,16,Medium,Non-Estate,Far,Yes,755000
+Abuja,4,4,Yes,4,Medium,Non-Estate,Far,Yes,870000
+Abuja,2,1,Yes,16,Low,Estate,Near,Yes,840000
+Lagos,3,2,No,16,Low,Estate,Near,Yes,840000
+Lagos,3,3,Yes,4,Medium,Estate,Far,Yes,750000
+Port Harcourt,2,1,Yes,8,Medium,Non-Estate,Near,Yes,430000
+Lagos,1,1,No,4,High,Non-Estate,Near,No,345000
+Port Harcourt,2,1,Yes,8,High,Non-Estate,Near,No,415000
+Lagos,2,1,No,8,Medium,Estate,Far,No,425000
+Abuja,3,2,No,12,Medium,Non-Estate,Far,No,745000
+Abuja,4,4,Yes,24,High,Estate,Near,Yes,2570000
+Lagos,2,2,No,0,Medium,Non-Estate,Near,Yes,360000
+Abuja,1,1,No,12,High,Non-Estate,Near,No,500000
+Lagos,5,3,No,12,High,Estate,Near,Yes,1235000
+Lagos,1,1,No,20,Low,Non-Estate,Near,Yes,375000
+Ilorin,2,1,No,12,Medium,Non-Estate,Near,Yes,185000
+Abuja,3,2,No,12,Medium,Non-Estate,Near,Yes,865000
+Ibadan,3,3,Yes,12,Medium,Estate,Near,No,465000
+Lagos,1,1,Yes,8,Medium,Non-Estate,Far,No,310000
+Port Harcourt,1,1,No,4,High,Non-Estate,Far,No,205000
+Ibadan,1,1,Yes,12,Medium,Non-Estate,Near,No,205000
+Port Harcourt,3,2,No,4,Low,Estate,Near,Yes,510000
+Abuja,3,2,No,12,Low,Non-Estate,Near,No,705000
+Abuja,2,1,Yes,8,Medium,Estate,Far,Yes,670000
+Abuja,3,2,No,12,Medium,Non-Estate,Near,No,755000
+Benin,4,4,Yes,4,Medium,Estate,Near,Yes,515000
+Ibadan,1,1,No,20,Medium,Estate,Far,No,200000
+Ilorin,2,2,No,20,Low,Non-Estate,Far,No,195000
+Lagos,3,2,No,4,Low,Non-Estate,Near,Yes,580000
+Ibadan,2,2,No,8,Medium,Non-Estate,Near,Yes,225000
+Benin,2,1,Yes,12,Medium,Non-Estate,Far,Yes,270000
+Lagos,3,3,No,4,Medium,Estate,Far,Yes,655000
+Lagos,4,2,No,8,High,Estate,Near,Yes,830000
+Ibadan,4,3,No,8,High,Non-Estate,Far,No,375000
+Port Harcourt,3,3,No,20,Low,Estate,Near,Yes,785000
+Ibadan,3,2,No,20,Medium,Non-Estate,Far,Yes,385000
+Lagos,2,1,No,12,Medium,Non-Estate,Near,No,475000
+Ibadan,3,2,No,12,High,Non-Estate,Far,Yes,340000
+Lagos,2,2,Yes,20,High,Non-Estate,Far,Yes,890000
+Lagos,2,1,No,20,Low,Estate,Near,No,575000
+Lagos,3,2,No,24,Low,Non-Estate,Far,No,715000
+Ibadan,3,2,No,4,Medium,Non-Estate,Near,Yes,270000
+Port Harcourt,2,1,Yes,4,Medium,Non-Estate,Near,Yes,415000
+Abuja,4,4,No,16,Medium,Non-Estate,Near,Yes,1030000
+Abuja,1,1,Yes,12,Low,Non-Estate,Far,Yes,415000
+Benin,2,1,No,0,Medium,Non-Estate,Near,Yes,135000
+Abuja,1,1,No,4,Medium,Estate,Far,No,295000
+Ibadan,3,2,No,20,Low,Non-Estate,Far,No,320000
+Abuja,3,3,No,20,Low,Estate,Near,Yes,1120000
+Abuja,2,1,Yes,8,Medium,Estate,Near,No,745000
+Abuja,3,3,Yes,20,Medium,Estate,Far,Yes,1385000
+Abuja,2,1,No,12,Medium,Estate,Far,Yes,600000
+Ibadan,3,3,Yes,16,Low,Estate,Near,No,460000
+Abuja,2,1,No,12,Low,Non-Estate,Near,No,585000
+Lagos,2,1,Yes,4,Medium,Estate,Near,Yes,515000
+Benin,4,3,No,12,Medium,Non-Estate,Near,Yes,395000
+Abuja,2,1,No,12,Low,Estate,Near,No,665000
+Abuja,1,1,No,12,Medium,Non-Estate,Near,Yes,435000
+Benin,3,2,No,4,Low,Estate,Near,Yes,235000
+Port Harcourt,5,4,No,24,Low,Estate,Near,Yes,1185000
+Lagos,2,1,No,8,Low,Estate,Far,No,370000
+Benin,1,1,No,4,Low,Non-Estate,Far,Yes,115000
+Port Harcourt,2,1,No,12,Medium,Non-Estate,Near,No,390000
+Abuja,3,2,No,12,Medium,Estate,Far,Yes,880000
+Lagos,2,1,Yes,12,High,Estate,Near,Yes,695000
+Ibadan,3,3,No,16,Low,Estate,Far,No,435000
+Port Harcourt,5,3,Yes,12,Low,Non-Estate,Far,Yes,975000
+Abuja,2,2,No,12,Medium,Non-Estate,Far,Yes,500000
+Benin,2,2,No,16,High,Estate,Near,Yes,315000
+Ibadan,2,1,Yes,0,Medium,Estate,Near,Yes,265000
+Lagos,1,1,Yes,12,Medium,Non-Estate,Near,No,430000
+Abuja,4,2,Yes,20,Medium,Estate,Near,Yes,1435000
+Lagos,2,1,No,0,Low,Non-Estate,Near,No,275000
+Ibadan,2,2,No,12,High,Estate,Near,No,370000
+Lagos,3,3,No,20,Medium,Non-Estate,Far,Yes,720000
+Port Harcourt,2,1,No,8,High,Non-Estate,Near,Yes,365000
+Ibadan,3,2,No,12,Medium,Non-Estate,Near,Yes,385000
+Benin,1,1,Yes,24,Medium,Non-Estate,Near,Yes,260000
+Abuja,4,2,No,4,Low,Non-Estate,Near,No,705000
+Ibadan,4,3,Yes,4,Medium,Non-Estate,Far,Yes,415000
+Lagos,3,2,Yes,20,Low,Estate,Near,No,1080000
+Ibadan,5,4,Yes,20,Medium,Non-Estate,Near,Yes,875000
+Lagos,2,1,No,12,Medium,Non-Estate,Near,Yes,565000
+Abuja,2,1,Yes,12,High,Non-Estate,Far,Yes,685000
+Ibadan,3,2,Yes,16,Medium,Estate,Near,Yes,505000
+Lagos,3,2,Yes,16,Medium,Non-Estate,Far,No,710000
+Lagos,2,1,Yes,8,Low,Non-Estate,Near,No,530000
+Ibadan,2,2,No,0,Medium,Non-Estate,Far,Yes,180000
+Ibadan,1,1,No,12,Low,Estate,Near,No,170000
+Port Harcourt,2,1,No,20,Medium,Estate,Near,No,500000
+Port Harcourt,2,1,Yes,20,High,Estate,Near,No,670000
+Abuja,3,2,Yes,24,Medium,Non-Estate,Near,No,1135000
+Lagos,2,2,No,20,Low,Non-Estate,Near,No,655000
+Abuja,1,1,Yes,12,Medium,Non-Estate,Near,Yes,545000
+Lagos,3,3,No,12,High,Non-Estate,Near,Yes,705000
+Benin,3,2,Yes,16,Medium,Non-Estate,Near,Yes,370000
+Port Harcourt,4,3,No,16,Low,Non-Estate,Far,No,555000
+Abuja,3,3,Yes,12,High,Non-Estate,Far,No,1110000
+Abuja,2,1,No,4,High,Non-Estate,Near,No,490000
+Benin,4,3,No,20,Low,Non-Estate,Near,No,470000
+Lagos,3,2,No,12,High,Non-Estate,Near,Yes,830000
+Port Harcourt,1,1,Yes,8,Medium,Estate,Near,No,355000
+Abuja,3,2,No,12,Medium,Estate,Far,No,855000
+Port Harcourt,4,3,No,16,Medium,Non-Estate,Far,No,725000
+Lagos,2,2,Yes,8,High,Non-Estate,Near,No,600000
+Benin,2,1,Yes,16,Medium,Non-Estate,Near,Yes,295000
+Benin,1,1,No,8,Low,Estate,Far,Yes,145000
+Port Harcourt,2,1,Yes,4,High,Non-Estate,Near,No,425000
+Port Harcourt,2,1,No,12,Low,Non-Estate,Near,Yes,340000
+Benin,3,2,Yes,16,Medium,Non-Estate,Far,Yes,340000
+Ibadan,1,1,No,24,Medium,Non-Estate,Near,Yes,225000
+Lagos,4,2,Yes,16,Low,Non-Estate,Near,Yes,920000
+Port Harcourt,3,3,No,20,Low,Non-Estate,Far,No,655000
+Port Harcourt,3,2,Yes,4,High,Non-Estate,Near,No,620000
+Abuja,4,2,Yes,4,Medium,Estate,Far,No,1005000
+Ibadan,1,1,Yes,12,Medium,Estate,Near,Yes,270000
+Benin,2,2,No,8,Medium,Estate,Far,No,220000
+Benin,3,3,Yes,16,Medium,Estate,Far,No,495000
+Abuja,4,2,No,16,Medium,Estate,Near,No,1095000
+Lagos,3,2,Yes,24,Medium,Estate,Far,No,1185000
+Ilorin,2,1,Yes,8,Medium,Estate,Far,No,185000
+Ibadan,4,2,No,12,High,Estate,Near,Yes,615000
+Lagos,1,1,No,12,Medium,Estate,Far,Yes,425000
+Benin,4,3,No,8,Low,Estate,Far,No,365000
+Benin,5,3,No,12,High,Non-Estate,Near,No,410000
+Abuja,2,1,No,12,High,Non-Estate,Near,No,580000
+Port Harcourt,3,2,No,12,Low,Estate,Near,Yes,530000
+Abuja,1,1,No,8,High,Non-Estate,Near,No,400000
+Lagos,2,2,No,0,Medium,Non-Estate,Near,Yes,370000
+Abuja,3,2,No,12,Low,Non-Estate,Near,Yes,685000
+Ibadan,3,2,No,8,Low,Estate,Near,Yes,365000
+Lagos,4,3,No,0,Medium,Non-Estate,Near,No,545000
+Abuja,3,2,Yes,8,High,Estate,Near,Yes,1265000
+Abuja,2,2,Yes,8,Low,Estate,Near,No,645000
+Abuja,4,3,No,8,Medium,Estate,Near,Yes,1000000
+Benin,5,4,Yes,4,Medium,Estate,Far,No,495000
+Abuja,1,1,No,12,Medium,Non-Estate,Near,No,405000
+Abuja,5,3,Yes,16,Low,Non-Estate,Near,No,1285000
+Ibadan,1,1,No,12,Low,Non-Estate,Near,Yes,195000
+Abuja,4,2,Yes,16,Medium,Estate,Near,Yes,1530000
+Lagos,2,1,No,12,High,Estate,Near,No,690000
+Abuja,1,1,Yes,12,Medium,Estate,Far,Yes,610000
+Lagos,2,1,No,16,Medium,Estate,Near,Yes,635000
+Lagos,3,3,No,12,Medium,Non-Estate,Far,Yes,750000
+Abuja,2,1,Yes,16,Medium,Non-Estate,Near,No,820000
+Abuja,1,1,No,12,High,Non-Estate,Near,Yes,535000
+Benin,3,3,Yes,12,High,Non-Estate,Far,Yes,455000
+Abuja,4,3,Yes,16,Low,Non-Estate,Far,No,1270000
+Port Harcourt,2,1,No,4,Medium,Estate,Far,Yes,335000
+Port Harcourt,2,2,No,8,Medium,Non-Estate,Far,Yes,325000
+Lagos,2,1,No,8,Medium,Non-Estate,Near,Yes,500000
+Port Harcourt,1,1,Yes,8,Medium,Non-Estate,Far,No,305000
+Lagos,4,2,No,8,High,Non-Estate,Near,Yes,790000
+Ilorin,4,3,No,12,High,Estate,Far,No,330000
+Lagos,3,3,No,16,Medium,Non-Estate,Near,No,800000
+Abuja,2,1,No,16,High,Non-Estate,Near,Yes,705000
+Lagos,3,3,No,8,High,Non-Estate,Far,No,575000
+Ilorin,3,2,Yes,24,High,Non-Estate,Near,Yes,385000
+Abuja,4,2,Yes,12,High,Estate,Near,Yes,1655000
+Port Harcourt,3,2,No,8,Medium,Non-Estate,Near,No,440000
+Lagos,3,2,No,16,Medium,Estate,Far,No,755000
+Ibadan,3,3,Yes,16,High,Estate,Far,Yes,670000
+Lagos,2,2,Yes,16,High,Non-Estate,Far,Yes,830000
+Benin,5,3,No,4,High,Estate,Far,Yes,390000
+Lagos,3,2,No,12,Low,Non-Estate,Near,Yes,565000
+Lagos,3,2,Yes,20,Medium,Non-Estate,Near,No,995000
+Lagos,2,1,Yes,12,Low,Estate,Near,No,690000
+Abuja,3,2,No,16,Medium,Non-Estate,Near,Yes,760000
+Port Harcourt,3,2,No,12,Low,Non-Estate,Near,Yes,495000
+Lagos,2,1,No,16,Low,Estate,Near,Yes,665000
+Ibadan,1,1,No,8,Low,Non-Estate,Near,Yes,180000
+Abuja,3,2,No,12,Medium,Non-Estate,Far,Yes,705000
+Abuja,3,2,No,4,Medium,Non-Estate,Near,Yes,540000
+Abuja,3,3,No,16,Low,Non-Estate,Far,Yes,745000
+Abuja,2,1,Yes,16,Medium,Non-Estate,Far,Yes,665000
+Port Harcourt,3,3,No,0,Low,Non-Estate,Far,No,315000
+Lagos,1,1,No,16,High,Non-Estate,Far,Yes,420000
+Lagos,2,1,No,12,Medium,Estate,Near,No,555000
+Benin,2,1,Yes,4,Medium,Non-Estate,Far,No,165000
+Benin,2,1,No,12,High,Estate,Far,No,275000
+Abuja,2,2,No,4,Medium,Non-Estate,Near,No,480000
+Lagos,2,1,Yes,12,Medium,Non-Estate,Far,No,560000
+Port Harcourt,1,1,No,8,Medium,Non-Estate,Near,No,285000
+Abuja,2,2,No,16,High,Estate,Near,Yes,910000
+Lagos,3,2,No,16,Low,Non-Estate,Near,No,760000
+Lagos,2,1,No,12,High,Estate,Far,No,535000
+Ibadan,2,1,No,0,High,Non-Estate,Far,Yes,175000
+Port Harcourt,4,3,No,20,Medium,Non-Estate,Far,No,745000
+Lagos,1,1,Yes,16,Medium,Non-Estate,Far,Yes,460000
+Lagos,3,2,Yes,0,Medium,Estate,Near,Yes,625000
+Lagos,1,1,No,16,Low,Non-Estate,Near,Yes,400000
+Port Harcourt,1,1,No,8,Low,Non-Estate,Far,No,185000
+Lagos,3,2,No,12,High,Non-Estate,Near,No,780000
+Lagos,3,3,No,12,Medium,Non-Estate,Near,No,680000
+Ibadan,4,2,Yes,12,Medium,Estate,Near,No,610000
+Lagos,3,3,No,20,High,Non-Estate,Near,Yes,985000
+Port Harcourt,5,3,Yes,12,Medium,Non-Estate,Far,No,1040000
+Lagos,1,1,No,4,Low,Non-Estate,Near,Yes,260000
+Lagos,1,1,No,20,Medium,Non-Estate,Far,No,435000
+Lagos,1,1,No,20,Medium,Estate,Far,Yes,400000
+Ibadan,2,1,Yes,16,Low,Non-Estate,Near,Yes,350000
+Benin,3,2,Yes,12,High,Estate,Near,No,450000
+Ibadan,3,3,No,4,Low,Non-Estate,Near,No,295000
+Abuja,1,1,No,16,Medium,Non-Estate,Far,Yes,455000
+Port Harcourt,4,3,No,4,Low,Non-Estate,Near,No,555000
+Lagos,4,4,Yes,4,Medium,Non-Estate,Near,Yes,820000
+Lagos,2,2,No,12,Medium,Estate,Far,Yes,620000
+Benin,1,1,No,4,Medium,Estate,Near,No,125000
+Lagos,2,1,Yes,0,High,Estate,Far,Yes,450000
+Lagos,1,1,No,12,Low,Estate,Far,No,320000
+Lagos,1,1,Yes,4,High,Non-Estate,Near,Yes,410000
+Lagos,3,2,No,4,Medium,Estate,Far,Yes,620000
+Lagos,2,1,No,4,High,Non-Estate,Near,Yes,415000
+Port Harcourt,2,2,No,8,Medium,Non-Estate,Far,Yes,315000
+Abuja,5,3,No,16,Low,Non-Estate,Far,Yes,1195000
+Benin,3,3,No,16,Low,Non-Estate,Near,No,355000
+Ibadan,4,2,Yes,12,High,Estate,Near,No,680000
+Abuja,1,1,No,12,High,Estate,Far,No,505000
+Lagos,2,1,No,0,Medium,Estate,Near,No,385000
+Abuja,3,2,No,4,Medium,Non-Estate,Far,Yes,620000
+Port Harcourt,1,1,Yes,8,Medium,Non-Estate,Near,Yes,370000
+Lagos,1,1,No,12,High,Estate,Near,Yes,480000
+Port Harcourt,3,2,Yes,16,High,Non-Estate,Far,Yes,770000
+Abuja,3,2,Yes,12,High,Estate,Near,No,1340000
+Port Harcourt,2,1,No,8,High,Non-Estate,Far,Yes,430000
+Abuja,2,1,Yes,4,High,Non-Estate,Near,Yes,575000
+Lagos,2,1,No,16,Low,Non-Estate,Near,Yes,530000
+Benin,1,1,No,8,High,Non-Estate,Far,Yes,160000
+Ibadan,2,1,No,16,Medium,Non-Estate,Near,Yes,285000
+Lagos,2,1,No,12,High,Non-Estate,Far,No,485000
+Benin,1,1,No,16,Medium,Estate,Far,Yes,190000
+Abuja,5,4,Yes,20,Low,Non-Estate,Far,No,1475000
+Benin,3,2,No,20,Medium,Non-Estate,Far,Yes,310000
+Ibadan,3,2,No,12,Medium,Estate,Near,No,440000
+Abuja,2,2,No,12,Low,Non-Estate,Far,No,530000
+Lagos,2,1,No,8,Medium,Estate,Near,No,545000
+Lagos,2,2,Yes,20,Medium,Estate,Near,Yes,1000000
+Abuja,1,1,No,12,Medium,Non-Estate,Near,Yes,430000
+Port Harcourt,2,2,Yes,4,Medium,Non-Estate,Near,No,445000
+Lagos,3,2,No,12,Low,Estate,Far,Yes,645000
+Lagos,3,3,Yes,4,High,Non-Estate,Near,Yes,860000
+Ibadan,3,3,No,12,High,Non-Estate,Near,Yes,435000
+Ilorin,2,1,No,12,Low,Estate,Near,No,185000
+Abuja,4,3,No,8,High,Non-Estate,Near,Yes,930000
+Lagos,1,1,No,4,Medium,Non-Estate,Far,No,235000
+Lagos,2,1,No,20,Low,Estate,Near,No,580000
+Lagos,2,1,No,16,Medium,Non-Estate,Near,Yes,560000
+Benin,3,2,No,16,Medium,Estate,Near,Yes,420000
+Lagos,5,3,No,8,Medium,Non-Estate,Near,Yes,1055000
+Port Harcourt,2,1,No,16,High,Non-Estate,Near,Yes,455000
+Lagos,4,3,Yes,12,Medium,Estate,Near,Yes,1190000
+Port Harcourt,4,3,No,8,Low,Non-Estate,Near,Yes,520000
+Port Harcourt,2,2,Yes,4,High,Non-Estate,Near,No,450000
+Ibadan,2,1,No,8,Low,Estate,Near,No,265000
+Lagos,2,1,No,4,Medium,Non-Estate,Far,Yes,410000
+Lagos,5,3,No,24,Low,Estate,Near,No,1290000
+Lagos,2,1,No,0,Medium,Non-Estate,Far,No,285000
+Benin,3,3,No,12,Medium,Non-Estate,Far,Yes,265000
+Benin,2,2,Yes,12,Low,Non-Estate,Near,Yes,260000
+Port Harcourt,3,2,No,8,Medium,Non-Estate,Far,No,470000
+Port Harcourt,2,2,Yes,12,Low,Non-Estate,Far,No,465000
+Port Harcourt,3,2,No,4,Medium,Non-Estate,Far,No,415000
+Lagos,4,3,Yes,16,Medium,Non-Estate,Near,Yes,1240000
+Benin,4,2,No,8,Low,Non-Estate,Near,No,265000
+Abuja,4,4,No,12,High,Non-Estate,Near,No,1070000
+Abuja,1,1,Yes,16,Low,Estate,Near,Yes,530000
+Abuja,3,3,No,20,Low,Non-Estate,Far,No,905000
+Lagos,1,1,Yes,16,Medium,Non-Estate,Far,Yes,505000
+Lagos,2,1,No,12,Medium,Non-Estate,Near,Yes,535000
+Ibadan,3,2,No,8,Medium,Non-Estate,Far,Yes,255000
+Lagos,2,2,Yes,12,Low,Estate,Far,No,690000
+Port Harcourt,3,2,Yes,16,High,Non-Estate,Near,No,700000
+Lagos,5,3,No,20,Medium,Estate,Near,No,1200000
+Abuja,1,1,Yes,4,Low,Non-Estate,Near,No,365000
+Lagos,3,2,No,8,Medium,Non-Estate,Far,Yes,560000
+Abuja,2,1,Yes,16,High,Non-Estate,Far,No,860000
+Ibadan,1,1,Yes,12,Medium,Non-Estate,Near,No,230000
+Lagos,2,1,No,8,Low,Non-Estate,Near,No,360000
+Port Harcourt,4,3,Yes,12,Medium,Non-Estate,Far,Yes,745000
+Abuja,4,4,No,12,Low,Non-Estate,Far,No,840000
+Port Harcourt,4,4,Yes,24,Medium,Estate,Near,Yes,1240000
+Benin,5,4,Yes,12,High,Non-Estate,Near,No,600000
+Ibadan,2,1,No,8,Medium,Non-Estate,Far,No,215000
+Lagos,2,2,No,4,Medium,Non-Estate,Near,No,375000
+Lagos,3,2,No,0,High,Non-Estate,Near,Yes,595000
+Lagos,2,1,Yes,12,Medium,Non-Estate,Far,Yes,570000
+Port Harcourt,2,2,No,12,Medium,Estate,Near,Yes,465000
+Lagos,2,2,No,8,Medium,Estate,Far,No,475000
+Abuja,3,3,Yes,16,Medium,Non-Estate,Near,No,1150000
+Port Harcourt,3,3,No,16,Medium,Estate,Near,No,700000
+Abuja,2,1,No,8,Medium,Estate,Near,Yes,500000
+Ibadan,2,1,No,8,High,Non-Estate,Near,Yes,295000
+Lagos,3,3,No,24,High,Non-Estate,Near,Yes,935000
+Lagos,3,2,No,8,Medium,Non-Estate,Far,Yes,640000
+Ibadan,2,1,Yes,16,Medium,Estate,Near,No,330000
+Abuja,3,3,No,12,Medium,Non-Estate,Far,No,790000
+Port Harcourt,1,1,Yes,16,Low,Non-Estate,Near,No,365000
+Abuja,2,1,No,16,Medium,Estate,Near,Yes,715000
+Lagos,3,3,No,16,High,Non-Estate,Near,Yes,795000
+Ibadan,3,3,No,20,Medium,Non-Estate,Far,Yes,380000
+Ibadan,2,1,No,20,High,Non-Estate,Near,No,360000
+Port Harcourt,3,2,Yes,12,Low,Estate,Near,No,790000
+Lagos,3,2,No,8,Medium,Non-Estate,Far,Yes,570000
+Port Harcourt,3,2,No,8,Medium,Estate,Near,Yes,535000
+Abuja,3,2,No,16,Medium,Estate,Near,No,810000
+Lagos,3,2,No,16,High,Non-Estate,Near,No,855000
+Benin,2,1,Yes,4,High,Non-Estate,Far,Yes,210000
+Lagos,1,1,No,4,Low,Non-Estate,Near,No,225000
+Ilorin,2,2,Yes,16,Low,Non-Estate,Far,Yes,230000
+Abuja,2,1,No,8,Low,Estate,Far,No,490000
+Lagos,3,3,Yes,12,Medium,Non-Estate,Far,Yes,715000
+Abuja,3,3,No,16,Medium,Estate,Near,Yes,925000
+Benin,2,1,No,12,Medium,Non-Estate,Far,Yes,210000
+Ibadan,1,1,Yes,4,Medium,Non-Estate,Near,Yes,160000
+Ibadan,2,1,No,4,Medium,Non-Estate,Near,Yes,225000
+Port Harcourt,2,1,No,8,High,Non-Estate,Near,No,365000
+Port Harcourt,3,3,No,8,Medium,Non-Estate,Far,Yes,425000
+Ibadan,1,1,Yes,12,Medium,Non-Estate,Near,No,240000
+Lagos,3,3,Yes,12,Low,Non-Estate,Near,Yes,870000
+Abuja,4,2,Yes,8,Medium,Non-Estate,Far,Yes,920000
+Lagos,2,2,Yes,4,Medium,Non-Estate,Near,No,490000
+Ilorin,2,1,No,4,Medium,Non-Estate,Near,No,110000
+Benin,1,1,No,24,High,Non-Estate,Far,Yes,225000
+Lagos,3,2,No,12,High,Estate,Far,Yes,790000
+Ibadan,3,3,No,20,High,Estate,Near,No,595000
+Benin,2,2,No,16,Medium,Non-Estate,Near,Yes,260000
+Lagos,3,2,No,12,Medium,Non-Estate,Far,No,625000
+Port Harcourt,4,3,Yes,16,Medium,Non-Estate,Near,Yes,1050000
+Benin,2,1,No,4,Low,Non-Estate,Near,Yes,170000
+Lagos,1,1,No,16,Medium,Estate,Far,Yes,410000
+Port Harcourt,4,3,No,8,Low,Non-Estate,Near,No,555000
+Lagos,3,3,Yes,16,Medium,Non-Estate,Near,Yes,880000
+Benin,4,4,Yes,4,Medium,Non-Estate,Near,Yes,435000
+Ilorin,3,2,Yes,16,High,Non-Estate,Near,No,375000
+Benin,4,2,No,4,Medium,Estate,Far,No,265000
+Abuja,2,1,No,20,High,Estate,Near,Yes,990000
+Benin,3,3,Yes,8,Low,Non-Estate,Near,No,325000
+Ibadan,4,2,No,16,Low,Non-Estate,Far,No,390000
+Abuja,3,2,No,12,Medium,Non-Estate,Near,Yes,660000
+Ibadan,2,2,No,8,Medium,Non-Estate,Far,Yes,220000
+Lagos,2,1,No,12,Low,Estate,Near,No,540000
+Port Harcourt,2,1,Yes,20,Low,Non-Estate,Far,Yes,460000
+Lagos,2,1,No,0,Medium,Non-Estate,Near,Yes,340000
+Lagos,2,1,Yes,20,Medium,Non-Estate,Near,No,810000
+Lagos,3,3,No,12,Medium,Non-Estate,Near,Yes,770000
+Port Harcourt,3,2,No,16,Medium,Non-Estate,Far,No,535000
+Abuja,2,1,No,8,Low,Non-Estate,Far,Yes,455000
+Ibadan,3,3,No,12,High,Estate,Far,Yes,390000
+Lagos,1,1,No,20,Medium,Estate,Near,Yes,565000
+Abuja,1,1,No,12,Medium,Non-Estate,Near,Yes,465000
+Abuja,2,2,No,12,High,Non-Estate,Far,No,645000
+Ibadan,3,2,Yes,0,High,Non-Estate,Far,No,270000
+Abuja,2,1,No,4,Medium,Non-Estate,Far,Yes,380000
+Port Harcourt,2,2,No,12,Medium,Non-Estate,Near,No,365000
+Benin,2,1,No,16,Medium,Non-Estate,Near,Yes,235000
+Port Harcourt,4,2,No,12,Medium,Estate,Near,Yes,690000
+Lagos,1,1,No,4,Medium,Estate,Near,Yes,350000
+Lagos,3,2,No,12,Medium,Estate,Far,Yes,730000
+Benin,3,3,No,8,High,Non-Estate,Far,No,240000
+Lagos,3,2,No,12,Low,Estate,Near,Yes,795000
+Benin,4,2,Yes,20,High,Non-Estate,Near,Yes,545000
+Abuja,1,1,No,16,High,Estate,Near,Yes,655000
+Benin,2,2,No,4,Medium,Non-Estate,Far,No,155000
+Ibadan,4,3,No,20,Medium,Non-Estate,Far,No,455000
+Ilorin,2,2,No,12,Medium,Non-Estate,Near,No,150000
+Abuja,3,2,No,16,High,Estate,Far,Yes,1185000
+Ibadan,3,2,No,4,Low,Estate,Near,No,300000
+Abuja,3,2,No,16,Medium,Non-Estate,Near,Yes,830000
+Abuja,4,3,Yes,8,Medium,Non-Estate,Far,Yes,920000
+Port Harcourt,5,4,No,12,High,Non-Estate,Far,No,940000
+Benin,3,3,No,0,High,Non-Estate,Far,Yes,215000
+Ilorin,2,1,Yes,4,Medium,Estate,Near,Yes,225000
+Ibadan,4,4,No,4,Low,Estate,Near,Yes,480000
+Abuja,1,1,No,8,Medium,Non-Estate,Near,Yes,395000
+Abuja,2,2,No,4,Low,Non-Estate,Near,Yes,530000
+Ibadan,4,2,Yes,16,High,Estate,Near,Yes,675000
+Lagos,2,1,Yes,0,Medium,Non-Estate,Near,Yes,405000
+Lagos,2,1,No,12,High,Non-Estate,Near,No,500000
+Abuja,1,1,Yes,4,Medium,Non-Estate,Near,No,340000
+Lagos,4,3,No,20,Medium,Estate,Far,No,1220000
+Lagos,3,2,Yes,20,Low,Estate,Far,No,850000
+Lagos,3,2,No,8,Medium,Non-Estate,Far,No,595000
+Lagos,2,2,Yes,12,Low,Estate,Near,Yes,785000
+Lagos,3,3,Yes,0,Medium,Estate,Near,Yes,700000
+Ilorin,3,3,No,20,Low,Non-Estate,Near,No,230000
+Abuja,2,1,Yes,12,Medium,Estate,Near,Yes,695000
+Abuja,2,1,No,0,Medium,Non-Estate,Near,Yes,360000
+Port Harcourt,2,1,No,8,Medium,Non-Estate,Near,Yes,355000
+Lagos,5,3,No,4,Low,Non-Estate,Far,No,685000
+Benin,3,2,No,8,Medium,Estate,Far,No,270000
+Ibadan,4,3,Yes,16,Medium,Non-Estate,Near,Yes,670000
+Lagos,2,1,Yes,12,Medium,Non-Estate,Far,Yes,550000
+Abuja,3,2,No,8,Low,Non-Estate,Near,No,565000
+Benin,3,2,No,4,High,Estate,Far,Yes,310000
+Benin,3,3,No,8,High,Estate,Far,Yes,325000
+Abuja,5,4,No,4,Low,Non-Estate,Far,Yes,830000
+Port Harcourt,2,2,No,16,Medium,Non-Estate,Near,No,480000
+Lagos,1,1,Yes,4,Medium,Non-Estate,Near,Yes,405000
+Ilorin,3,2,No,12,Medium,Non-Estate,Near,Yes,260000
+Lagos,3,3,No,8,Low,Non-Estate,Near,Yes,555000
+Benin,3,3,No,8,Low,Non-Estate,Far,No,235000
+Port Harcourt,2,1,No,12,Low,Non-Estate,Far,No,290000
+Port Harcourt,3,2,Yes,12,Medium,Non-Estate,Far,Yes,715000
+Abuja,2,2,Yes,12,High,Estate,Near,No,870000
+Lagos,2,1,No,12,Medium,Non-Estate,Far,Yes,415000
+Lagos,3,3,No,12,High,Non-Estate,Near,Yes,925000
+Lagos,3,2,No,8,Low,Non-Estate,Near,No,630000
+Lagos,2,1,Yes,12,Low,Non-Estate,Far,Yes,580000
+Ibadan,2,1,Yes,16,Medium,Non-Estate,Near,Yes,310000
+Abuja,2,1,No,0,Medium,Estate,Near,Yes,455000
+Lagos,2,2,No,12,Medium,Estate,Near,No,640000
+Ilorin,3,3,No,4,Medium,Non-Estate,Far,No,180000
+Benin,4,3,No,4,Low,Estate,Far,No,260000
+Benin,2,1,No,12,Medium,Non-Estate,Near,No,180000
+Ilorin,3,3,No,20,Medium,Estate,Far,No,335000
+Lagos,4,3,No,20,Medium,Estate,Far,Yes,1130000
+Abuja,4,2,No,4,High,Estate,Far,No,925000
+Ibadan,2,1,Yes,12,Low,Non-Estate,Near,No,280000
+Port Harcourt,5,4,Yes,12,High,Non-Estate,Far,Yes,1175000
+Lagos,2,2,No,4,Medium,Estate,Far,Yes,520000
+Ibadan,2,1,No,16,High,Estate,Near,Yes,350000
+Lagos,1,1,Yes,16,Low,Non-Estate,Near,No,475000
+Lagos,2,2,Yes,20,Medium,Non-Estate,Near,Yes,720000
+Abuja,1,1,No,0,Medium,Non-Estate,Near,Yes,255000
+Port Harcourt,2,1,Yes,8,High,Non-Estate,Near,Yes,555000
+Port Harcourt,2,1,No,16,Medium,Non-Estate,Near,Yes,480000
+Lagos,4,3,Yes,16,Medium,Non-Estate,Near,No,1210000
+Benin,4,2,Yes,20,High,Estate,Near,Yes,625000
+Lagos,2,1,No,4,Medium,Non-Estate,Near,Yes,365000
+Lagos,4,3,Yes,12,Low,Non-Estate,Far,No,1035000
+Benin,4,2,No,12,Medium,Non-Estate,Far,No,290000
+Ilorin,3,3,Yes,0,Medium,Estate,Near,Yes,275000
+Benin,1,1,Yes,12,Medium,Non-Estate,Near,Yes,180000
+Ibadan,3,3,Yes,12,Medium,Non-Estate,Near,No,500000
+Port Harcourt,4,2,Yes,4,High,Non-Estate,Near,Yes,845000
+Port Harcourt,3,2,Yes,8,Medium,Estate,Near,No,575000
+Lagos,2,1,No,12,Low,Estate,Far,Yes,545000
+Abuja,3,3,No,12,Low,Non-Estate,Near,Yes,710000
+Abuja,3,3,Yes,20,High,Non-Estate,Far,Yes,1200000
+Lagos,3,2,No,8,Medium,Estate,Far,Yes,640000
+Ibadan,1,1,No,8,High,Non-Estate,Near,No,185000
+Abuja,2,1,No,24,Medium,Estate,Near,No,765000
+Lagos,4,4,No,20,Medium,Non-Estate,Near,No,1095000
+Lagos,4,3,No,0,Medium,Estate,Near,No,605000
+Port Harcourt,1,1,Yes,16,Medium,Estate,Near,No,370000
+Lagos,5,3,No,4,Medium,Estate,Far,No,855000
+Benin,2,1,No,0,Medium,Estate,Far,No,150000
+Abuja,3,3,No,8,Medium,Estate,Far,Yes,835000
+Abuja,3,2,No,8,High,Non-Estate,Near,Yes,830000
+Port Harcourt,4,2,No,16,High,Non-Estate,Near,No,880000
+Ibadan,4,2,No,16,High,Non-Estate,Near,No,500000
+Abuja,2,2,No,24,High,Estate,Near,No,845000
+Port Harcourt,4,3,No,16,Medium,Estate,Near,No,880000
+Port Harcourt,1,1,No,12,Medium,Non-Estate,Far,Yes,280000
+Lagos,3,3,Yes,16,High,Non-Estate,Near,No,1090000
+Benin,3,2,Yes,24,Medium,Estate,Far,No,505000
+Ibadan,3,2,No,16,Low,Estate,Far,Yes,370000
+Port Harcourt,2,2,No,16,Medium,Non-Estate,Near,No,400000
+Benin,4,3,Yes,20,Low,Non-Estate,Far,Yes,525000
+Benin,2,1,No,4,Medium,Non-Estate,Near,No,150000
+Ibadan,1,1,No,16,Medium,Non-Estate,Near,No,190000
+Ibadan,3,3,No,20,Medium,Non-Estate,Far,Yes,410000
+Port Harcourt,2,1,Yes,24,High,Non-Estate,Near,Yes,730000
+Port Harcourt,4,4,Yes,8,High,Estate,Far,Yes,1055000
+Port Harcourt,2,2,No,12,High,Non-Estate,Far,Yes,385000
+Ibadan,2,1,No,16,Medium,Estate,Far,Yes,340000
+Lagos,4,3,No,8,High,Non-Estate,Far,Yes,890000
+Benin,3,2,No,12,High,Non-Estate,Near,No,310000
+Benin,2,1,No,8,Medium,Non-Estate,Near,Yes,175000
+Lagos,3,3,Yes,8,High,Non-Estate,Near,Yes,815000
+Ibadan,3,3,No,12,Low,Estate,Near,No,410000
+Lagos,3,2,No,12,High,Estate,Near,No,800000
+Abuja,2,1,No,12,Medium,Non-Estate,Far,No,460000
+Ibadan,4,3,No,12,Medium,Non-Estate,Near,No,415000
+Lagos,4,3,No,8,Low,Estate,Far,Yes,825000
+Ibadan,3,2,No,4,Medium,Non-Estate,Far,Yes,270000
+Ibadan,1,1,No,0,Medium,Estate,Near,Yes,155000
+Abuja,4,3,No,4,High,Non-Estate,Near,No,970000
+Lagos,3,2,No,12,High,Estate,Near,Yes,815000
+Lagos,3,2,Yes,16,High,Non-Estate,Near,No,1055000
+Port Harcourt,2,2,Yes,4,Medium,Estate,Near,Yes,430000
+Ilorin,4,4,Yes,4,High,Non-Estate,Near,Yes,370000
+Port Harcourt,3,2,Yes,16,Medium,Estate,Far,No,775000
+Lagos,1,1,No,8,High,Estate,Near,No,370000
+Port Harcourt,2,1,Yes,24,Low,Non-Estate,Far,Yes,550000
+Abuja,4,2,Yes,16,Medium,Non-Estate,Far,Yes,1315000
+Ibadan,1,1,Yes,8,High,Estate,Near,Yes,245000
+Lagos,5,4,No,8,High,Estate,Near,Yes,1275000
+Ibadan,3,2,No,12,Medium,Non-Estate,Far,No,345000
+Abuja,3,2,Yes,4,High,Estate,Far,Yes,940000
+Ilorin,2,1,Yes,4,Low,Non-Estate,Near,Yes,175000
+Abuja,2,1,Yes,4,Medium,Non-Estate,Near,No,590000
+Port Harcourt,4,2,No,16,Medium,Estate,Near,Yes,760000
+Benin,2,2,Yes,12,Low,Non-Estate,Near,Yes,250000
+Lagos,3,2,No,0,Low,Non-Estate,Near,Yes,485000
+Benin,2,1,No,16,Low,Estate,Near,Yes,275000
+Port Harcourt,1,1,Yes,12,Medium,Non-Estate,Far,Yes,290000
+Lagos,1,1,No,12,Low,Non-Estate,Near,No,310000
+Abuja,3,2,Yes,8,Medium,Non-Estate,Near,No,805000
+Ibadan,5,3,No,12,Medium,Non-Estate,Near,Yes,585000
+Lagos,2,2,Yes,24,Medium,Estate,Far,No,855000
+Port Harcourt,2,1,No,4,Medium,Estate,Near,Yes,410000
+Abuja,2,1,No,8,Medium,Estate,Far,Yes,625000
+Port Harcourt,3,2,No,8,Medium,Estate,Near,No,580000
+Lagos,2,1,Yes,8,Medium,Estate,Near,Yes,670000
+Benin,4,3,Yes,8,Medium,Non-Estate,Near,Yes,410000
+Ilorin,3,3,No,16,High,Estate,Far,No,275000
+Ilorin,3,2,No,20,Medium,Estate,Near,Yes,325000
+Ibadan,1,1,No,8,Medium,Non-Estate,Far,Yes,150000
+Lagos,5,3,Yes,12,Medium,Estate,Far,No,1250000
+Ibadan,2,1,Yes,12,Medium,Estate,Far,No,340000
+Lagos,1,1,No,12,High,Estate,Near,No,445000
+Lagos,3,3,Yes,12,Medium,Estate,Far,Yes,1035000
+Abuja,3,2,Yes,4,Medium,Non-Estate,Near,Yes,750000
+Abuja,2,1,Yes,12,Low,Non-Estate,Near,Yes,605000
+Ibadan,2,1,No,12,Medium,Estate,Near,Yes,290000
+Port Harcourt,3,2,No,16,Medium,Estate,Far,Yes,720000
+Abuja,2,1,No,16,High,Estate,Near,No,850000
+Lagos,4,3,No,4,High,Non-Estate,Near,Yes,730000
+Ilorin,3,2,No,4,Medium,Non-Estate,Near,Yes,180000
+Abuja,2,1,No,20,High,Non-Estate,Near,Yes,875000
+Abuja,2,2,Yes,12,Medium,Estate,Near,No,740000
+Lagos,2,1,No,20,High,Estate,Near,No,690000
+Ibadan,3,2,No,4,High,Non-Estate,Near,No,280000
+Port Harcourt,3,2,Yes,12,Low,Non-Estate,Near,Yes,660000
+Lagos,2,1,No,12,Medium,Non-Estate,Far,Yes,445000
+Lagos,3,2,Yes,20,Medium,Estate,Near,Yes,1020000
+Port Harcourt,5,3,No,4,Low,Non-Estate,Near,No,625000
+Port Harcourt,2,1,Yes,8,Medium,Non-Estate,Near,Yes,390000
+Lagos,4,3,Yes,12,High,Non-Estate,Far,Yes,1200000
+Ilorin,2,2,Yes,20,High,Estate,Near,Yes,360000
+Lagos,1,1,No,20,High,Non-Estate,Near,Yes,495000
+Abuja,2,1,No,24,High,Estate,Near,Yes,840000
+Benin,2,2,No,24,High,Non-Estate,Far,Yes,325000
+Abuja,2,1,No,0,Low,Estate,Near,Yes,425000
+Port Harcourt,1,1,No,0,Medium,Non-Estate,Near,Yes,195000
+Abuja,4,3,Yes,4,Low,Non-Estate,Near,Yes,985000
+Lagos,4,2,No,8,Low,Estate,Near,No,795000
+Ilorin,3,2,Yes,16,Low,Non-Estate,Near,Yes,260000
+Abuja,2,1,Yes,20,Medium,Estate,Far,No,765000
+Benin,1,1,No,4,High,Non-Estate,Near,Yes,130000
+Lagos,1,1,Yes,12,High,Estate,Far,Yes,575000
+Lagos,3,3,Yes,20,Medium,Estate,Near,No,1215000
+Lagos,4,3,No,12,High,Non-Estate,Near,No,1030000
+Port Harcourt,2,1,No,4,Medium,Estate,Near,No,370000
+Abuja,1,1,No,12,High,Non-Estate,Near,Yes,520000
+Benin,3,3,No,8,Medium,Non-Estate,Far,Yes,250000
+Abuja,2,2,No,12,Medium,Non-Estate,Near,Yes,580000
+Ilorin,2,1,No,12,High,Non-Estate,Far,Yes,195000
+Lagos,3,2,Yes,0,Medium,Estate,Far,Yes,580000
+Benin,3,3,Yes,24,Medium,Non-Estate,Near,Yes,500000
+Ibadan,1,1,No,12,Medium,Estate,Far,Yes,180000
+Ibadan,1,1,Yes,12,Medium,Non-Estate,Near,No,250000
+Ibadan,5,3,No,24,High,Non-Estate,Near,No,730000
+Ibadan,2,1,No,4,Low,Non-Estate,Far,Yes,165000
+Port Harcourt,1,1,Yes,4,High,Estate,Near,No,380000
+Lagos,2,1,Yes,16,Low,Non-Estate,Near,No,570000
+Lagos,1,1,Yes,8,Medium,Non-Estate,Far,Yes,425000
+Benin,2,2,Yes,16,Low,Non-Estate,Far,Yes,265000
+Port Harcourt,4,3,Yes,8,High,Estate,Near,No,1040000
+Ibadan,2,2,No,0,Low,Non-Estate,Far,Yes,160000
+Abuja,2,2,No,12,Medium,Estate,Near,No,725000
+Lagos,3,2,No,4,Medium,Non-Estate,Far,Yes,560000
+Lagos,3,3,Yes,16,Low,Non-Estate,Near,Yes,1030000
+Port Harcourt,4,3,No,12,High,Estate,Far,No,900000
+Abuja,4,4,No,20,Low,Estate,Near,No,1180000
+Lagos,1,1,No,16,Low,Non-Estate,Far,Yes,395000
+Abuja,3,3,No,4,Medium,Estate,Far,No,695000
+Lagos,2,1,No,16,Medium,Estate,Near,Yes,695000
+Port Harcourt,5,4,No,12,Medium,Non-Estate,Near,No,885000
+Lagos,2,1,No,16,Low,Non-Estate,Far,No,415000
+Ibadan,5,3,Yes,16,Low,Non-Estate,Far,Yes,665000
+Abuja,3,3,No,12,Medium,Estate,Near,Yes,835000
+Abuja,2,1,Yes,12,Medium,Estate,Near,Yes,860000
+Lagos,3,3,No,12,High,Non-Estate,Far,Yes,745000
+Lagos,5,3,No,8,High,Non-Estate,Near,Yes,950000
+Abuja,4,3,Yes,4,Medium,Non-Estate,Near,No,1095000
+Abuja,1,1,Yes,12,Medium,Non-Estate,Far,Yes,535000
+Port Harcourt,3,3,Yes,8,Medium,Non-Estate,Near,Yes,730000
+Lagos,2,1,Yes,4,High,Estate,Near,No,675000
+Port Harcourt,1,1,Yes,0,Medium,Non-Estate,Near,Yes,265000
+Benin,2,1,Yes,12,High,Non-Estate,Far,Yes,295000
+Ibadan,2,1,Yes,8,Medium,Non-Estate,Near,Yes,255000
+Lagos,4,3,Yes,16,Medium,Non-Estate,Far,No,1195000
+Abuja,2,1,No,8,Medium,Non-Estate,Far,Yes,525000
+Lagos,4,3,Yes,12,Medium,Non-Estate,Near,No,1125000
+Lagos,1,1,Yes,12,Low,Estate,Far,Yes,515000
+Ilorin,2,1,No,16,High,Non-Estate,Near,No,205000
+Lagos,2,1,No,8,High,Non-Estate,Far,No,440000
+Abuja,2,1,No,24,High,Non-Estate,Near,No,915000
+Port Harcourt,1,1,Yes,20,Medium,Non-Estate,Far,Yes,395000
+Ibadan,2,2,No,16,Low,Non-Estate,Near,Yes,300000
+Port Harcourt,3,3,No,20,Low,Non-Estate,Near,No,605000
+Lagos,2,1,No,12,Medium,Non-Estate,Far,Yes,475000
+Abuja,2,1,No,12,High,Non-Estate,Near,Yes,690000
+Abuja,2,2,No,16,Medium,Non-Estate,Far,No,610000
+Lagos,4,3,No,16,Low,Non-Estate,Near,No,880000
+Abuja,4,2,No,20,High,Non-Estate,Near,Yes,1210000
+Lagos,2,1,No,16,High,Non-Estate,Far,No,575000
+Lagos,2,1,No,24,Medium,Estate,Near,No,790000
+Abuja,1,1,No,8,Medium,Estate,Far,Yes,335000
+Lagos,5,4,Yes,16,High,Non-Estate,Near,No,1465000
+Port Harcourt,1,1,No,16,Medium,Non-Estate,Near,No,265000
+Port Harcourt,2,1,Yes,16,High,Estate,Far,No,710000
+Ibadan,2,2,No,8,Low,Estate,Near,Yes,285000
+Lagos,2,2,No,16,Medium,Estate,Near,No,725000
+Lagos,2,1,Yes,20,Medium,Non-Estate,Far,Yes,705000
+Lagos,3,3,No,8,High,Non-Estate,Near,Yes,735000
+Port Harcourt,1,1,Yes,12,High,Estate,Near,No,490000
+Ibadan,3,3,No,8,High,Non-Estate,Far,Yes,320000
+Lagos,1,1,Yes,24,Medium,Estate,Far,Yes,600000
+Benin,1,1,No,12,High,Non-Estate,Near,Yes,175000
+Lagos,4,3,No,8,Medium,Non-Estate,Near,Yes,745000
+Abuja,2,1,No,8,Medium,Non-Estate,Far,Yes,455000
+Ibadan,4,2,No,16,Medium,Estate,Near,Yes,465000
+Benin,3,2,Yes,4,High,Estate,Near,No,330000
+Ibadan,1,1,No,12,High,Non-Estate,Far,Yes,185000
+Ibadan,5,3,Yes,20,Medium,Estate,Near,No,950000
+Abuja,2,1,Yes,20,Low,Non-Estate,Near,No,695000
+Ibadan,4,3,Yes,4,High,Non-Estate,Far,Yes,455000
+Lagos,2,1,No,24,Medium,Non-Estate,Far,Yes,520000
+Benin,4,2,No,16,High,Non-Estate,Far,No,395000
+Abuja,1,1,Yes,4,Medium,Estate,Near,No,465000
+Ibadan,3,3,Yes,0,Low,Non-Estate,Near,Yes,345000
+Abuja,3,2,Yes,4,Medium,Non-Estate,Far,No,745000
+Port Harcourt,4,2,No,16,Low,Estate,Near,Yes,740000
+Abuja,4,4,No,0,Medium,Non-Estate,Far,Yes,615000
+Ibadan,4,3,Yes,8,Low,Non-Estate,Near,Yes,435000
+Lagos,4,4,No,16,Low,Non-Estate,Far,Yes,1035000
+Lagos,2,1,Yes,12,Low,Estate,Near,Yes,715000
+Lagos,2,1,No,16,High,Non-Estate,Near,No,510000
+Lagos,2,1,No,16,Medium,Non-Estate,Near,No,460000
+Benin,2,1,No,4,Medium,Estate,Far,Yes,180000
+Lagos,2,1,No,20,High,Non-Estate,Near,No,590000
+Ilorin,3,2,No,8,Medium,Non-Estate,Far,No,200000
+Abuja,2,2,Yes,12,Medium,Non-Estate,Near,Yes,775000
+Lagos,3,2,Yes,12,Medium,Non-Estate,Near,Yes,875000
+Ibadan,2,2,No,4,High,Non-Estate,Far,No,220000
+Port Harcourt,2,2,Yes,24,High,Estate,Near,No,800000
+Abuja,3,2,Yes,12,Medium,Non-Estate,Near,Yes,995000
+Port Harcourt,3,3,No,4,High,Non-Estate,Near,No,535000
+Ibadan,3,3,No,20,Medium,Estate,Far,Yes,455000
+Lagos,3,3,No,12,Medium,Non-Estate,Far,Yes,670000
+Ilorin,2,1,No,16,High,Non-Estate,Near,Yes,235000
+Ilorin,3,3,No,12,Medium,Non-Estate,Near,No,210000
+Port Harcourt,1,1,Yes,16,High,Non-Estate,Near,Yes,460000
+Lagos,2,2,No,0,Low,Non-Estate,Far,Yes,315000
+Port Harcourt,2,1,No,8,Medium,Estate,Near,Yes,435000
+Lagos,1,1,Yes,12,High,Non-Estate,Far,No,390000
+Lagos,2,2,Yes,4,Low,Non-Estate,Near,No,505000
+Lagos,5,4,Yes,16,High,Estate,Far,Yes,1620000
+Abuja,5,4,No,8,High,Estate,Near,No,1230000
+Benin,2,1,No,8,High,Non-Estate,Far,Yes,215000
+Ibadan,1,1,No,0,Medium,Non-Estate,Near,Yes,135000
+Ibadan,2,2,No,16,Medium,Estate,Near,Yes,385000
+Abuja,2,2,Yes,16,High,Estate,Far,Yes,1025000
+Abuja,4,4,No,8,High,Estate,Far,Yes,1180000
+Abuja,1,1,No,12,Medium,Non-Estate,Near,No,415000
+Ilorin,3,2,Yes,8,High,Estate,Far,No,285000
+Lagos,1,1,No,12,Medium,Non-Estate,Near,No,295000
+Benin,5,4,Yes,0,High,Estate,Near,No,475000
+Port Harcourt,2,1,No,12,Low,Non-Estate,Near,No,330000
+Abuja,3,3,No,12,Low,Non-Estate,Near,Yes,750000
+Ibadan,2,1,No,20,Medium,Non-Estate,Far,No,305000
+Abuja,3,2,No,8,Medium,Non-Estate,Near,No,725000
+Benin,2,1,Yes,16,High,Estate,Near,No,415000
+Benin,1,1,No,12,Low,Non-Estate,Near,Yes,170000
+Abuja,4,3,No,20,High,Estate,Near,Yes,1550000
+Lagos,4,2,No,8,Medium,Non-Estate,Far,No,600000
+Port Harcourt,4,2,No,8,Medium,Estate,Far,No,610000
+Benin,3,3,No,20,Medium,Non-Estate,Near,Yes,415000
+Lagos,4,2,Yes,0,Medium,Non-Estate,Near,No,680000
+Port Harcourt,1,1,No,4,Low,Non-Estate,Far,Yes,205000
+Port Harcourt,2,1,No,4,Low,Non-Estate,Near,No,255000
+Ibadan,2,1,No,16,Medium,Non-Estate,Near,Yes,275000
+Lagos,3,3,Yes,0,Low,Non-Estate,Near,Yes,580000
+Ibadan,2,1,Yes,20,Low,Non-Estate,Near,Yes,350000
+Benin,1,1,Yes,12,High,Estate,Far,Yes,260000
+Lagos,3,3,No,0,Low,Non-Estate,Near,Yes,420000
+Lagos,4,2,No,12,Medium,Non-Estate,Far,No,825000
+Ilorin,2,1,No,4,Low,Estate,Near,No,120000
+Lagos,1,1,No,12,Medium,Non-Estate,Near,Yes,410000
+Benin,2,1,Yes,16,Medium,Non-Estate,Far,No,260000
+Abuja,2,2,No,12,Low,Non-Estate,Far,Yes,570000
+Lagos,2,1,No,0,High,Non-Estate,Far,Yes,330000
+Benin,3,2,No,16,High,Non-Estate,Near,Yes,380000
+Abuja,3,2,No,16,Low,Estate,Far,Yes,960000
+Abuja,3,2,No,16,High,Estate,Near,No,950000
+Abuja,2,1,No,16,Medium,Non-Estate,Near,Yes,555000
+Port Harcourt,4,3,No,8,Low,Non-Estate,Far,No,500000
+Lagos,2,1,No,20,Low,Non-Estate,Far,No,450000
+Abuja,2,1,Yes,8,Medium,Non-Estate,Far,No,495000
+Ilorin,4,3,Yes,0,Medium,Estate,Far,No,280000
+Lagos,2,2,Yes,16,Medium,Non-Estate,Near,No,635000
+Port Harcourt,1,1,No,20,High,Estate,Near,No,455000
+Abuja,4,3,Yes,16,Medium,Estate,Far,Yes,1630000
+Ibadan,2,2,Yes,8,Medium,Non-Estate,Near,Yes,320000
+Lagos,3,2,Yes,8,Medium,Estate,Near,No,740000
+Ilorin,1,1,No,12,High,Non-Estate,Near,Yes,145000
+Abuja,3,2,No,20,Low,Estate,Near,No,935000
+Lagos,2,1,No,4,Medium,Estate,Far,Yes,400000
+Lagos,1,1,Yes,16,Medium,Non-Estate,Near,Yes,470000
+Lagos,3,3,Yes,8,Medium,Non-Estate,Near,Yes,920000
+Abuja,2,2,No,16,Medium,Estate,Far,No,725000
+Abuja,2,2,Yes,20,Medium,Non-Estate,Near,Yes,810000
+Ibadan,1,1,Yes,12,Medium,Non-Estate,Far,Yes,215000
+Abuja,1,1,Yes,8,Medium,Non-Estate,Near,Yes,440000
+Lagos,2,1,No,16,Medium,Estate,Far,Yes,665000
+Port Harcourt,1,1,No,12,Low,Non-Estate,Near,Yes,315000
+Ibadan,4,4,Yes,16,Medium,Non-Estate,Near,Yes,625000
+Lagos,1,1,Yes,12,Medium,Estate,Near,Yes,495000
+Lagos,2,2,No,4,Medium,Estate,Near,Yes,505000
+Lagos,1,1,No,16,High,Non-Estate,Far,No,395000
+Ibadan,2,1,No,4,Medium,Estate,Near,No,205000
+Port Harcourt,4,3,No,20,Low,Estate,Far,Yes,895000
+Abuja,2,1,No,8,Medium,Estate,Near,Yes,555000
+Ibadan,5,3,No,16,High,Non-Estate,Far,Yes,645000
+Ibadan,2,1,No,8,High,Non-Estate,Far,No,225000
+Port Harcourt,3,2,No,8,Medium,Estate,Near,Yes,595000
+Benin,3,2,Yes,8,Low,Non-Estate,Near,Yes,325000
+Lagos,4,3,No,16,Medium,Non-Estate,Far,Yes,895000
+Lagos,3,3,No,12,Medium,Estate,Near,Yes,885000
+Lagos,3,2,Yes,20,High,Non-Estate,Near,Yes,1145000
+Lagos,2,1,No,8,Medium,Non-Estate,Far,No,350000
+Abuja,2,1,No,16,Medium,Non-Estate,Far,No,495000
+Benin,4,2,No,16,Medium,Estate,Far,No,365000
+Lagos,2,2,No,4,Medium,Non-Estate,Near,Yes,370000
+Lagos,2,1,No,12,High,Non-Estate,Near,No,575000
+Abuja,3,3,Yes,12,Medium,Non-Estate,Far,Yes,920000
+Benin,2,1,No,8,High,Non-Estate,Near,Yes,190000
+Abuja,5,4,No,8,Medium,Estate,Near,No,1360000
+Abuja,3,2,Yes,16,Low,Non-Estate,Far,No,940000
+Lagos,3,2,Yes,8,Medium,Non-Estate,Near,Yes,750000
+Lagos,4,2,No,16,Low,Estate,Near,Yes,915000
+Ilorin,1,1,Yes,20,Medium,Estate,Far,Yes,175000
+Ilorin,2,1,No,12,Medium,Estate,Near,No,185000
+Lagos,2,1,Yes,12,Medium,Non-Estate,Near,Yes,690000
+Ilorin,2,2,Yes,4,Medium,Non-Estate,Near,Yes,165000
+Port Harcourt,3,2,No,20,Low,Non-Estate,Near,Yes,630000
+Benin,4,2,Yes,8,Medium,Estate,Far,Yes,480000
+Abuja,2,1,No,12,Medium,Non-Estate,Near,Yes,590000
+Abuja,2,1,No,24,High,Non-Estate,Near,No,785000
+Abuja,5,3,Yes,12,Medium,Estate,Near,Yes,1810000
+Port Harcourt,2,2,Yes,16,Medium,Estate,Far,No,650000
+Lagos,2,2,No,12,Low,Estate,Far,Yes,555000
+Lagos,2,1,Yes,4,High,Non-Estate,Near,No,600000
+Abuja,4,3,No,16,Medium,Non-Estate,Near,No,1055000
+Ibadan,3,2,No,0,High,Non-Estate,Far,Yes,285000
+Lagos,3,3,Yes,16,Low,Estate,Near,No,1180000
+Port Harcourt,4,3,No,0,Medium,Non-Estate,Near,Yes,490000
+Ilorin,2,1,Yes,20,Medium,Non-Estate,Near,Yes,265000
+Lagos,2,1,Yes,4,Low,Non-Estate,Near,Yes,485000
+Port Harcourt,4,3,Yes,12,Medium,Estate,Far,Yes,1015000
+Abuja,2,1,No,12,High,Non-Estate,Far,No,625000
+Benin,3,2,No,12,Medium,Non-Estate,Far,No,220000
+Lagos,4,3,No,8,High,Estate,Far,Yes,1030000
+Port Harcourt,3,2,Yes,12,Low,Estate,Far,No,710000
+Ibadan,3,3,Yes,8,Medium,Non-Estate,Far,No,390000
+Benin,4,2,No,12,Medium,Non-Estate,Near,Yes,375000
+Port Harcourt,4,3,No,8,Medium,Non-Estate,Near,Yes,545000
+Abuja,2,1,No,12,High,Estate,Far,Yes,675000
+Port Harcourt,1,1,Yes,8,Low,Non-Estate,Near,No,320000
+Benin,2,1,Yes,24,High,Estate,Near,Yes,510000
+Port Harcourt,3,2,No,12,Medium,Non-Estate,Near,Yes,495000
+Lagos,2,2,No,4,Medium,Non-Estate,Near,No,415000
+Benin,3,2,No,12,High,Non-Estate,Near,No,345000
+Port Harcourt,2,1,No,20,Medium,Estate,Near,Yes,590000
+Port Harcourt,3,2,No,0,High,Non-Estate,Near,No,425000
+Lagos,2,2,No,16,Medium,Non-Estate,Far,No,440000
+Port Harcourt,3,2,No,12,High,Non-Estate,Far,Yes,610000
+Abuja,3,3,No,4,Medium,Non-Estate,Far,No,630000
+Port Harcourt,2,2,No,16,Low,Non-Estate,Far,Yes,440000
+Lagos,2,1,Yes,8,Medium,Non-Estate,Near,Yes,600000
+Port Harcourt,3,3,Yes,8,Low,Estate,Near,Yes,700000
+Ilorin,2,2,No,16,Medium,Non-Estate,Near,Yes,230000
+Lagos,2,1,No,12,Low,Estate,Far,Yes,545000
+Ilorin,5,3,No,20,Low,Non-Estate,Near,Yes,415000
+Abuja,3,2,Yes,12,Low,Non-Estate,Far,No,920000
+Benin,5,3,Yes,16,Medium,Estate,Near,No,750000
+Ibadan,2,1,No,16,Medium,Non-Estate,Far,Yes,285000
+Port Harcourt,2,1,Yes,4,Medium,Non-Estate,Near,Yes,405000
+Ibadan,4,2,Yes,16,Low,Non-Estate,Far,No,490000
+Benin,3,2,No,12,Medium,Non-Estate,Near,Yes,275000
+Abuja,3,2,No,4,Medium,Non-Estate,Near,Yes,575000
+Abuja,2,2,Yes,12,Medium,Non-Estate,Near,Yes,760000
+Port Harcourt,2,2,No,4,High,Estate,Far,No,405000
+Ibadan,1,1,No,16,Medium,Estate,Near,No,205000
+Ibadan,2,1,No,12,Medium,Non-Estate,Far,No,255000
+Ibadan,1,1,No,24,Medium,Non-Estate,Far,Yes,225000
+Abuja,1,1,Yes,4,Low,Estate,Far,No,400000
+Ibadan,5,3,Yes,12,High,Non-Estate,Near,Yes,745000
+Lagos,2,1,Yes,8,High,Estate,Near,Yes,635000
+Abuja,3,3,No,12,Low,Non-Estate,Near,Yes,880000
+Lagos,4,4,Yes,16,Medium,Estate,Far,No,1230000
+Abuja,3,3,No,16,Medium,Non-Estate,Far,Yes,880000
+Abuja,2,2,No,16,Medium,Non-Estate,Far,Yes,640000
+Abuja,3,2,Yes,20,High,Non-Estate,Near,No,1295000
+Port Harcourt,3,2,Yes,4,Low,Non-Estate,Near,No,495000
+Abuja,3,2,No,8,Medium,Non-Estate,Far,No,555000
+Abuja,3,2,No,16,Low,Non-Estate,Near,Yes,755000
+Lagos,5,4,Yes,12,Medium,Non-Estate,Far,No,1220000
+Abuja,3,2,Yes,4,Low,Estate,Near,No,875000
+Lagos,2,1,No,12,High,Non-Estate,Near,No,530000
+Lagos,3,3,Yes,12,Medium,Non-Estate,Far,Yes,765000
+Port Harcourt,1,1,No,8,High,Non-Estate,Near,Yes,260000
+Port Harcourt,4,4,Yes,16,Low,Non-Estate,Near,Yes,1030000
+Port Harcourt,1,1,No,12,Low,Non-Estate,Far,Yes,250000
+Abuja,2,1,Yes,0,Medium,Non-Estate,Far,Yes,405000
+Abuja,4,2,No,4,Medium,Non-Estate,Far,Yes,730000
+Benin,3,2,Yes,20,High,Estate,Far,Yes,485000
+Abuja,2,1,No,24,Medium,Non-Estate,Near,No,700000
+Abuja,2,1,Yes,16,Low,Estate,Near,Yes,805000
+Lagos,4,2,Yes,8,Low,Estate,Near,Yes,1145000
+Abuja,2,2,No,20,Low,Non-Estate,Near,No,610000
+Abuja,4,2,No,16,High,Estate,Near,Yes,1325000
+Abuja,1,1,No,16,Medium,Non-Estate,Far,Yes,475000
+Port Harcourt,3,2,No,16,Medium,Non-Estate,Near,Yes,565000
+Abuja,4,3,No,8,Medium,Non-Estate,Far,No,830000
+Port Harcourt,2,2,No,12,Low,Estate,Near,No,420000
+Ibadan,2,1,No,4,Low,Estate,Near,No,190000
+Ibadan,2,1,No,8,High,Non-Estate,Near,No,260000
+Ibadan,3,3,Yes,16,Medium,Estate,Far,Yes,615000
+Ilorin,3,3,No,20,Medium,Non-Estate,Near,No,280000
+Lagos,3,3,No,16,Low,Non-Estate,Near,No,750000
+Lagos,2,1,Yes,12,Low,Non-Estate,Far,No,535000
+Lagos,2,1,No,4,Medium,Non-Estate,Near,No,370000
+Port Harcourt,1,1,Yes,4,Low,Estate,Near,Yes,325000
+Benin,2,2,No,8,Low,Non-Estate,Far,Yes,170000
+Lagos,3,2,Yes,12,Medium,Estate,Near,No,895000
+Benin,4,4,Yes,12,Low,Non-Estate,Near,No,445000
+Lagos,3,2,No,0,Low,Non-Estate,Far,No,440000
+Benin,2,1,No,24,High,Estate,Near,No,330000
+Abuja,5,3,No,8,Medium,Estate,Near,No,1210000
+Lagos,3,2,No,16,High,Non-Estate,Near,No,740000
+Abuja,4,3,No,12,Medium,Non-Estate,Near,Yes,930000
+Lagos,3,2,Yes,4,Medium,Estate,Near,Yes,815000
+Lagos,2,1,No,16,Low,Non-Estate,Near,No,535000
+Abuja,1,1,No,16,Medium,Non-Estate,Near,No,425000
+Ibadan,3,3,No,12,Low,Non-Estate,Near,No,320000
+Abuja,1,1,Yes,12,Low,Non-Estate,Far,No,485000
+Abuja,2,2,No,4,High,Estate,Far,No,500000
+Port Harcourt,3,2,Yes,16,Medium,Non-Estate,Far,Yes,735000
+Ibadan,3,2,No,20,High,Non-Estate,Near,Yes,505000
+Lagos,3,3,No,4,Medium,Non-Estate,Near,No,585000
+Abuja,2,1,No,8,Medium,Non-Estate,Near,Yes,575000
+Lagos,2,1,No,20,Medium,Non-Estate,Far,No,560000
+Lagos,3,2,Yes,8,Medium,Estate,Near,No,785000
+Port Harcourt,5,4,No,16,Medium,Non-Estate,Near,Yes,925000
+Lagos,3,2,No,12,High,Non-Estate,Near,No,715000
+Abuja,4,4,Yes,12,Low,Estate,Near,Yes,1255000
+Ibadan,3,2,No,12,Medium,Non-Estate,Near,Yes,390000
+Lagos,3,3,No,8,Medium,Estate,Near,Yes,655000
+Port Harcourt,2,2,No,0,Low,Non-Estate,Near,No,285000
+Lagos,3,3,No,16,Medium,Non-Estate,Far,Yes,790000
+Ilorin,3,2,No,16,Medium,Non-Estate,Near,Yes,280000
+Abuja,3,2,Yes,16,Low,Non-Estate,Far,Yes,955000
+Ibadan,2,2,No,12,Low,Non-Estate,Near,Yes,280000
+Port Harcourt,3,2,No,8,Medium,Non-Estate,Near,Yes,460000
+Lagos,2,1,No,0,Medium,Non-Estate,Near,Yes,370000
+Port Harcourt,3,2,Yes,16,Medium,Estate,Near,No,775000
+Ilorin,2,2,Yes,12,Low,Estate,Near,Yes,280000
+Port Harcourt,4,2,Yes,8,Low,Non-Estate,Near,No,605000
+Ibadan,2,1,No,4,High,Non-Estate,Near,Yes,220000
+Benin,1,1,No,4,High,Non-Estate,Near,No,135000
+Lagos,2,1,No,8,Medium,Non-Estate,Near,Yes,480000
+Lagos,3,3,No,16,High,Non-Estate,Near,No,930000
+Port Harcourt,2,1,No,20,Medium,Estate,Near,No,475000
+Abuja,2,1,No,20,Low,Non-Estate,Near,No,550000
+Ibadan,3,3,Yes,20,Low,Non-Estate,Far,No,440000
+Benin,2,2,No,20,High,Non-Estate,Near,Yes,310000
+Abuja,4,2,No,12,Medium,Non-Estate,Near,No,905000
+Lagos,4,4,No,8,High,Non-Estate,Far,Yes,870000
+Ibadan,3,3,No,16,High,Non-Estate,Far,No,435000
+Lagos,2,2,No,8,Medium,Non-Estate,Far,No,415000
+Ibadan,3,2,No,8,Low,Non-Estate,Far,No,300000
+Abuja,1,1,No,8,Low,Non-Estate,Far,Yes,305000
+Port Harcourt,2,2,Yes,12,Low,Estate,Far,Yes,560000
+Lagos,2,2,No,8,Low,Estate,Near,Yes,540000
+Port Harcourt,4,3,No,4,Medium,Estate,Far,Yes,560000
+Abuja,1,1,Yes,12,Low,Non-Estate,Far,Yes,440000
+Port Harcourt,3,2,No,20,Low,Estate,Far,Yes,630000
+Lagos,3,2,No,12,Medium,Non-Estate,Far,No,540000
+Ibadan,2,1,Yes,20,Medium,Non-Estate,Near,No,360000
+Benin,1,1,No,4,Medium,Non-Estate,Near,No,115000
+Lagos,5,4,No,4,Medium,Estate,Far,Yes,845000
+Lagos,3,2,No,12,Medium,Estate,Near,No,730000
+Lagos,3,3,Yes,12,High,Estate,Far,No,1025000
+Port Harcourt,2,1,No,16,Low,Non-Estate,Near,No,350000
+Port Harcourt,2,1,Yes,16,Low,Non-Estate,Far,Yes,425000
+Abuja,2,1,No,16,High,Non-Estate,Far,Yes,690000
+Lagos,1,1,No,20,Medium,Non-Estate,Near,No,435000
+Abuja,1,1,No,8,High,Non-Estate,Near,Yes,480000
+Port Harcourt,4,4,Yes,8,Low,Estate,Near,No,770000
+Abuja,2,1,Yes,12,High,Non-Estate,Far,Yes,665000
+Ilorin,2,1,Yes,4,High,Non-Estate,Far,Yes,155000
+Lagos,3,2,Yes,8,Medium,Non-Estate,Near,No,730000
+Port Harcourt,3,3,No,8,Low,Estate,Near,Yes,590000
+Abuja,1,1,No,8,High,Non-Estate,Far,Yes,380000
+Abuja,3,2,No,4,High,Estate,Far,Yes,820000
+Ibadan,1,1,No,0,High,Non-Estate,Near,No,150000
+Port Harcourt,1,1,Yes,16,Low,Non-Estate,Near,Yes,430000
+Ilorin,1,1,Yes,12,High,Non-Estate,Far,No,140000
+Lagos,4,3,Yes,16,Low,Non-Estate,Near,Yes,1000000
+Lagos,1,1,No,16,Low,Estate,Far,No,355000
+Ibadan,1,1,No,4,Medium,Non-Estate,Near,No,120000
+Port Harcourt,2,1,Yes,8,Medium,Estate,Far,Yes,535000
+Lagos,4,3,Yes,4,Medium,Non-Estate,Near,Yes,825000
+Lagos,2,1,No,16,Medium,Non-Estate,Far,Yes,510000
+Lagos,2,1,No,16,Low,Non-Estate,Near,No,465000
+Benin,1,1,No,8,Medium,Non-Estate,Near,Yes,130000
+Lagos,2,1,No,8,High,Non-Estate,Near,Yes,455000
+Abuja,3,3,Yes,24,Low,Non-Estate,Far,Yes,1120000
+Lagos,3,3,No,12,Medium,Estate,Near,Yes,860000
+Abuja,2,1,No,16,Medium,Non-Estate,Near,Yes,710000
+Lagos,2,1,Yes,8,Medium,Non-Estate,Near,No,540000
+Abuja,1,1,No,8,Medium,Non-Estate,Near,No,355000
+Lagos,2,1,No,16,Medium,Non-Estate,Near,Yes,470000
+Ibadan,1,1,Yes,16,Low,Non-Estate,Near,No,255000
+Lagos,3,3,No,16,High,Non-Estate,Far,No,695000
+Abuja,5,4,Yes,12,Medium,Estate,Far,No,1790000
+Benin,5,3,Yes,12,Medium,Non-Estate,Far,Yes,520000
+Port Harcourt,4,4,No,16,Medium,Non-Estate,Far,Yes,685000
+Abuja,3,3,Yes,8,Medium,Non-Estate,Near,No,875000
+Abuja,3,2,No,8,Medium,Estate,Far,No,810000
+Abuja,2,1,No,20,Medium,Non-Estate,Near,Yes,640000
+Port Harcourt,3,3,Yes,8,Medium,Estate,Near,Yes,695000
+Ilorin,2,2,No,12,Medium,Non-Estate,Near,Yes,160000
+Port Harcourt,2,1,No,16,Low,Estate,Near,Yes,490000
+Port Harcourt,3,2,No,24,Medium,Non-Estate,Near,Yes,615000
+Ibadan,2,1,No,12,High,Estate,Near,Yes,360000
+Abuja,2,2,Yes,12,Low,Estate,Far,Yes,865000
+Lagos,4,2,No,16,Low,Non-Estate,Near,No,925000
+Port Harcourt,1,1,No,16,Low,Estate,Near,Yes,305000
+Ilorin,2,2,No,16,High,Estate,Near,No,255000
+Lagos,4,2,Yes,12,High,Estate,Near,No,1130000
+Port Harcourt,3,3,No,8,Medium,Non-Estate,Near,Yes,530000
+Lagos,3,2,Yes,12,High,Non-Estate,Near,Yes,1060000
+Abuja,2,2,No,20,Medium,Estate,Near,No,810000
+Lagos,2,1,No,20,High,Non-Estate,Far,Yes,700000
+Abuja,4,3,No,4,Medium,Estate,Far,No,890000
+Ibadan,3,3,No,12,Low,Non-Estate,Near,No,315000
+Abuja,3,2,Yes,12,Medium,Non-Estate,Near,No,955000
+Port Harcourt,1,1,Yes,24,Medium,Non-Estate,Far,No,350000
+Ibadan,1,1,Yes,16,Medium,Non-Estate,Near,No,235000
+Benin,5,3,Yes,12,Medium,Estate,Near,Yes,585000
+Lagos,2,2,Yes,0,Medium,Estate,Near,No,575000
+Abuja,3,3,No,12,Medium,Non-Estate,Far,Yes,745000
+Lagos,1,1,No,4,Low,Estate,Near,Yes,330000
+Ilorin,3,3,Yes,16,High,Estate,Far,Yes,445000
+Benin,4,3,No,16,High,Estate,Near,No,560000
+Abuja,3,3,No,12,High,Non-Estate,Near,Yes,1010000
+Ibadan,1,1,No,12,Medium,Non-Estate,Near,No,165000
+Abuja,3,2,No,20,Medium,Estate,Far,Yes,1045000
+Port Harcourt,3,2,Yes,8,Medium,Estate,Far,No,625000
+Lagos,2,1,No,8,Low,Non-Estate,Near,Yes,435000
+Ibadan,4,3,No,20,Low,Estate,Near,Yes,505000
+Lagos,3,2,Yes,16,Medium,Non-Estate,Near,Yes,865000
+Ibadan,4,2,Yes,16,High,Estate,Near,Yes,860000
+Ibadan,3,3,Yes,4,Low,Non-Estate,Near,Yes,330000
+Ibadan,1,1,Yes,4,High,Non-Estate,Near,No,200000
+Lagos,2,1,No,0,Medium,Estate,Far,Yes,335000
+Abuja,2,1,No,8,Medium,Non-Estate,Near,No,430000
+Lagos,4,2,Yes,16,Low,Non-Estate,Near,Yes,980000
+Abuja,3,2,No,8,Medium,Non-Estate,Near,Yes,705000
+Lagos,3,2,No,16,High,Non-Estate,Near,Yes,960000
+Benin,2,1,Yes,8,Medium,Estate,Near,Yes,260000
+Port Harcourt,2,1,Yes,8,Medium,Estate,Far,No,430000
+Abuja,3,2,Yes,24,Low,Estate,Near,No,1335000
+Abuja,2,1,No,8,Low,Estate,Far,Yes,495000
+Abuja,2,2,Yes,8,Low,Non-Estate,Near,No,695000
+Port Harcourt,3,2,No,8,Medium,Non-Estate,Near,Yes,470000
+Abuja,1,1,No,4,Medium,Non-Estate,Near,No,315000
+Benin,2,1,No,12,Medium,Non-Estate,Far,No,190000
+Abuja,2,1,Yes,8,Low,Non-Estate,Near,No,625000
+Ilorin,1,1,Yes,16,High,Non-Estate,Near,Yes,200000
+Benin,5,4,No,16,High,Estate,Near,Yes,630000
+Lagos,2,2,No,12,Low,Non-Estate,Far,Yes,415000
+Benin,1,1,No,0,Medium,Non-Estate,Near,No,115000
+Lagos,2,1,No,12,Low,Estate,Near,No,565000
+Ibadan,3,3,No,4,High,Estate,Near,Yes,335000
+Abuja,2,2,No,12,Medium,Non-Estate,Near,No,635000
+Benin,3,2,No,16,High,Non-Estate,Near,No,355000
+Benin,1,1,Yes,4,Low,Estate,Near,Yes,170000
+Ibadan,1,1,No,16,Medium,Non-Estate,Far,No,155000
+Ibadan,2,1,No,20,Low,Non-Estate,Near,Yes,315000
+Abuja,4,3,No,16,Medium,Non-Estate,Far,Yes,930000
+Lagos,4,2,Yes,8,Medium,Estate,Far,Yes,1050000
+Abuja,1,1,No,12,Low,Estate,Near,Yes,385000
+Lagos,3,2,No,20,Medium,Non-Estate,Near,No,840000
+Port Harcourt,4,2,Yes,8,Medium,Non-Estate,Far,Yes,585000
+Abuja,2,1,Yes,16,High,Non-Estate,Far,Yes,760000
+Ilorin,4,4,No,0,Medium,Estate,Far,Yes,220000
+Port Harcourt,1,1,No,0,High,Non-Estate,Far,No,180000
+Ibadan,4,3,No,16,High,Estate,Near,No,620000
+Lagos,3,2,Yes,16,High,Non-Estate,Far,No,875000
+Benin,4,3,No,16,High,Non-Estate,Near,Yes,545000
+Benin,3,2,No,20,High,Non-Estate,Near,No,390000
+Abuja,2,1,No,4,Medium,Estate,Near,No,505000
+Port Harcourt,4,2,No,8,Low,Estate,Far,Yes,550000
+Ibadan,2,1,No,20,Medium,Non-Estate,Near,No,285000
+Lagos,2,1,No,4,Medium,Non-Estate,Far,No,310000
+Abuja,3,3,Yes,16,High,Non-Estate,Far,No,1235000
+Abuja,3,2,No,12,Medium,Non-Estate,Far,No,650000
+Lagos,4,2,No,4,Medium,Non-Estate,Far,No,625000
+Abuja,2,1,Yes,8,Medium,Non-Estate,Near,Yes,610000
+Lagos,3,3,No,12,High,Non-Estate,Far,No,835000
+Lagos,3,3,No,20,Low,Estate,Far,No,755000
+Lagos,1,1,Yes,16,Medium,Non-Estate,Far,Yes,390000
+Ilorin,2,1,Yes,12,Medium,Estate,Far,No,220000
+Abuja,2,1,No,12,Low,Non-Estate,Near,No,585000
+Ilorin,2,2,Yes,8,Low,Estate,Near,Yes,235000
+Abuja,5,4,No,4,Medium,Non-Estate,Near,No,840000
+Abuja,3,2,Yes,12,High,Non-Estate,Far,Yes,1035000
+Abuja,3,2,No,0,Low,Non-Estate,Near,No,550000
+Abuja,5,3,Yes,8,Medium,Non-Estate,Far,Yes,1050000
+Lagos,2,1,Yes,12,High,Estate,Near,No,695000
+Port Harcourt,4,3,No,12,High,Non-Estate,Far,Yes,815000
+Lagos,2,1,No,0,High,Estate,Far,No,450000
+Port Harcourt,4,2,No,12,Medium,Estate,Near,No,765000
+Port Harcourt,2,2,Yes,12,High,Estate,Far,Yes,745000
+Lagos,4,4,No,4,Low,Estate,Far,No,635000
+Lagos,2,1,No,20,Medium,Non-Estate,Near,Yes,600000
+Ibadan,2,1,No,4,Medium,Non-Estate,Near,No,205000
+Abuja,3,2,No,20,Low,Non-Estate,Near,No,895000
+Lagos,2,2,No,0,Medium,Estate,Far,No,410000
+Ilorin,3,3,No,20,Low,Estate,Near,No,350000
+Lagos,2,1,No,0,High,Estate,Near,Yes,435000
+Port Harcourt,3,3,No,16,Medium,Estate,Near,Yes,630000
+Ilorin,2,2,Yes,8,Medium,Estate,Near,No,215000
+Lagos,1,1,Yes,16,Low,Estate,Far,Yes,530000
+Lagos,2,1,Yes,12,Low,Non-Estate,Far,Yes,500000
+Lagos,2,2,Yes,4,High,Non-Estate,Near,Yes,665000
+Abuja,2,1,Yes,16,High,Non-Estate,Far,No,720000
+Lagos,2,1,No,4,High,Estate,Far,Yes,410000
+Port Harcourt,2,2,No,20,Medium,Non-Estate,Near,No,485000
+Lagos,1,1,No,4,Low,Non-Estate,Near,No,280000
+Abuja,3,2,Yes,12,Medium,Estate,Far,No,935000
+Ilorin,4,2,Yes,16,Medium,Estate,Far,Yes,445000
+Ibadan,2,1,No,8,Low,Estate,Far,Yes,230000
+Port Harcourt,3,2,Yes,8,Medium,Estate,Near,Yes,630000
+Abuja,3,2,No,16,Medium,Non-Estate,Far,No,660000
+Port Harcourt,2,2,No,16,Low,Estate,Near,Yes,545000
+Abuja,3,2,Yes,20,Medium,Non-Estate,Far,Yes,1035000
+Abuja,2,1,Yes,8,Medium,Estate,Far,Yes,760000
+Lagos,3,2,No,12,Medium,Non-Estate,Far,No,605000
+Benin,1,1,No,8,Medium,Estate,Far,No,135000
+Abuja,3,2,No,8,Medium,Non-Estate,Near,Yes,665000
+Lagos,3,2,No,16,Low,Estate,Far,Yes,670000
+Abuja,1,1,Yes,8,High,Estate,Near,No,595000
+Abuja,2,1,No,12,High,Non-Estate,Far,Yes,615000
+Ibadan,5,4,Yes,12,Medium,Non-Estate,Near,No,735000
+Ibadan,2,1,Yes,16,Low,Estate,Far,No,310000
+Ibadan,3,2,No,20,Medium,Non-Estate,Near,No,375000
+Lagos,4,2,No,16,Medium,Non-Estate,Far,No,700000
+Abuja,3,2,Yes,12,High,Non-Estate,Near,No,990000
+Abuja,3,2,Yes,16,High,Non-Estate,Near,No,1135000
+Lagos,3,2,Yes,12,High,Non-Estate,Far,Yes,1020000
+Lagos,4,2,Yes,4,Low,Estate,Far,Yes,870000
+Ibadan,2,1,Yes,4,High,Estate,Near,No,345000
+Lagos,2,1,No,0,Medium,Estate,Near,Yes,380000
+Abuja,2,1,No,12,High,Non-Estate,Near,No,550000
+Lagos,5,3,No,16,Medium,Non-Estate,Far,Yes,975000
+Lagos,3,2,No,8,Medium,Non-Estate,Far,No,500000
+Lagos,1,1,No,8,Medium,Non-Estate,Far,No,295000
+Ilorin,4,4,No,20,Low,Non-Estate,Near,No,330000
+Ibadan,2,2,No,16,Medium,Non-Estate,Near,Yes,335000
+Ilorin,1,1,Yes,16,High,Non-Estate,Far,No,195000
+Abuja,3,2,No,8,Low,Non-Estate,Near,Yes,630000
+Lagos,2,1,No,4,Low,Estate,Near,Yes,460000
+Abuja,4,3,No,0,Low,Non-Estate,Near,Yes,700000
+Abuja,2,1,No,4,Medium,Non-Estate,Far,No,365000
+Ibadan,4,3,No,8,High,Non-Estate,Far,Yes,485000
+Lagos,3,2,No,12,Low,Non-Estate,Near,No,560000
+Abuja,1,1,Yes,4,Low,Non-Estate,Far,No,370000
+Lagos,5,3,No,4,High,Non-Estate,Near,No,860000
+Abuja,3,3,No,4,High,Non-Estate,Near,No,690000
+Ibadan,2,2,Yes,12,Low,Estate,Near,No,350000
+Abuja,2,1,No,12,High,Estate,Near,No,785000
+Abuja,4,3,No,12,Medium,Non-Estate,Near,No,855000
+Abuja,2,1,Yes,8,High,Non-Estate,Far,Yes,585000
+Abuja,2,1,No,8,Medium,Non-Estate,Near,Yes,495000
+Ibadan,1,1,Yes,4,High,Non-Estate,Near,Yes,185000
+Benin,2,1,No,8,Low,Non-Estate,Near,Yes,190000
+Ilorin,3,2,No,20,Low,Estate,Near,Yes,330000
+Ibadan,2,2,Yes,24,Medium,Non-Estate,Near,No,470000
+Abuja,2,1,No,12,Medium,Non-Estate,Near,No,580000
+Port Harcourt,2,2,No,20,High,Non-Estate,Far,Yes,610000
+Abuja,2,1,No,12,Medium,Non-Estate,Far,No,535000
+Lagos,4,3,No,0,Low,Non-Estate,Far,Yes,615000
+Ibadan,2,1,No,24,Medium,Non-Estate,Near,Yes,300000
+Lagos,5,3,No,4,Medium,Estate,Far,No,840000
+Benin,2,2,No,16,High,Estate,Near,No,360000
+Abuja,2,1,Yes,8,Medium,Estate,Near,Yes,770000
+Port Harcourt,4,3,No,8,Medium,Estate,Near,Yes,810000
+Port Harcourt,2,1,Yes,12,Medium,Estate,Near,Yes,490000
+Benin,3,2,No,12,High,Estate,Far,Yes,390000
+Port Harcourt,5,3,No,8,Medium,Non-Estate,Near,No,750000
+Port Harcourt,1,1,Yes,8,Low,Non-Estate,Near,No,265000
+Lagos,1,1,Yes,8,High,Non-Estate,Near,No,380000
+Abuja,3,3,Yes,24,Medium,Non-Estate,Far,Yes,1155000
+Lagos,2,2,No,16,Medium,Non-Estate,Far,No,580000
+Ibadan,2,1,No,12,High,Non-Estate,Near,Yes,305000
+Abuja,1,1,No,4,High,Non-Estate,Far,No,375000
+Port Harcourt,1,1,No,16,High,Estate,Far,Yes,380000
+Lagos,3,2,Yes,4,High,Non-Estate,Near,No,835000
+Lagos,1,1,No,8,Low,Non-Estate,Far,No,270000
+Ibadan,2,1,No,8,Medium,Non-Estate,Near,No,200000
+Lagos,3,2,No,20,Medium,Estate,Near,Yes,835000
+Lagos,2,1,Yes,4,Medium,Non-Estate,Far,No,500000
+Lagos,1,1,No,4,High,Estate,Near,No,345000
+Ilorin,3,3,No,12,High,Estate,Near,No,280000
+Ibadan,1,1,No,8,Medium,Non-Estate,Far,Yes,130000
+Abuja,3,2,Yes,12,High,Non-Estate,Near,Yes,1035000
+Lagos,4,4,No,12,Medium,Non-Estate,Near,Yes,1045000
+Abuja,2,1,No,12,Medium,Non-Estate,Near,Yes,570000
+Ibadan,3,3,Yes,4,Medium,Non-Estate,Near,No,370000
+Port Harcourt,2,1,No,4,Medium,Non-Estate,Near,No,340000
+Lagos,2,2,No,16,Low,Estate,Far,Yes,595000
+Lagos,4,2,Yes,20,High,Estate,Near,No,1700000
+Lagos,4,2,No,8,Medium,Non-Estate,Far,Yes,650000
+Port Harcourt,2,1,No,4,High,Non-Estate,Near,Yes,415000
+Ibadan,3,2,No,4,Medium,Estate,Far,Yes,260000
+Lagos,4,4,No,12,Low,Estate,Far,No,965000
+Lagos,5,3,Yes,16,Medium,Non-Estate,Near,No,1420000
+Lagos,3,3,No,8,Medium,Non-Estate,Far,Yes,545000
+Ilorin,2,2,Yes,16,High,Non-Estate,Far,No,245000
+Lagos,2,1,No,16,Low,Non-Estate,Near,Yes,490000
+Ibadan,5,3,Yes,20,High,Estate,Near,Yes,920000
+Port Harcourt,1,1,Yes,4,High,Non-Estate,Far,Yes,315000
+Abuja,3,2,No,4,High,Non-Estate,Far,Yes,750000
+Lagos,2,1,No,4,Medium,Estate,Near,No,440000
+Lagos,2,2,No,20,High,Non-Estate,Near,No,705000
+Port Harcourt,2,1,Yes,16,Medium,Non-Estate,Near,Yes,470000
+Ibadan,5,3,No,12,Low,Non-Estate,Near,Yes,450000
+Port Harcourt,1,1,Yes,4,Low,Estate,Far,Yes,295000
+Abuja,3,2,No,8,High,Non-Estate,Near,Yes,910000
+Lagos,1,1,No,8,Low,Non-Estate,Near,Yes,345000
+Ilorin,2,1,Yes,12,Medium,Non-Estate,Far,Yes,185000
+Ibadan,2,1,No,8,Low,Estate,Near,No,240000
+Lagos,3,2,Yes,4,Medium,Non-Estate,Near,Yes,685000
+Ilorin,2,1,No,16,Low,Non-Estate,Near,Yes,190000
+Port Harcourt,2,1,No,8,High,Estate,Near,No,470000
+Port Harcourt,1,1,No,12,Medium,Estate,Near,Yes,360000
+Ibadan,2,1,No,4,High,Non-Estate,Near,Yes,200000
+Ibadan,5,4,Yes,16,Medium,Estate,Near,Yes,1015000
+Port Harcourt,4,2,Yes,12,High,Non-Estate,Far,Yes,755000
+Lagos,2,1,Yes,20,Medium,Estate,Far,Yes,785000
+Abuja,3,2,No,12,Medium,Estate,Near,Yes,1000000
+Benin,4,4,No,20,Medium,Non-Estate,Near,No,455000
+Lagos,1,1,Yes,20,Medium,Estate,Far,No,475000
+Abuja,4,3,No,12,High,Non-Estate,Near,No,1005000
+Abuja,4,4,Yes,20,Medium,Non-Estate,Far,Yes,1520000
+Abuja,1,1,Yes,8,High,Non-Estate,Far,Yes,430000
+Port Harcourt,2,2,No,8,High,Non-Estate,Near,Yes,430000
+Benin,5,3,No,0,Low,Non-Estate,Near,Yes,280000
+Lagos,3,3,No,12,Medium,Estate,Near,Yes,910000
+Lagos,1,1,Yes,16,Low,Non-Estate,Near,Yes,415000
+Lagos,2,1,No,16,Medium,Estate,Far,Yes,610000
+Benin,2,1,Yes,4,Medium,Non-Estate,Far,Yes,190000
+Port Harcourt,3,2,Yes,12,High,Non-Estate,Near,Yes,795000
+Lagos,3,3,No,4,Low,Non-Estate,Near,Yes,505000
+Ibadan,5,3,No,16,Low,Estate,Near,Yes,660000
+Benin,2,1,Yes,4,Low,Estate,Near,Yes,245000
+Ibadan,3,3,Yes,20,Medium,Non-Estate,Far,Yes,450000
+Benin,3,2,No,8,High,Estate,Far,Yes,350000
+Lagos,2,1,Yes,8,High,Non-Estate,Near,Yes,705000
+Ibadan,2,1,No,20,Medium,Non-Estate,Near,Yes,265000
+Abuja,5,3,No,12,High,Estate,Near,Yes,1600000
+Ibadan,4,3,Yes,0,Medium,Estate,Near,No,445000
+Ibadan,2,1,No,12,Low,Non-Estate,Near,Yes,205000
+Ibadan,3,2,No,4,Low,Non-Estate,Near,Yes,255000
+Port Harcourt,2,2,Yes,24,High,Estate,Near,Yes,1035000
+Lagos,3,3,No,12,Medium,Estate,Far,Yes,785000
+Abuja,3,3,Yes,8,Medium,Estate,Near,Yes,1210000
+Ilorin,3,2,No,12,Medium,Estate,Near,No,270000
+Benin,5,4,Yes,4,Medium,Non-Estate,Far,No,355000
+Lagos,3,2,No,16,High,Non-Estate,Far,Yes,690000
+Lagos,2,1,No,20,Low,Non-Estate,Near,No,575000
+Lagos,3,3,Yes,20,High,Non-Estate,Near,Yes,1260000
+Ibadan,2,1,No,8,Medium,Estate,Far,Yes,215000
+Ibadan,2,2,Yes,8,Low,Non-Estate,Near,No,290000
+Lagos,2,1,No,0,Medium,Non-Estate,Near,Yes,380000
+Abuja,2,1,No,16,Medium,Non-Estate,Near,Yes,670000
+Ibadan,3,2,Yes,12,Medium,Non-Estate,Near,No,385000
+Ibadan,2,2,No,12,Medium,Non-Estate,Near,No,240000
+Abuja,3,2,No,20,Medium,Non-Estate,Near,No,1010000
+Port Harcourt,3,2,Yes,4,High,Estate,Far,No,700000
+Abuja,2,1,No,0,Medium,Non-Estate,Far,No,330000
+Lagos,4,3,No,4,Medium,Non-Estate,Far,Yes,715000
+Port Harcourt,2,1,No,8,Medium,Non-Estate,Near,Yes,320000
+Port Harcourt,2,1,Yes,0,Medium,Non-Estate,Near,No,300000
+Benin,3,2,No,12,Low,Non-Estate,Far,No,220000
+Port Harcourt,2,1,No,8,High,Non-Estate,Near,Yes,355000
+Ibadan,1,1,No,4,Medium,Non-Estate,Near,No,155000
+Lagos,3,3,No,16,High,Non-Estate,Near,Yes,930000
+Abuja,3,3,Yes,8,High,Non-Estate,Near,Yes,985000
+Lagos,2,2,No,16,Medium,Non-Estate,Near,Yes,645000
+Lagos,5,4,No,8,Medium,Estate,Near,Yes,1240000
+Ibadan,3,2,No,12,Medium,Non-Estate,Far,No,270000
+Ilorin,4,2,Yes,20,Medium,Non-Estate,Near,Yes,440000
+Lagos,1,1,No,0,High,Non-Estate,Far,No,270000
+Abuja,3,3,No,12,High,Estate,Far,Yes,1070000
+Ibadan,4,4,No,20,Low,Non-Estate,Near,Yes,585000
+Lagos,3,2,No,12,Medium,Estate,Far,No,620000
+Port Harcourt,3,2,No,8,High,Non-Estate,Far,Yes,485000
+Ibadan,2,1,No,8,Medium,Estate,Near,No,275000
+Port Harcourt,1,1,No,16,High,Non-Estate,Near,Yes,405000
+Lagos,2,1,Yes,20,High,Estate,Near,Yes,910000
+Abuja,2,1,No,0,Medium,Estate,Far,No,345000
+Ibadan,4,4,Yes,4,Medium,Non-Estate,Near,No,505000
+Port Harcourt,2,1,No,8,Medium,Estate,Near,No,375000
+Lagos,5,4,No,8,Medium,Non-Estate,Near,No,895000
+Ibadan,5,4,No,8,Medium,Non-Estate,Near,No,465000
+Lagos,2,2,Yes,8,Medium,Non-Estate,Near,Yes,585000
+Ibadan,2,1,No,4,High,Estate,Near,No,245000
+Lagos,4,3,Yes,4,Medium,Non-Estate,Far,Yes,830000
+Ilorin,5,4,Yes,20,Low,Estate,Far,Yes,500000
+Abuja,2,1,Yes,4,Medium,Non-Estate,Far,Yes,600000
+Abuja,2,1,No,8,Medium,Non-Estate,Near,Yes,575000
+Lagos,3,3,No,8,Medium,Estate,Far,Yes,785000
+Abuja,3,3,No,20,Medium,Non-Estate,Near,Yes,1105000
+Benin,2,2,No,16,Low,Estate,Near,Yes,290000
+Ilorin,3,3,Yes,16,Medium,Non-Estate,Far,No,275000
+Abuja,1,1,No,4,Medium,Non-Estate,Near,No,270000
+Abuja,1,1,Yes,16,Medium,Non-Estate,Near,No,475000
+Ibadan,2,1,Yes,12,Medium,Non-Estate,Near,Yes,300000
+Benin,2,1,Yes,8,Medium,Non-Estate,Near,No,230000
+Port Harcourt,2,2,No,12,High,Non-Estate,Far,Yes,515000
+Abuja,2,1,No,16,Low,Non-Estate,Near,No,555000
+Abuja,2,1,No,16,Medium,Non-Estate,Far,Yes,580000
+Port Harcourt,2,1,No,20,High,Non-Estate,Near,Yes,575000
+Lagos,2,1,No,20,Medium,Non-Estate,Near,Yes,535000
+Port Harcourt,5,4,Yes,8,High,Estate,Near,No,1400000
+Abuja,2,2,No,12,Low,Estate,Far,No,590000
+Ibadan,2,1,No,0,Medium,Estate,Far,No,170000
+Lagos,3,2,No,20,Medium,Non-Estate,Near,Yes,920000
+Port Harcourt,5,4,No,4,Low,Estate,Near,Yes,800000
+Abuja,2,1,No,20,Medium,Non-Estate,Far,No,595000
+Port Harcourt,3,2,Yes,8,Medium,Non-Estate,Near,Yes,625000
+Lagos,3,3,No,8,Medium,Non-Estate,Near,No,665000
+Port Harcourt,3,2,No,0,High,Non-Estate,Near,Yes,390000
+Port Harcourt,1,1,Yes,8,Low,Estate,Near,No,375000
+Port Harcourt,3,2,No,20,Medium,Non-Estate,Near,No,705000
+Port Harcourt,1,1,No,0,Medium,Non-Estate,Near,No,195000
+Port Harcourt,3,3,Yes,12,Medium,Non-Estate,Far,Yes,705000
+Ibadan,3,3,No,0,High,Non-Estate,Far,Yes,305000
+Lagos,2,1,No,8,Medium,Estate,Far,No,435000
+Ibadan,4,4,Yes,4,Low,Non-Estate,Near,No,500000
+Abuja,1,1,Yes,8,Medium,Estate,Near,Yes,560000
+Lagos,4,3,Yes,20,High,Non-Estate,Far,Yes,1365000
+Lagos,2,1,No,12,Medium,Estate,Far,No,530000
+Abuja,2,1,No,8,Medium,Non-Estate,Near,No,490000
+Ibadan,1,1,No,12,Low,Estate,Near,No,170000
+Ibadan,5,4,Yes,4,Low,Non-Estate,Far,No,515000
+Ibadan,1,1,Yes,8,Low,Estate,Far,No,205000
+Abuja,2,2,Yes,12,Medium,Non-Estate,Far,Yes,765000
+Abuja,2,2,No,8,High,Non-Estate,Far,Yes,520000
+Lagos,3,3,No,16,Medium,Estate,Near,Yes,925000
+Abuja,3,2,No,12,Low,Estate,Near,No,870000
+Abuja,1,1,Yes,16,Medium,Non-Estate,Far,Yes,600000
+Lagos,2,1,No,20,Medium,Estate,Near,Yes,760000
+Lagos,2,2,No,4,Medium,Non-Estate,Near,Yes,470000
+Port Harcourt,2,1,Yes,8,Medium,Non-Estate,Far,Yes,380000
+Ibadan,2,1,No,8,Medium,Estate,Near,No,275000
+Ilorin,3,2,Yes,4,Medium,Estate,Far,No,210000
+Benin,2,1,Yes,16,Low,Non-Estate,Far,No,225000
+Port Harcourt,2,1,Yes,16,Low,Estate,Near,Yes,525000
+Abuja,2,2,No,12,Low,Estate,Near,No,700000
+Port Harcourt,5,4,No,12,Medium,Estate,Near,Yes,895000
+Ibadan,5,4,Yes,4,Low,Estate,Far,No,485000
+Lagos,4,2,Yes,12,Medium,Estate,Near,Yes,1090000
+Abuja,2,1,No,16,High,Non-Estate,Near,Yes,725000
+Ibadan,1,1,No,12,Medium,Non-Estate,Far,Yes,190000
+Abuja,2,1,No,8,Medium,Non-Estate,Near,No,475000
+Port Harcourt,2,1,Yes,16,High,Estate,Near,No,690000
+Port Harcourt,3,3,Yes,8,Medium,Estate,Near,Yes,675000
+Lagos,3,2,Yes,12,High,Non-Estate,Near,Yes,900000
+Abuja,4,3,Yes,12,Medium,Non-Estate,Far,No,985000
+Abuja,4,3,No,8,Medium,Estate,Near,Yes,1010000
+Lagos,2,1,No,16,Medium,Non-Estate,Near,Yes,560000
+Lagos,3,2,No,20,Low,Non-Estate,Far,Yes,670000
+Ibadan,2,1,No,0,High,Non-Estate,Far,No,200000
+Lagos,1,1,Yes,20,Low,Estate,Near,Yes,675000
+Abuja,3,2,Yes,12,Medium,Non-Estate,Far,No,755000
+Lagos,1,1,No,16,Medium,Non-Estate,Far,Yes,315000
+Benin,2,1,Yes,20,Low,Non-Estate,Near,Yes,330000
+Lagos,2,1,Yes,12,Low,Non-Estate,Far,Yes,495000
+Abuja,3,3,No,16,Low,Estate,Far,No,840000
+Benin,3,3,Yes,4,Medium,Non-Estate,Near,Yes,300000
+Ibadan,2,1,Yes,4,High,Non-Estate,Far,No,290000
+Lagos,4,3,No,16,Medium,Non-Estate,Far,Yes,935000
+Ibadan,2,1,No,20,Low,Non-Estate,Far,Yes,230000
+Abuja,2,1,Yes,20,Medium,Non-Estate,Near,No,690000
+Abuja,3,2,Yes,12,High,Estate,Near,No,1100000
+Lagos,3,2,No,12,Low,Estate,Near,Yes,700000
+Lagos,5,4,Yes,8,Medium,Non-Estate,Near,No,1175000
+Ibadan,2,1,No,24,High,Estate,Far,No,425000
+Abuja,3,3,Yes,8,Low,Estate,Near,Yes,960000
+Abuja,3,3,Yes,16,Medium,Non-Estate,Near,Yes,1095000
+Ibadan,4,3,No,12,Low,Non-Estate,Far,Yes,380000
+Ibadan,2,1,No,12,High,Estate,Near,Yes,285000
+Lagos,3,2,Yes,8,High,Non-Estate,Near,No,940000
+Port Harcourt,3,2,Yes,24,High,Estate,Near,Yes,1030000
+Lagos,2,1,Yes,12,Medium,Estate,Near,Yes,665000
+Ibadan,2,1,Yes,20,Medium,Estate,Far,Yes,360000
+Port Harcourt,2,1,No,0,Low,Estate,Far,No,265000
+Ilorin,3,2,No,12,High,Non-Estate,Near,No,285000
+Lagos,4,4,No,16,High,Non-Estate,Near,Yes,1035000
+Lagos,3,2,No,16,Medium,Non-Estate,Far,Yes,675000
+Lagos,3,3,No,20,Medium,Estate,Far,Yes,790000
+Lagos,3,3,No,0,Low,Non-Estate,Near,No,495000
+Lagos,1,1,Yes,0,Medium,Estate,Far,Yes,350000
+Benin,2,2,Yes,12,Medium,Estate,Near,No,330000
+Lagos,2,1,No,0,Medium,Non-Estate,Near,Yes,345000
+Lagos,2,1,No,24,Medium,Non-Estate,Far,No,635000
+Ibadan,2,1,No,8,Low,Estate,Near,No,235000
+Abuja,3,2,No,12,High,Estate,Near,No,970000
+Ibadan,2,1,No,4,High,Non-Estate,Near,Yes,245000
+Lagos,2,1,Yes,12,High,Non-Estate,Near,No,680000
+Abuja,2,1,No,8,Medium,Non-Estate,Far,Yes,430000
+Lagos,1,1,Yes,0,Medium,Non-Estate,Near,Yes,300000
+Lagos,4,3,No,8,Medium,Non-Estate,Near,No,660000
+Benin,4,2,Yes,8,High,Estate,Near,No,485000
+Lagos,3,2,No,24,Medium,Non-Estate,Far,No,800000
+Abuja,1,1,No,8,Medium,Estate,Near,Yes,375000
+Abuja,3,2,No,12,Medium,Estate,Far,No,815000
+Abuja,4,2,No,24,High,Non-Estate,Far,Yes,1445000
+Benin,3,3,No,16,Low,Non-Estate,Far,Yes,285000
+Lagos,1,1,No,24,Low,Estate,Far,No,415000
+Port Harcourt,3,3,No,24,Medium,Non-Estate,Near,Yes,840000
+Ilorin,4,2,Yes,12,High,Non-Estate,Near,No,405000
+Port Harcourt,3,3,No,16,Medium,Estate,Far,Yes,600000
+Benin,3,2,No,4,Medium,Estate,Far,Yes,240000
+Lagos,2,1,No,12,Medium,Estate,Near,No,570000
+Abuja,3,2,Yes,16,Medium,Estate,Near,No,1190000
+Lagos,1,1,No,12,Medium,Non-Estate,Near,Yes,375000
+Ibadan,3,2,Yes,16,Medium,Non-Estate,Far,Yes,450000
+Ilorin,1,1,Yes,16,Medium,Non-Estate,Far,No,165000
+Lagos,2,2,No,8,High,Estate,Near,Yes,595000
+Port Harcourt,2,1,Yes,20,Medium,Estate,Near,Yes,725000
+Lagos,3,2,Yes,12,High,Estate,Near,No,1215000
+Port Harcourt,1,1,No,8,Low,Estate,Near,Yes,275000
+Abuja,3,2,Yes,20,Medium,Estate,Far,No,1280000
+Ilorin,3,3,Yes,12,High,Non-Estate,Far,No,290000
+Port Harcourt,2,1,Yes,16,Low,Estate,Near,No,530000
+Abuja,1,1,No,12,Medium,Non-Estate,Near,Yes,465000
+Lagos,1,1,No,8,Medium,Non-Estate,Near,No,265000
+Lagos,4,4,No,16,High,Non-Estate,Far,Yes,995000
+Lagos,3,3,Yes,12,Medium,Estate,Near,Yes,1035000
+Lagos,2,1,Yes,8,Low,Non-Estate,Near,Yes,515000
+Benin,1,1,Yes,4,High,Non-Estate,Far,Yes,170000
+Port Harcourt,3,2,No,20,Medium,Estate,Far,Yes,630000
+Abuja,4,4,No,0,Low,Non-Estate,Far,Yes,575000
+Lagos,4,2,Yes,20,Low,Non-Estate,Near,Yes,1130000
+Benin,3,2,Yes,8,High,Non-Estate,Near,Yes,375000
+Ibadan,1,1,Yes,12,Low,Estate,Near,No,245000
+Lagos,1,1,No,20,Medium,Non-Estate,Far,Yes,410000
+Ibadan,1,1,No,4,Medium,Non-Estate,Far,No,135000
+Abuja,2,2,No,12,High,Non-Estate,Far,No,565000
+Lagos,1,1,No,16,High,Non-Estate,Near,No,465000
+Abuja,2,2,No,16,Medium,Non-Estate,Far,Yes,540000
+Abuja,2,1,Yes,12,Low,Estate,Near,No,670000
+Lagos,4,2,Yes,12,High,Non-Estate,Near,No,1200000
+Benin,3,2,No,16,Medium,Non-Estate,Near,No,285000
+Ibadan,4,3,No,16,High,Estate,Far,Yes,605000
+Port Harcourt,3,3,No,16,Medium,Estate,Near,No,660000
+Abuja,1,1,No,8,Medium,Non-Estate,Far,No,325000
+Abuja,3,2,No,24,Low,Non-Estate,Far,Yes,845000
+Port Harcourt,2,1,No,12,Medium,Estate,Near,No,500000
+Abuja,3,2,No,0,Medium,Estate,Far,No,525000
+Lagos,2,2,No,8,Medium,Non-Estate,Near,No,475000
+Abuja,5,4,Yes,4,Low,Non-Estate,Near,Yes,1335000
+Ibadan,2,2,No,4,Low,Estate,Far,No,220000
+Abuja,2,1,No,8,Low,Non-Estate,Far,Yes,460000
+Lagos,4,3,No,4,Medium,Estate,Near,No,785000
+Ibadan,1,1,No,16,High,Estate,Far,Yes,250000
+Lagos,3,2,No,4,Medium,Non-Estate,Far,Yes,550000
+Lagos,3,2,Yes,8,Medium,Estate,Near,Yes,760000
+Lagos,4,2,No,4,Low,Non-Estate,Near,No,665000
+Abuja,5,3,Yes,4,Medium,Estate,Far,No,1230000
+Ibadan,5,4,No,8,Medium,Non-Estate,Near,Yes,565000
+Abuja,1,1,No,12,High,Estate,Far,Yes,425000
+Lagos,4,3,Yes,24,High,Estate,Far,Yes,1930000
+Benin,3,2,Yes,20,Medium,Non-Estate,Near,No,365000
+Benin,3,2,No,20,High,Non-Estate,Far,Yes,395000
+Benin,1,1,Yes,4,Low,Non-Estate,Near,Yes,145000
+Lagos,3,3,Yes,8,Medium,Non-Estate,Far,No,755000
+Abuja,5,4,No,4,Low,Non-Estate,Near,Yes,995000
+Ilorin,4,3,No,16,Medium,Non-Estate,Far,Yes,275000
+Ibadan,2,1,Yes,4,Low,Non-Estate,Near,Yes,245000
+Lagos,1,1,No,12,Medium,Non-Estate,Far,No,295000
+Lagos,2,1,No,8,Medium,Non-Estate,Near,No,430000
+Abuja,4,3,No,8,High,Non-Estate,Near,No,1055000
+Benin,3,3,No,24,Medium,Estate,Near,Yes,405000
+Abuja,2,1,Yes,16,Low,Non-Estate,Far,Yes,690000
+Abuja,1,1,Yes,16,Medium,Estate,Near,Yes,675000
+Lagos,2,1,Yes,12,High,Estate,Far,No,675000
+Port Harcourt,2,2,No,20,High,Non-Estate,Far,No,585000
+Ibadan,4,2,No,12,Medium,Non-Estate,Far,No,375000
+Abuja,3,3,No,20,High,Non-Estate,Near,Yes,1025000
+Ibadan,2,1,No,8,High,Non-Estate,Far,No,205000
+Ilorin,3,2,No,12,Low,Estate,Near,No,245000
+Lagos,1,1,No,16,Low,Non-Estate,Far,Yes,335000
+Abuja,5,4,No,8,Low,Non-Estate,Far,No,865000
+Lagos,2,1,Yes,20,Medium,Estate,Near,No,700000
+Ibadan,2,2,Yes,24,Medium,Estate,Near,No,495000
+Port Harcourt,2,1,No,12,High,Non-Estate,Near,No,445000
+Port Harcourt,3,2,No,8,Medium,Non-Estate,Near,Yes,435000
+Ibadan,3,3,No,12,Medium,Non-Estate,Far,No,340000
+Abuja,3,2,No,20,Medium,Non-Estate,Near,No,1005000
+Benin,2,1,Yes,12,Low,Non-Estate,Far,Yes,265000
+Abuja,2,2,No,0,Low,Estate,Near,Yes,520000
+Lagos,1,1,No,12,Medium,Non-Estate,Far,Yes,365000
+Port Harcourt,3,3,No,0,Medium,Estate,Far,Yes,395000
+Ibadan,1,1,No,16,High,Estate,Far,No,210000
+Abuja,3,2,No,8,Medium,Non-Estate,Near,Yes,685000
+Benin,4,2,No,12,High,Non-Estate,Near,Yes,415000
+Benin,4,4,No,16,Medium,Non-Estate,Near,Yes,485000
+Lagos,2,1,No,0,Medium,Non-Estate,Near,Yes,320000
+Ilorin,2,2,No,4,Medium,Estate,Far,Yes,155000
+Lagos,1,1,Yes,8,Low,Estate,Far,Yes,430000
+Lagos,3,2,Yes,8,Low,Estate,Near,Yes,820000
+Lagos,4,3,Yes,8,Low,Non-Estate,Near,No,885000
+Benin,2,1,Yes,24,Medium,Non-Estate,Near,Yes,315000
+Port Harcourt,2,1,No,16,Medium,Non-Estate,Near,No,475000
+Lagos,4,3,No,20,Low,Estate,Near,Yes,1145000
+Abuja,4,3,Yes,20,Medium,Non-Estate,Far,Yes,1410000
+Port Harcourt,2,2,Yes,8,Medium,Non-Estate,Near,Yes,440000
+Lagos,3,3,Yes,8,High,Non-Estate,Far,Yes,865000
+Benin,2,2,No,8,High,Non-Estate,Near,Yes,215000
+Ibadan,1,1,No,16,High,Non-Estate,Far,Yes,195000
+Abuja,4,3,No,16,Medium,Estate,Near,Yes,1185000
+Ilorin,4,3,No,8,Medium,Estate,Far,No,235000
+Abuja,3,3,Yes,8,High,Estate,Near,Yes,1250000
+Ilorin,1,1,Yes,12,Low,Estate,Near,No,155000
+Port Harcourt,4,4,Yes,12,Medium,Estate,Near,No,1145000
+Port Harcourt,2,1,No,20,Low,Estate,Far,No,395000
+Lagos,2,1,No,8,Medium,Estate,Far,Yes,410000
+Benin,3,3,No,20,Medium,Non-Estate,Near,No,395000
+Abuja,1,1,No,12,Medium,Non-Estate,Near,Yes,365000
+Lagos,3,2,No,16,Medium,Non-Estate,Near,Yes,635000
+Lagos,3,3,Yes,20,Low,Estate,Near,Yes,1075000
+Port Harcourt,2,1,Yes,20,High,Estate,Far,No,755000
+Abuja,2,1,No,4,Medium,Estate,Far,Yes,525000
+Ibadan,2,2,No,8,Medium,Non-Estate,Far,No,205000
+Benin,1,1,Yes,12,Medium,Non-Estate,Far,Yes,190000
+Lagos,3,3,No,12,Low,Estate,Far,No,700000
+Ibadan,4,3,No,12,Low,Non-Estate,Near,No,460000
+Lagos,1,1,No,20,Medium,Estate,Near,No,410000
+Benin,1,1,No,4,Low,Non-Estate,Near,Yes,130000
+Ibadan,3,2,No,12,Low,Estate,Near,No,325000
+Abuja,4,2,No,4,High,Estate,Far,No,845000
+Ibadan,2,2,No,20,Medium,Non-Estate,Far,Yes,275000
+Abuja,2,1,No,24,Medium,Non-Estate,Far,Yes,720000
+Abuja,3,3,Yes,12,Medium,Non-Estate,Near,No,1035000
+Ibadan,2,1,No,4,High,Non-Estate,Near,Yes,235000
+Abuja,1,1,Yes,16,Low,Estate,Far,No,580000
+Abuja,3,2,Yes,16,High,Non-Estate,Far,Yes,1175000
+Abuja,3,2,No,8,Medium,Non-Estate,Near,Yes,755000
+Ibadan,3,2,No,20,Low,Non-Estate,Far,Yes,340000
+Abuja,3,2,No,24,Medium,Non-Estate,Far,Yes,910000
+Lagos,3,2,Yes,12,Medium,Non-Estate,Near,Yes,760000
+Ibadan,2,1,Yes,12,Medium,Non-Estate,Near,No,295000
+Ibadan,2,1,No,8,Low,Non-Estate,Far,Yes,215000
+Lagos,1,1,Yes,12,Medium,Non-Estate,Far,No,420000
+Lagos,1,1,Yes,12,Medium,Non-Estate,Near,No,455000
+Lagos,3,3,No,8,Medium,Non-Estate,Far,Yes,570000
+Abuja,4,3,Yes,4,High,Non-Estate,Far,Yes,1115000
+Abuja,5,4,No,8,High,Estate,Far,Yes,1320000
+Ibadan,3,2,No,4,Medium,Estate,Near,Yes,365000
+Port Harcourt,2,2,Yes,12,High,Non-Estate,Far,Yes,535000
+Port Harcourt,1,1,No,12,Low,Estate,Near,Yes,325000
+Abuja,4,3,No,12,Low,Non-Estate,Far,No,905000
+Ibadan,3,2,No,8,Medium,Non-Estate,Far,Yes,325000
+Abuja,3,3,No,12,Medium,Non-Estate,Near,No,775000
+Ilorin,3,3,Yes,16,Medium,Non-Estate,Near,No,310000
+Port Harcourt,3,3,No,12,Medium,Non-Estate,Far,No,500000
+Lagos,4,2,No,24,Low,Non-Estate,Far,No,850000
+Port Harcourt,1,1,Yes,12,Low,Estate,Near,No,395000
+Abuja,3,2,Yes,12,High,Non-Estate,Near,Yes,1250000
+Port Harcourt,4,2,Yes,4,High,Non-Estate,Near,No,635000
+Lagos,2,2,Yes,16,Medium,Estate,Near,No,815000
+Lagos,3,2,No,20,Medium,Non-Estate,Far,Yes,840000
+Benin,2,1,Yes,20,Medium,Non-Estate,Far,Yes,260000
+Lagos,5,3,Yes,24,Low,Non-Estate,Far,Yes,1480000
+Ibadan,1,1,No,8,Medium,Estate,Near,Yes,215000
+Lagos,3,2,Yes,12,Medium,Non-Estate,Far,Yes,875000
+Port Harcourt,2,2,No,12,Medium,Estate,Near,No,470000
+Port Harcourt,3,2,No,12,Low,Non-Estate,Far,No,390000
+Abuja,2,1,Yes,4,High,Non-Estate,Near,Yes,570000
+Abuja,2,1,No,20,High,Non-Estate,Near,Yes,795000
+Lagos,2,1,No,20,Medium,Non-Estate,Near,No,500000
+Lagos,4,2,No,12,Medium,Estate,Near,Yes,845000
+Abuja,2,1,Yes,8,High,Estate,Far,Yes,840000
+Port Harcourt,1,1,No,4,Low,Estate,Far,No,240000
+Benin,3,3,No,16,Medium,Non-Estate,Far,Yes,350000
+Benin,3,3,No,8,Medium,Non-Estate,Far,Yes,230000
+Ibadan,4,2,Yes,20,Medium,Estate,Near,Yes,665000
+Ibadan,1,1,No,16,High,Estate,Near,No,280000
+Port Harcourt,3,3,No,12,Medium,Non-Estate,Far,No,545000
+Lagos,2,2,No,12,Low,Non-Estate,Near,Yes,555000
+Benin,2,1,No,0,Low,Estate,Near,Yes,185000
+Port Harcourt,3,3,No,20,Low,Estate,Far,No,745000
+Port Harcourt,3,3,No,12,Medium,Estate,Near,No,640000
+Lagos,3,3,No,24,Medium,Estate,Near,No,970000
+Abuja,2,1,No,12,Low,Estate,Near,No,605000
+Abuja,2,2,Yes,16,Medium,Estate,Near,Yes,1000000
+Benin,2,2,No,4,Medium,Non-Estate,Near,No,165000
+Abuja,5,4,No,12,Medium,Non-Estate,Near,No,1295000
+Abuja,2,1,Yes,16,Medium,Estate,Near,No,750000
+Ilorin,2,2,No,16,Medium,Non-Estate,Near,No,205000
+Lagos,2,1,Yes,16,Medium,Non-Estate,Near,Yes,585000
+Abuja,3,2,No,8,Medium,Non-Estate,Far,No,615000
+Lagos,2,1,No,24,Medium,Estate,Near,No,780000
+Ibadan,4,4,Yes,24,High,Non-Estate,Near,No,745000
+Benin,2,1,No,4,Medium,Non-Estate,Near,Yes,170000
+Lagos,4,3,Yes,20,Medium,Estate,Near,No,1295000
+Benin,1,1,No,8,Medium,Non-Estate,Near,No,150000
+Lagos,3,3,No,16,Low,Non-Estate,Near,Yes,835000
+Benin,4,3,Yes,8,Medium,Non-Estate,Far,No,420000
+Ibadan,2,2,Yes,24,Medium,Estate,Far,No,500000
+Ibadan,5,4,Yes,4,Low,Estate,Far,Yes,615000
+Lagos,2,1,No,12,Medium,Non-Estate,Near,Yes,450000
+Ilorin,4,3,No,12,Low,Estate,Near,No,295000
+Ibadan,3,2,Yes,8,Medium,Non-Estate,Near,Yes,390000
+Abuja,2,1,Yes,12,Low,Estate,Far,Yes,735000
+Ibadan,2,1,Yes,4,Low,Non-Estate,Near,Yes,265000
+Lagos,2,2,No,16,High,Non-Estate,Near,Yes,615000
+Benin,1,1,No,24,High,Estate,Near,Yes,235000
+Lagos,1,1,Yes,16,Low,Non-Estate,Far,Yes,435000
+Ibadan,1,1,No,20,Medium,Non-Estate,Far,No,175000
+Abuja,2,1,Yes,8,Medium,Estate,Far,No,685000
+Lagos,3,2,No,8,Medium,Estate,Near,No,680000
+Lagos,1,1,No,12,Medium,Estate,Near,Yes,445000
+Lagos,1,1,No,0,Medium,Estate,Far,Yes,235000
+Abuja,3,3,No,20,Medium,Non-Estate,Near,Yes,1130000
+Abuja,2,1,No,4,Low,Non-Estate,Near,No,350000
+Port Harcourt,1,1,No,20,Low,Estate,Far,No,315000
+Lagos,2,1,No,4,High,Estate,Far,No,485000
+Lagos,4,3,Yes,16,Medium,Estate,Far,Yes,1110000
+Ibadan,4,3,Yes,4,Medium,Non-Estate,Near,No,375000
+Lagos,2,1,Yes,0,Medium,Estate,Near,Yes,435000
+Benin,3,3,No,16,Medium,Non-Estate,Near,No,335000
+Benin,3,2,Yes,8,Medium,Estate,Far,Yes,390000
+Port Harcourt,3,3,Yes,16,Medium,Non-Estate,Far,Yes,750000
+Port Harcourt,3,2,No,12,Medium,Estate,Far,Yes,595000
+Benin,3,2,Yes,4,Medium,Non-Estate,Far,No,245000
+Lagos,2,1,No,20,Medium,Non-Estate,Far,Yes,470000
+Lagos,1,1,No,12,Medium,Non-Estate,Near,Yes,310000
+Lagos,2,1,No,16,Medium,Non-Estate,Far,Yes,565000
+Ibadan,4,3,No,12,Medium,Non-Estate,Far,No,350000
+Lagos,3,3,No,12,Medium,Non-Estate,Near,Yes,830000
+Port Harcourt,4,3,No,8,Medium,Non-Estate,Near,No,540000
+Ilorin,5,4,Yes,8,Medium,Non-Estate,Far,No,395000
+Benin,2,1,No,12,High,Non-Estate,Near,No,260000
+Abuja,3,3,Yes,12,Medium,Non-Estate,Far,No,875000
+Lagos,3,2,Yes,8,High,Estate,Near,No,1020000
+Ibadan,5,3,No,16,Medium,Non-Estate,Far,Yes,515000
+Port Harcourt,5,3,Yes,16,High,Non-Estate,Near,Yes,1225000
+Lagos,3,2,No,0,Medium,Estate,Near,No,470000
+Lagos,2,1,Yes,8,High,Non-Estate,Near,Yes,700000
+Benin,3,3,Yes,12,Low,Estate,Near,Yes,395000
+Port Harcourt,1,1,Yes,4,Low,Non-Estate,Near,No,245000
+Ibadan,3,2,Yes,8,Medium,Non-Estate,Near,No,430000
+Benin,4,3,No,4,High,Estate,Far,No,330000
+Port Harcourt,2,1,No,24,Medium,Non-Estate,Near,No,480000
+Abuja,3,2,No,16,Low,Estate,Far,No,945000
+Abuja,2,1,No,4,Medium,Estate,Far,Yes,465000
+Abuja,2,2,Yes,0,Medium,Estate,Far,Yes,545000
+Abuja,2,1,Yes,16,Medium,Non-Estate,Near,No,815000
+Ibadan,3,2,Yes,12,Medium,Non-Estate,Near,Yes,410000
+Port Harcourt,4,3,No,16,High,Estate,Near,Yes,935000
+Benin,4,3,No,20,High,Non-Estate,Far,No,445000
+Abuja,2,1,No,12,Medium,Estate,Far,Yes,640000
+Port Harcourt,4,4,No,4,Medium,Non-Estate,Near,Yes,515000
+Port Harcourt,3,2,No,16,Medium,Estate,Near,Yes,660000
+Port Harcourt,2,1,No,24,Medium,Estate,Near,Yes,565000
+Ibadan,1,1,No,12,Low,Estate,Near,Yes,185000
+Lagos,2,1,Yes,16,High,Non-Estate,Near,No,775000
+Abuja,4,2,No,8,Medium,Non-Estate,Far,Yes,735000
+Lagos,3,2,No,8,High,Non-Estate,Near,Yes,720000
+Abuja,3,2,No,16,High,Estate,Far,Yes,1035000
+Abuja,2,1,Yes,20,Low,Non-Estate,Far,Yes,685000
+Port Harcourt,3,2,No,12,High,Non-Estate,Far,No,505000
+Ilorin,1,1,No,16,Medium,Estate,Near,Yes,140000
+Port Harcourt,2,1,No,4,Medium,Estate,Near,No,300000
+Ibadan,3,2,Yes,8,Medium,Estate,Near,Yes,465000
+Abuja,1,1,No,12,Medium,Non-Estate,Far,No,380000
+Port Harcourt,4,2,No,4,Medium,Non-Estate,Near,Yes,475000
+Lagos,2,1,No,12,Medium,Non-Estate,Near,Yes,510000
+Lagos,3,2,No,8,Low,Estate,Near,Yes,765000
+Abuja,2,2,No,16,Medium,Estate,Near,No,640000
+Abuja,3,3,Yes,16,Medium,Non-Estate,Far,Yes,1050000
+Lagos,1,1,Yes,12,Low,Estate,Near,Yes,525000
+Lagos,1,1,No,4,Medium,Non-Estate,Near,No,235000
+Lagos,4,3,No,12,Medium,Non-Estate,Near,Yes,950000
+Ilorin,2,1,Yes,24,Medium,Estate,Near,Yes,365000
+Abuja,4,4,No,12,Low,Non-Estate,Far,No,785000
+Abuja,5,3,No,0,High,Non-Estate,Near,Yes,1035000
+Lagos,2,1,No,0,Medium,Non-Estate,Near,No,320000
+Port Harcourt,2,1,Yes,8,Low,Non-Estate,Far,Yes,350000
+Lagos,3,2,Yes,4,Medium,Estate,Far,Yes,720000
+Lagos,5,4,No,16,Medium,Non-Estate,Near,Yes,1055000
+Abuja,4,3,No,16,Low,Non-Estate,Near,No,1010000
+Lagos,3,3,No,8,Medium,Non-Estate,Near,No,530000
+Lagos,3,3,No,8,High,Non-Estate,Near,No,755000
+Lagos,1,1,No,8,Medium,Non-Estate,Near,Yes,325000
+Lagos,5,4,No,20,Low,Estate,Near,No,1360000
+Lagos,5,4,No,12,High,Estate,Far,Yes,1215000
+Abuja,2,1,No,16,Medium,Estate,Near,Yes,685000
+Ibadan,2,1,No,12,High,Estate,Far,No,265000
+Port Harcourt,1,1,Yes,12,Low,Estate,Far,Yes,390000
+Abuja,2,2,No,8,Medium,Estate,Far,Yes,530000
+Lagos,4,3,Yes,8,Medium,Non-Estate,Near,Yes,1025000
+Benin,2,2,No,12,Low,Non-Estate,Far,No,180000
+Abuja,1,1,No,12,High,Non-Estate,Far,Yes,455000
+Lagos,2,1,Yes,8,Medium,Non-Estate,Near,Yes,565000
+Port Harcourt,5,4,Yes,4,Low,Estate,Near,No,895000
+Lagos,3,2,No,8,Medium,Non-Estate,Near,Yes,640000
+Abuja,2,1,No,12,Medium,Non-Estate,Far,Yes,510000
+Abuja,2,1,Yes,12,Low,Estate,Near,No,810000
+Benin,5,3,No,20,High,Non-Estate,Near,No,620000
+Abuja,4,3,Yes,0,High,Estate,Far,Yes,1080000
+Ibadan,2,1,Yes,8,Medium,Estate,Near,No,350000
+Ilorin,1,1,Yes,4,Medium,Estate,Far,Yes,145000
+Lagos,1,1,Yes,12,Medium,Non-Estate,Near,Yes,455000
+Lagos,1,1,No,12,High,Non-Estate,Far,Yes,330000
+Abuja,3,2,No,16,High,Non-Estate,Near,Yes,990000
+Abuja,4,3,No,8,Medium,Non-Estate,Near,Yes,865000
+Abuja,2,2,No,12,High,Estate,Far,No,715000
+Benin,4,2,Yes,20,Medium,Non-Estate,Near,No,525000
+Ibadan,2,2,No,20,Medium,Non-Estate,Near,No,325000
+Port Harcourt,3,3,Yes,24,High,Estate,Far,No,1145000
+Abuja,3,2,No,16,Medium,Non-Estate,Near,Yes,895000
+Ibadan,2,1,No,20,Medium,Estate,Far,Yes,285000
+Ilorin,2,2,Yes,8,Medium,Estate,Near,No,205000
+Ibadan,3,3,No,4,Medium,Non-Estate,Near,No,295000
+Lagos,1,1,Yes,0,Medium,Non-Estate,Near,No,290000
+Port Harcourt,2,1,No,16,High,Non-Estate,Far,Yes,495000
+Lagos,3,3,Yes,20,Medium,Non-Estate,Near,Yes,965000
+Lagos,5,4,No,4,High,Estate,Far,Yes,970000
+Lagos,2,2,Yes,12,Medium,Non-Estate,Far,Yes,625000
+Port Harcourt,4,3,No,16,Medium,Non-Estate,Near,Yes,775000
+Port Harcourt,2,2,No,20,High,Non-Estate,Far,Yes,500000
+Lagos,3,2,Yes,12,Medium,Non-Estate,Far,No,725000
+Abuja,3,2,No,24,Low,Non-Estate,Near,Yes,825000
+Abuja,4,3,No,8,Medium,Non-Estate,Near,Yes,780000
+Abuja,2,2,No,8,Medium,Non-Estate,Near,No,460000
+Lagos,3,2,Yes,12,Low,Non-Estate,Far,Yes,765000
+Abuja,3,2,Yes,8,High,Non-Estate,Far,No,975000
+Ibadan,2,1,No,0,High,Estate,Near,Yes,215000
+Lagos,1,1,No,16,Medium,Non-Estate,Near,No,325000
+Lagos,1,1,No,16,High,Non-Estate,Far,No,425000
+Abuja,1,1,Yes,16,High,Non-Estate,Near,No,680000
+Benin,4,2,No,8,Medium,Non-Estate,Far,Yes,260000
+Port Harcourt,2,2,Yes,12,Low,Estate,Near,Yes,560000
+Port Harcourt,2,2,No,8,Low,Estate,Far,Yes,350000
+Abuja,3,3,No,0,Low,Estate,Far,Yes,520000
+Port Harcourt,2,1,Yes,12,Low,Estate,Near,Yes,565000
+Lagos,3,3,No,4,Medium,Non-Estate,Near,No,630000
+Port Harcourt,2,1,Yes,4,Medium,Estate,Near,Yes,480000
+Benin,5,3,No,16,Low,Non-Estate,Near,No,505000
+Port Harcourt,4,4,No,0,Low,Non-Estate,Near,No,465000
+Benin,4,2,No,24,Medium,Estate,Far,No,520000
+Ibadan,2,1,Yes,12,Medium,Estate,Near,Yes,335000
+Lagos,3,3,Yes,24,High,Non-Estate,Near,No,1135000
+Benin,1,1,No,4,Low,Estate,Far,Yes,135000
+Lagos,1,1,No,12,High,Estate,Far,Yes,420000
+Abuja,1,1,No,8,High,Non-Estate,Near,No,380000
+Lagos,3,3,Yes,16,Medium,Non-Estate,Far,Yes,970000
+Lagos,2,1,Yes,8,Medium,Non-Estate,Far,No,465000
+Abuja,3,3,No,8,High,Estate,Near,Yes,1000000
+Lagos,1,1,No,20,Low,Estate,Near,Yes,445000
+Abuja,2,1,No,8,High,Non-Estate,Near,Yes,630000
+Port Harcourt,3,2,No,0,High,Non-Estate,Far,Yes,380000
+Lagos,2,1,No,8,Medium,Non-Estate,Far,Yes,415000
+Lagos,3,2,Yes,16,Medium,Estate,Far,Yes,850000
+Port Harcourt,2,2,Yes,8,Medium,Estate,Near,No,570000
+Abuja,4,3,No,12,Medium,Estate,Near,No,1140000
+Ibadan,3,2,No,4,Medium,Non-Estate,Far,No,225000
+Port Harcourt,2,2,No,12,Medium,Estate,Near,No,425000
+Ibadan,2,1,No,16,Low,Non-Estate,Near,Yes,250000
+Port Harcourt,3,2,No,12,Medium,Estate,Near,No,605000
+Abuja,4,4,Yes,12,Medium,Non-Estate,Far,Yes,1255000
+Port Harcourt,2,1,No,4,Medium,Estate,Near,Yes,340000
+Lagos,2,1,No,8,Low,Non-Estate,Near,No,430000
+Abuja,4,3,No,4,Low,Estate,Far,Yes,910000
+Ibadan,3,2,No,12,Medium,Non-Estate,Far,No,265000
+Abuja,2,2,No,12,Medium,Non-Estate,Far,Yes,550000
+Ibadan,2,1,Yes,20,Low,Estate,Far,Yes,400000
+Ibadan,2,1,No,4,High,Non-Estate,Near,Yes,240000
+Benin,3,2,No,12,High,Non-Estate,Near,Yes,285000
+Benin,2,1,No,12,Medium,Non-Estate,Far,No,170000
+Abuja,5,3,No,12,Low,Non-Estate,Near,No,930000
+Abuja,2,1,Yes,20,Medium,Non-Estate,Far,Yes,800000
+Port Harcourt,2,2,Yes,8,Medium,Estate,Far,Yes,530000
+Abuja,3,3,Yes,0,High,Estate,Near,Yes,855000
+Port Harcourt,4,2,Yes,16,Medium,Non-Estate,Near,No,820000
+Ibadan,4,3,No,8,Medium,Non-Estate,Near,Yes,385000
+Port Harcourt,2,1,No,0,High,Estate,Near,No,380000
+Abuja,3,3,No,8,Low,Non-Estate,Near,No,615000
+Lagos,3,3,No,8,Low,Estate,Far,No,640000
+Abuja,2,1,Yes,12,Medium,Non-Estate,Near,No,730000
+Lagos,2,2,No,4,Low,Non-Estate,Far,No,395000
+Benin,2,1,No,12,Low,Non-Estate,Near,No,200000
+Abuja,2,1,Yes,12,Medium,Estate,Near,No,730000
+Lagos,4,2,No,12,Medium,Non-Estate,Near,No,860000
+Lagos,2,1,No,24,Medium,Non-Estate,Far,No,610000
+Port Harcourt,5,3,No,0,High,Non-Estate,Near,No,670000
+Port Harcourt,3,2,Yes,24,Medium,Estate,Near,No,840000
+Abuja,3,3,No,12,Low,Non-Estate,Far,No,600000
+Lagos,3,2,Yes,16,Low,Non-Estate,Near,No,895000
+Abuja,1,1,Yes,12,Low,Non-Estate,Near,Yes,555000
+Abuja,2,1,No,12,Low,Non-Estate,Near,Yes,585000
+Port Harcourt,1,1,No,20,Low,Non-Estate,Near,No,345000
+Port Harcourt,3,2,No,20,Medium,Estate,Near,Yes,755000
+Abuja,2,1,No,8,Medium,Non-Estate,Near,Yes,480000
+Lagos,3,2,No,4,Medium,Non-Estate,Near,Yes,570000
+Ilorin,2,1,No,12,High,Estate,Far,No,210000
+Abuja,2,1,No,20,High,Non-Estate,Far,No,720000
+Port Harcourt,2,1,No,8,Medium,Estate,Far,Yes,430000
+Lagos,4,3,No,16,Low,Estate,Far,Yes,940000
+Abuja,3,3,No,16,Medium,Non-Estate,Near,No,745000
+Lagos,2,1,Yes,16,Medium,Non-Estate,Far,No,675000
+Abuja,3,2,No,12,Low,Non-Estate,Near,Yes,660000
+Ilorin,1,1,No,12,High,Non-Estate,Far,Yes,140000
+Abuja,5,4,No,24,Medium,Non-Estate,Near,No,1730000
+Lagos,3,2,No,12,Low,Non-Estate,Near,No,580000
+Lagos,2,1,Yes,16,High,Non-Estate,Far,No,755000
+Abuja,3,2,No,8,High,Non-Estate,Far,No,665000
+Lagos,1,1,No,16,Medium,Non-Estate,Far,No,380000
+Lagos,5,4,Yes,8,Medium,Estate,Near,Yes,1240000
+Ibadan,2,1,No,8,Medium,Non-Estate,Near,Yes,240000
+Abuja,3,2,No,16,Medium,Non-Estate,Near,No,855000
+Lagos,2,2,No,12,Low,Non-Estate,Near,No,480000
+Benin,3,3,No,16,Medium,Non-Estate,Near,No,345000
+Lagos,3,2,No,8,High,Estate,Near,No,860000
+Ilorin,3,3,No,12,Medium,Non-Estate,Near,No,255000
+Abuja,3,2,No,12,High,Estate,Near,No,1100000
+Benin,4,4,No,12,High,Estate,Far,Yes,480000
+Port Harcourt,1,1,No,8,Medium,Non-Estate,Far,Yes,240000
+Ibadan,2,1,No,16,High,Non-Estate,Near,No,285000
+Ilorin,2,2,No,16,Low,Non-Estate,Near,Yes,220000
+Lagos,5,3,Yes,8,Medium,Estate,Near,Yes,1160000
+Ilorin,2,1,No,8,High,Non-Estate,Near,No,160000
+Abuja,3,2,No,16,Low,Non-Estate,Far,No,670000
+Abuja,3,3,No,16,Medium,Estate,Far,Yes,935000
+Abuja,2,1,Yes,16,High,Estate,Far,No,1015000
+Abuja,2,1,Yes,16,Medium,Estate,Near,Yes,860000
+Lagos,2,2,Yes,8,Low,Non-Estate,Far,Yes,595000
+Port Harcourt,2,1,Yes,8,Low,Non-Estate,Near,No,395000
+Abuja,2,1,No,8,Medium,Non-Estate,Near,No,535000
+Ibadan,1,1,Yes,4,High,Non-Estate,Near,Yes,215000
+Ibadan,4,3,No,16,High,Non-Estate,Far,Yes,495000
+Abuja,5,3,Yes,4,Medium,Non-Estate,Near,Yes,1165000
+Abuja,2,1,Yes,20,Medium,Non-Estate,Near,No,790000
+Lagos,2,2,No,16,Medium,Non-Estate,Far,No,480000
+Lagos,1,1,Yes,20,Low,Non-Estate,Near,Yes,480000
+Lagos,3,2,No,20,Medium,Non-Estate,Near,Yes,735000
+Abuja,4,3,Yes,12,Medium,Estate,Near,No,1305000
+Lagos,1,1,No,16,Medium,Estate,Near,No,450000
+Ilorin,2,1,No,4,High,Non-Estate,Far,No,130000
+Port Harcourt,3,2,No,0,Medium,Estate,Near,Yes,465000
+Abuja,3,2,Yes,16,Medium,Non-Estate,Near,No,1160000
+Port Harcourt,1,1,No,4,Low,Non-Estate,Near,Yes,210000
+Lagos,3,2,No,24,High,Estate,Far,Yes,1060000
+Abuja,2,1,No,16,High,Non-Estate,Near,Yes,640000
+Port Harcourt,2,2,No,16,High,Non-Estate,Far,Yes,480000
+Abuja,3,3,Yes,8,Medium,Estate,Near,No,1090000
+Abuja,4,3,No,16,Medium,Non-Estate,Near,No,965000
+Ilorin,2,1,Yes,0,Medium,Non-Estate,Far,No,120000
+Benin,4,2,Yes,16,Low,Estate,Near,Yes,510000
+Port Harcourt,2,2,No,4,Medium,Estate,Near,Yes,430000
+Port Harcourt,3,2,Yes,16,High,Estate,Near,Yes,1015000
+Port Harcourt,2,2,Yes,8,Low,Estate,Near,No,570000
+Lagos,4,4,Yes,4,Low,Estate,Near,No,1095000
+Abuja,4,4,No,12,Medium,Non-Estate,Far,Yes,885000
+Lagos,1,1,No,4,Medium,Estate,Far,Yes,265000
+Abuja,4,3,No,16,Medium,Non-Estate,Near,Yes,1070000
+Abuja,4,3,Yes,8,Medium,Estate,Near,No,1245000
+Lagos,3,2,No,8,Medium,Non-Estate,Far,Yes,565000
+Ilorin,2,1,No,12,High,Non-Estate,Near,Yes,175000
+Benin,4,4,No,8,Medium,Non-Estate,Near,Yes,320000
+Ibadan,4,2,Yes,8,High,Non-Estate,Far,Yes,435000
+Abuja,2,2,No,16,High,Estate,Far,Yes,900000
+Benin,5,4,No,4,High,Non-Estate,Far,No,430000
+Lagos,1,1,Yes,4,Low,Estate,Far,No,310000
+Ibadan,1,1,Yes,8,Low,Estate,Far,Yes,195000
+Lagos,3,2,Yes,12,Low,Non-Estate,Near,Yes,705000
+Ibadan,3,2,No,12,Medium,Non-Estate,Far,No,340000
+Lagos,3,2,Yes,8,High,Estate,Near,No,1085000
+Benin,1,1,No,16,Medium,Non-Estate,Near,Yes,160000
+Benin,5,4,Yes,0,High,Non-Estate,Near,No,425000
+Lagos,1,1,No,12,Medium,Non-Estate,Far,No,305000
+Abuja,1,1,Yes,8,Medium,Estate,Near,Yes,535000
+Ilorin,1,1,No,12,High,Estate,Far,No,150000
+Abuja,3,2,No,24,Medium,Non-Estate,Far,No,890000
+Benin,4,2,Yes,12,High,Estate,Near,No,625000
+Port Harcourt,3,2,No,24,Low,Non-Estate,Far,Yes,545000
+Abuja,4,3,Yes,8,High,Non-Estate,Far,Yes,1300000
+Lagos,1,1,No,0,Medium,Non-Estate,Far,Yes,220000
+Lagos,3,2,No,4,High,Non-Estate,Near,No,570000
+Ibadan,2,1,Yes,8,Low,Non-Estate,Far,Yes,270000
+Abuja,2,1,Yes,8,Medium,Non-Estate,Far,Yes,665000
+Abuja,1,1,No,4,High,Non-Estate,Near,No,380000
+Abuja,3,2,No,12,High,Estate,Near,Yes,1100000
+Port Harcourt,3,2,No,8,Low,Non-Estate,Near,No,475000
+Benin,3,2,No,4,Medium,Non-Estate,Far,Yes,205000
+Ilorin,2,2,No,8,Medium,Non-Estate,Near,Yes,175000
+Abuja,1,1,Yes,20,Low,Non-Estate,Near,Yes,640000
+Ibadan,3,2,No,8,Medium,Non-Estate,Far,No,280000
+Ibadan,2,2,Yes,16,Low,Non-Estate,Near,No,345000
+Port Harcourt,4,3,No,12,Medium,Non-Estate,Far,Yes,700000
+Ilorin,3,3,No,12,Medium,Non-Estate,Near,No,260000
+Lagos,2,1,Yes,8,Medium,Estate,Near,No,580000
+Lagos,5,3,No,8,Medium,Estate,Near,Yes,1165000
+Benin,3,2,No,12,High,Non-Estate,Far,Yes,335000
+Abuja,1,1,No,8,Low,Non-Estate,Far,Yes,300000
+Ibadan,3,2,Yes,8,Medium,Non-Estate,Far,No,370000
+Benin,2,1,Yes,4,Low,Estate,Far,No,185000
+Lagos,4,3,No,20,Medium,Estate,Near,Yes,1065000
+Benin,4,3,No,12,Low,Estate,Near,Yes,420000
+Abuja,5,3,No,12,Low,Non-Estate,Near,Yes,1265000
+Abuja,3,3,Yes,12,Medium,Estate,Far,Yes,945000
+Port Harcourt,2,1,No,20,Medium,Estate,Far,Yes,555000
+Benin,3,2,No,12,High,Non-Estate,Near,Yes,330000
+Lagos,1,1,No,12,Medium,Non-Estate,Far,Yes,370000
+Abuja,3,3,No,20,High,Estate,Far,No,1270000
+Port Harcourt,3,2,No,16,Medium,Non-Estate,Near,Yes,665000
+Ibadan,1,1,No,4,Low,Non-Estate,Far,Yes,140000
+Port Harcourt,2,1,No,4,Medium,Non-Estate,Near,Yes,350000
+Lagos,4,3,No,16,Medium,Non-Estate,Far,Yes,810000
+Lagos,4,4,No,16,Medium,Non-Estate,Near,No,920000
+Abuja,1,1,No,12,Medium,Estate,Near,No,415000
+Ibadan,1,1,No,12,Medium,Estate,Near,Yes,230000
+Lagos,2,1,Yes,12,Medium,Non-Estate,Far,Yes,515000
+Lagos,4,4,Yes,12,Low,Non-Estate,Far,Yes,935000
+Ilorin,1,1,Yes,16,Low,Non-Estate,Near,Yes,180000
+Lagos,3,3,Yes,4,Low,Estate,Far,No,740000
+Ilorin,1,1,Yes,24,Low,Non-Estate,Far,Yes,195000
+Port Harcourt,3,2,Yes,16,High,Estate,Far,No,770000
+Ibadan,2,2,No,12,Low,Non-Estate,Near,No,240000
+Lagos,3,2,No,8,Medium,Estate,Near,Yes,655000
+Lagos,2,2,Yes,4,Medium,Non-Estate,Far,Yes,420000
+Ibadan,3,2,Yes,12,Low,Estate,Near,No,425000
+Ibadan,2,1,No,16,High,Estate,Near,Yes,355000
+Ibadan,3,3,No,12,Medium,Estate,Near,Yes,375000
+Lagos,4,3,No,8,Low,Non-Estate,Near,Yes,770000
+Ibadan,1,1,No,12,High,Estate,Near,No,225000
+Ibadan,4,3,No,16,Low,Non-Estate,Far,Yes,380000
+Port Harcourt,3,2,No,0,Low,Non-Estate,Near,No,365000
+Ibadan,1,1,No,12,High,Non-Estate,Near,No,215000
+Ibadan,2,1,No,16,Medium,Estate,Near,No,340000
+Port Harcourt,2,1,No,12,Medium,Non-Estate,Far,Yes,365000
+Lagos,3,2,No,16,Low,Non-Estate,Far,No,715000
+Abuja,3,2,No,12,High,Non-Estate,Far,Yes,920000
+Lagos,1,1,Yes,24,Medium,Non-Estate,Near,Yes,595000
+Abuja,3,2,No,4,Low,Non-Estate,Near,No,550000
+Abuja,4,3,No,12,Medium,Non-Estate,Far,Yes,790000
+Lagos,4,4,No,4,High,Non-Estate,Far,No,800000
+Abuja,3,2,No,4,Low,Non-Estate,Far,Yes,555000
+Lagos,5,4,No,8,High,Estate,Near,No,1400000
+Ibadan,3,3,No,4,Medium,Estate,Near,Yes,350000
+Benin,2,1,No,24,Medium,Estate,Near,No,345000
+Lagos,4,3,Yes,20,Medium,Estate,Far,Yes,1550000
+Ilorin,2,2,No,8,High,Non-Estate,Near,Yes,215000
+Abuja,2,1,Yes,12,Low,Non-Estate,Near,No,610000
+Lagos,2,1,Yes,12,Low,Estate,Near,No,580000
+Lagos,4,3,No,16,High,Non-Estate,Near,Yes,1205000
+Abuja,4,3,Yes,12,Medium,Estate,Near,Yes,1565000
+Ibadan,2,2,No,0,Medium,Non-Estate,Near,Yes,175000
+Ibadan,2,1,Yes,16,Medium,Non-Estate,Far,Yes,350000
+Lagos,2,1,Yes,16,Medium,Estate,Near,Yes,800000
+Lagos,3,2,No,12,High,Non-Estate,Near,No,650000
+Abuja,2,1,No,20,High,Estate,Near,Yes,895000
+Lagos,3,2,No,20,Medium,Non-Estate,Near,Yes,915000
+Lagos,2,1,No,12,Medium,Non-Estate,Far,No,435000
+Lagos,2,2,No,12,Medium,Estate,Near,Yes,665000
+Ibadan,1,1,No,24,Medium,Non-Estate,Far,No,180000
+Benin,2,2,No,8,Medium,Estate,Near,No,240000
+Abuja,4,3,No,8,Medium,Estate,Far,No,1040000
+Benin,2,1,No,4,Low,Non-Estate,Near,No,155000
+Abuja,2,1,Yes,20,Medium,Non-Estate,Near,No,770000
+Abuja,2,1,No,16,Medium,Non-Estate,Far,Yes,600000
+Lagos,2,1,No,4,High,Non-Estate,Near,Yes,510000
+Port Harcourt,1,1,No,24,Medium,Non-Estate,Near,No,320000
+Ilorin,2,2,No,16,Low,Estate,Far,Yes,200000
+Port Harcourt,3,3,No,20,Medium,Non-Estate,Near,Yes,625000
+Abuja,3,2,No,0,High,Non-Estate,Near,No,590000
+Port Harcourt,2,1,No,12,Medium,Non-Estate,Near,No,380000
+Lagos,2,1,Yes,16,Medium,Estate,Far,Yes,820000
+Benin,5,4,Yes,12,Medium,Non-Estate,Far,No,505000
+Abuja,2,1,No,16,Low,Non-Estate,Near,No,575000
+Abuja,2,1,No,16,High,Non-Estate,Near,No,755000
+Port Harcourt,2,2,Yes,8,Low,Non-Estate,Near,No,410000
+Port Harcourt,2,2,Yes,16,Medium,Estate,Near,Yes,710000
+Lagos,3,2,Yes,4,Low,Non-Estate,Far,No,610000
+Port Harcourt,2,1,No,8,Low,Non-Estate,Near,No,305000
+Lagos,3,2,No,0,Medium,Non-Estate,Near,No,405000
+Ibadan,1,1,No,8,Medium,Estate,Far,No,170000
+Ibadan,2,1,Yes,8,Medium,Non-Estate,Far,Yes,255000
+Ibadan,3,2,No,16,Medium,Non-Estate,Far,Yes,330000
+Port Harcourt,2,2,Yes,16,Medium,Estate,Far,Yes,710000
+Abuja,3,2,Yes,12,Medium,Estate,Far,No,980000
+Lagos,2,1,No,16,Medium,Non-Estate,Near,No,575000
+Ibadan,3,2,No,4,Medium,Non-Estate,Near,Yes,255000
+Lagos,1,1,Yes,4,Medium,Estate,Near,No,445000
+Abuja,4,3,Yes,12,Medium,Estate,Near,No,1495000
+Lagos,2,1,Yes,12,High,Estate,Far,Yes,825000
+Lagos,4,3,No,16,Low,Estate,Near,Yes,1025000
+Port Harcourt,2,1,Yes,12,High,Non-Estate,Near,Yes,565000
+Lagos,3,3,Yes,16,Low,Estate,Near,No,1065000
+Ibadan,2,1,Yes,16,Medium,Estate,Near,No,415000
+Abuja,4,2,No,24,Medium,Non-Estate,Far,Yes,1250000
+Lagos,1,1,No,8,Medium,Estate,Far,Yes,300000
+Abuja,2,2,No,12,Low,Non-Estate,Near,No,620000
+Lagos,2,2,No,12,High,Non-Estate,Near,No,655000
+Lagos,1,1,No,24,High,Non-Estate,Far,No,485000
+Ibadan,2,1,No,8,Medium,Non-Estate,Far,Yes,190000
+Lagos,4,3,Yes,12,Medium,Non-Estate,Near,Yes,1205000
+Ibadan,5,4,Yes,8,High,Estate,Far,No,750000
+Lagos,2,1,No,12,High,Non-Estate,Far,Yes,575000
+Lagos,4,4,Yes,8,Medium,Non-Estate,Far,Yes,1065000
+Ibadan,3,2,No,0,Medium,Estate,Far,No,215000
+Abuja,2,2,No,12,Medium,Non-Estate,Far,No,555000
+Lagos,3,3,No,8,Medium,Non-Estate,Near,No,615000
+Abuja,3,3,Yes,4,Medium,Estate,Far,No,950000
+Lagos,5,4,No,8,Medium,Non-Estate,Far,Yes,860000
+Ibadan,2,2,No,0,Low,Non-Estate,Far,Yes,155000
+Abuja,3,2,Yes,24,Medium,Non-Estate,Far,Yes,1300000
+Ibadan,1,1,No,12,Medium,Non-Estate,Near,No,160000
+Benin,1,1,Yes,16,High,Non-Estate,Near,Yes,255000
+Abuja,1,1,Yes,12,High,Estate,Near,No,605000
+Benin,5,4,No,20,Medium,Estate,Far,Yes,615000
+Abuja,4,3,Yes,12,Medium,Estate,Near,Yes,1495000
+Ilorin,3,2,Yes,12,Low,Non-Estate,Near,Yes,270000
+Lagos,3,2,Yes,12,Medium,Non-Estate,Near,No,920000
+Port Harcourt,2,2,No,16,Low,Non-Estate,Far,Yes,365000
+Abuja,2,1,No,12,Medium,Non-Estate,Far,No,485000
+Abuja,2,1,Yes,8,Medium,Non-Estate,Far,Yes,575000
+Port Harcourt,2,1,No,4,Medium,Non-Estate,Far,No,290000
+Ibadan,3,3,Yes,12,Low,Estate,Near,No,470000
+Lagos,3,2,No,12,High,Non-Estate,Far,Yes,630000
+Lagos,1,1,No,4,Medium,Non-Estate,Near,No,310000
+Ibadan,1,1,No,8,Low,Non-Estate,Near,No,145000
+Port Harcourt,1,1,No,12,Low,Estate,Far,No,265000
+Ilorin,2,2,No,16,Medium,Non-Estate,Far,No,175000
+Ibadan,4,2,Yes,4,Low,Non-Estate,Far,Yes,340000
+Ilorin,3,2,No,8,High,Estate,Near,Yes,240000
+Ibadan,4,2,Yes,16,Medium,Estate,Near,Yes,600000
+Lagos,2,1,No,12,High,Estate,Near,No,560000
+Lagos,2,1,Yes,8,Low,Non-Estate,Near,Yes,480000
+Ibadan,1,1,No,16,Medium,Estate,Near,No,220000
+Port Harcourt,4,2,Yes,12,Medium,Non-Estate,Near,No,810000
+Lagos,3,2,Yes,12,Medium,Non-Estate,Near,No,835000
+Abuja,2,1,No,24,Medium,Non-Estate,Far,Yes,580000
+Ilorin,3,3,No,20,High,Non-Estate,Far,Yes,355000
+Abuja,2,1,No,8,Low,Estate,Far,Yes,565000
+Abuja,3,2,No,4,Medium,Non-Estate,Far,Yes,655000
+Abuja,4,2,No,8,High,Estate,Near,Yes,1065000
+Lagos,3,2,Yes,0,Low,Non-Estate,Far,Yes,550000
+Abuja,3,2,Yes,0,Low,Estate,Near,No,635000
+Abuja,1,1,Yes,8,Low,Non-Estate,Near,Yes,485000
+Lagos,1,1,No,20,Medium,Non-Estate,Near,Yes,390000
+Ibadan,2,1,Yes,20,Medium,Non-Estate,Near,Yes,360000
+Abuja,1,1,Yes,12,Low,Non-Estate,Far,Yes,450000
+Ibadan,3,3,Yes,12,Medium,Estate,Near,Yes,550000
+Benin,3,2,Yes,0,Medium,Estate,Far,Yes,275000
+Lagos,1,1,No,8,Low,Non-Estate,Far,No,240000
+Port Harcourt,4,4,Yes,0,Medium,Non-Estate,Near,Yes,640000
+Abuja,2,1,No,16,Medium,Non-Estate,Near,No,670000
+Benin,2,1,No,4,High,Estate,Far,Yes,230000
+Lagos,2,1,No,20,Medium,Non-Estate,Near,No,580000
+Port Harcourt,2,1,Yes,12,High,Non-Estate,Near,No,550000
+Port Harcourt,2,1,Yes,8,Medium,Non-Estate,Far,No,345000
+Lagos,2,2,Yes,4,Medium,Non-Estate,Far,No,425000
+Lagos,2,1,No,12,Medium,Non-Estate,Far,Yes,425000
+Port Harcourt,5,3,Yes,20,High,Estate,Near,Yes,1625000
+Ibadan,1,1,No,16,Medium,Estate,Near,Yes,250000
+Abuja,1,1,No,8,High,Non-Estate,Near,Yes,420000
+Port Harcourt,1,1,No,12,High,Non-Estate,Near,Yes,290000
+Abuja,3,3,No,8,Low,Non-Estate,Near,No,665000
+Ibadan,1,1,No,24,Low,Non-Estate,Near,Yes,205000
+Lagos,4,2,No,16,Low,Non-Estate,Far,Yes,855000
+Benin,3,2,Yes,12,Medium,Non-Estate,Far,Yes,300000
+Lagos,3,2,No,12,Low,Non-Estate,Far,No,565000
+Abuja,3,3,No,12,High,Estate,Far,No,1015000
+Lagos,2,1,No,8,Low,Non-Estate,Near,Yes,390000
+Lagos,2,1,Yes,0,Medium,Non-Estate,Near,Yes,380000
+Abuja,2,1,No,8,Low,Estate,Far,Yes,525000
+Lagos,3,2,Yes,20,High,Non-Estate,Far,No,885000
+Ibadan,2,1,Yes,12,Medium,Non-Estate,Near,Yes,325000
+Lagos,1,1,Yes,4,High,Non-Estate,Near,No,420000
+Abuja,5,4,Yes,20,High,Estate,Far,Yes,2180000
+Abuja,1,1,No,8,Medium,Estate,Near,Yes,425000
+Lagos,4,3,No,8,Low,Estate,Near,No,930000
+Lagos,3,2,Yes,8,Low,Estate,Near,No,785000
+Abuja,2,1,No,12,Low,Non-Estate,Far,No,545000
+Abuja,1,1,No,12,Medium,Estate,Near,Yes,425000
+Abuja,1,1,No,12,Low,Non-Estate,Far,No,365000
+Abuja,3,3,No,16,Low,Estate,Near,Yes,1040000
+Port Harcourt,3,2,No,8,Medium,Estate,Near,Yes,625000
+Lagos,3,2,Yes,16,Medium,Non-Estate,Far,Yes,755000
+Abuja,4,4,No,4,Medium,Non-Estate,Near,Yes,800000
+Ilorin,3,2,No,16,Medium,Non-Estate,Near,No,215000
+Abuja,2,1,No,16,High,Non-Estate,Near,Yes,805000
+Port Harcourt,2,1,No,16,Medium,Non-Estate,Far,No,375000
+Abuja,4,3,No,12,Low,Non-Estate,Near,Yes,1075000
+Ibadan,2,1,Yes,16,High,Non-Estate,Near,Yes,375000
+Ibadan,1,1,Yes,4,High,Estate,Far,No,190000
+Abuja,3,3,Yes,20,Low,Non-Estate,Near,No,1055000
+Ilorin,2,1,No,4,Medium,Estate,Near,No,155000
+Lagos,4,3,No,4,Medium,Non-Estate,Far,No,685000
+Lagos,3,3,No,12,Low,Estate,Near,Yes,765000
+Ibadan,1,1,No,16,High,Non-Estate,Near,No,250000
+Ibadan,4,2,No,4,Medium,Non-Estate,Far,No,275000
+Lagos,2,1,No,20,High,Estate,Far,Yes,765000
+Lagos,2,1,No,24,Medium,Non-Estate,Near,No,655000
+Lagos,2,1,Yes,12,Medium,Estate,Near,No,630000
+Lagos,1,1,No,12,Low,Estate,Far,Yes,315000
+Ibadan,2,1,No,16,Low,Non-Estate,Near,No,245000
+Abuja,1,1,Yes,8,Low,Non-Estate,Near,Yes,380000
+Abuja,2,1,Yes,12,Low,Non-Estate,Near,No,720000
+Abuja,2,1,No,20,Medium,Non-Estate,Far,Yes,715000
+Lagos,3,2,Yes,24,High,Non-Estate,Near,Yes,1345000
+Lagos,4,3,No,20,Medium,Non-Estate,Far,No,995000
+Port Harcourt,2,1,Yes,8,High,Non-Estate,Far,Yes,435000
+Ilorin,2,1,No,8,Medium,Estate,Near,Yes,155000
+Ibadan,2,1,No,8,High,Estate,Near,No,315000
+Lagos,2,2,No,12,High,Estate,Far,No,625000
+Benin,3,3,No,8,Low,Non-Estate,Near,No,265000
+Ibadan,3,2,No,8,High,Estate,Near,Yes,445000
+Ibadan,2,2,No,12,Medium,Estate,Far,Yes,285000
+Abuja,2,2,No,16,High,Non-Estate,Near,No,650000
+Abuja,1,1,No,16,Medium,Estate,Near,No,540000
+Abuja,3,3,Yes,16,Medium,Non-Estate,Near,Yes,1120000
+Lagos,1,1,No,0,Low,Estate,Near,No,290000
+Lagos,5,3,No,0,Low,Estate,Near,Yes,780000
+Lagos,3,2,Yes,16,Medium,Estate,Far,Yes,905000
+Abuja,2,1,Yes,12,High,Non-Estate,Far,Yes,675000
+Ibadan,3,2,Yes,12,Medium,Non-Estate,Near,Yes,465000
+Abuja,4,3,No,4,Medium,Estate,Near,Yes,945000
+Lagos,3,2,No,8,High,Estate,Near,No,740000
+Ilorin,2,2,Yes,12,High,Non-Estate,Near,Yes,260000
+Benin,2,2,No,20,Medium,Non-Estate,Near,No,265000
+Ibadan,4,3,No,20,Low,Non-Estate,Near,No,455000
+Ilorin,3,3,Yes,12,Low,Non-Estate,Far,No,250000
+Abuja,3,2,No,12,High,Non-Estate,Near,Yes,830000
+Ilorin,4,3,No,16,High,Non-Estate,Near,Yes,365000
+Lagos,4,3,No,12,Medium,Non-Estate,Near,No,835000
+Abuja,4,2,Yes,12,Medium,Non-Estate,Near,Yes,1060000
+Lagos,1,1,Yes,20,High,Estate,Far,No,605000
+Lagos,3,3,Yes,16,High,Estate,Near,Yes,1265000
+Lagos,3,3,No,20,High,Estate,Far,Yes,990000
+Port Harcourt,3,2,No,8,Medium,Estate,Near,No,615000
+Ibadan,3,3,No,12,Low,Estate,Far,No,315000
+Port Harcourt,2,2,Yes,16,Medium,Estate,Far,Yes,650000
+Lagos,3,2,Yes,4,Low,Non-Estate,Near,Yes,580000
+Ibadan,3,2,No,16,High,Non-Estate,Near,No,460000
+Port Harcourt,1,1,No,4,Medium,Non-Estate,Far,Yes,240000
+Abuja,2,1,No,16,High,Non-Estate,Near,Yes,690000
+Port Harcourt,2,1,No,12,Medium,Estate,Far,Yes,465000
+Lagos,2,1,Yes,4,High,Non-Estate,Near,Yes,525000
+Abuja,1,1,Yes,12,Medium,Non-Estate,Near,No,435000
+Benin,2,1,Yes,16,Medium,Estate,Near,Yes,315000
+Lagos,3,2,Yes,12,Medium,Estate,Far,No,815000
+Abuja,3,2,Yes,12,Low,Estate,Near,No,975000
+Benin,3,3,Yes,20,High,Estate,Near,No,560000
+Ibadan,4,2,Yes,12,Medium,Estate,Near,Yes,590000
+Lagos,2,1,Yes,12,Medium,Estate,Near,Yes,755000
+Lagos,1,1,No,4,High,Estate,Near,No,335000
+Lagos,4,2,Yes,20,High,Estate,Near,Yes,1385000
+Port Harcourt,2,2,No,4,Medium,Non-Estate,Far,No,300000
+Abuja,5,4,No,12,High,Estate,Far,Yes,1505000
+Lagos,4,4,No,16,Low,Estate,Near,No,930000
+Ilorin,3,2,No,8,Low,Non-Estate,Near,No,170000
+Abuja,5,4,Yes,12,Medium,Non-Estate,Near,Yes,1575000
+Lagos,1,1,No,8,Medium,Estate,Far,Yes,320000
+Abuja,2,2,No,16,Medium,Non-Estate,Near,Yes,745000
+Port Harcourt,3,2,No,12,Medium,Estate,Near,Yes,560000
+Lagos,2,2,Yes,20,Medium,Estate,Near,Yes,785000
+Lagos,4,3,Yes,20,High,Estate,Far,No,1505000
+Ibadan,1,1,Yes,12,Medium,Non-Estate,Far,Yes,245000
+Abuja,3,2,No,16,High,Estate,Near,Yes,1165000
+Abuja,3,3,No,12,High,Non-Estate,Near,Yes,905000
+Abuja,3,2,Yes,8,Medium,Estate,Near,Yes,855000
+Lagos,2,1,No,12,Medium,Non-Estate,Near,Yes,495000
+Lagos,2,2,No,20,Medium,Estate,Near,No,635000
+Abuja,4,3,No,12,High,Non-Estate,Far,No,1055000
+Lagos,2,1,No,8,Low,Non-Estate,Near,Yes,435000
+Lagos,4,3,No,8,Low,Non-Estate,Far,Yes,650000
+Ibadan,3,2,Yes,12,High,Estate,Near,No,475000
+Ilorin,3,3,No,4,Medium,Non-Estate,Far,Yes,200000
+Ibadan,3,3,Yes,12,Low,Non-Estate,Near,Yes,455000
+Benin,2,1,No,12,Low,Estate,Near,No,245000
+Lagos,3,3,No,12,High,Non-Estate,Far,Yes,710000
+Ilorin,4,2,No,8,High,Non-Estate,Near,Yes,305000
+Lagos,2,1,No,12,Medium,Non-Estate,Near,No,420000
+Ilorin,5,4,Yes,20,Medium,Estate,Far,Yes,565000
+Ilorin,2,1,Yes,24,High,Non-Estate,Near,No,315000
+Ibadan,1,1,No,12,High,Estate,Near,Yes,265000
+Ilorin,2,1,Yes,0,High,Non-Estate,Far,No,140000
+Port Harcourt,5,3,No,24,Medium,Non-Estate,Far,Yes,1085000
+Lagos,2,1,Yes,16,High,Non-Estate,Far,Yes,760000
+Abuja,4,3,Yes,8,Medium,Estate,Near,No,1180000
+Port Harcourt,4,3,Yes,4,Low,Non-Estate,Far,No,655000
+Lagos,2,2,No,4,Medium,Estate,Far,Yes,455000
+Port Harcourt,1,1,No,4,Medium,Non-Estate,Far,No,210000
+Ilorin,3,2,Yes,0,High,Non-Estate,Far,Yes,215000
+Lagos,2,2,Yes,20,Low,Non-Estate,Near,No,715000
+Ibadan,3,3,No,12,High,Estate,Near,No,515000
+Benin,2,1,Yes,16,Medium,Estate,Far,Yes,290000
+Benin,2,1,No,16,Medium,Estate,Far,Yes,215000
+Ilorin,3,3,No,16,Low,Non-Estate,Near,Yes,290000
+Abuja,2,1,No,20,Medium,Estate,Far,No,755000
+Ilorin,2,2,No,24,Medium,Non-Estate,Far,Yes,210000
+Ibadan,2,2,No,12,Medium,Non-Estate,Far,No,220000
+Lagos,2,1,No,24,Low,Estate,Far,Yes,685000
+Abuja,3,3,No,16,Medium,Estate,Far,No,805000
+Ibadan,4,3,No,4,High,Estate,Far,No,410000
+Lagos,2,1,Yes,16,Medium,Estate,Far,No,605000
+Port Harcourt,3,3,No,16,Medium,Non-Estate,Near,No,625000
+Port Harcourt,3,2,Yes,20,Medium,Non-Estate,Near,Yes,695000
+Lagos,2,2,No,8,High,Non-Estate,Near,Yes,570000
+Port Harcourt,2,2,No,12,Medium,Estate,Near,No,490000
+Ibadan,4,3,Yes,0,Low,Non-Estate,Near,Yes,375000
+Abuja,3,2,Yes,8,High,Estate,Far,No,910000
+Lagos,3,2,No,4,Medium,Estate,Far,No,485000
+Lagos,3,2,No,12,Low,Non-Estate,Near,No,580000
+Abuja,1,1,No,16,High,Non-Estate,Far,Yes,475000
+Benin,3,3,No,8,Medium,Estate,Near,Yes,335000
+Lagos,3,3,Yes,12,Medium,Non-Estate,Near,No,730000
+Port Harcourt,3,3,No,8,Medium,Non-Estate,Far,Yes,515000
+Lagos,2,1,No,4,High,Non-Estate,Near,No,460000
+Abuja,1,1,No,12,Low,Estate,Far,Yes,410000
+Ibadan,2,2,Yes,4,Medium,Non-Estate,Near,Yes,260000
+Ibadan,5,3,No,12,Low,Non-Estate,Near,Yes,560000
+Lagos,2,1,Yes,0,High,Non-Estate,Far,No,475000
+Abuja,2,2,Yes,4,Medium,Non-Estate,Near,Yes,695000
+Lagos,1,1,No,12,Medium,Non-Estate,Far,No,305000
+Abuja,1,1,Yes,12,Low,Non-Estate,Near,No,525000
+Port Harcourt,3,3,Yes,0,Medium,Estate,Near,No,485000
+Lagos,3,2,No,12,High,Non-Estate,Far,No,665000
+Lagos,3,3,No,16,Medium,Estate,Far,Yes,840000
+Abuja,2,1,No,16,High,Estate,Near,No,765000
+Benin,3,2,No,4,Medium,Non-Estate,Near,Yes,240000
+Ilorin,2,2,No,12,High,Estate,Far,No,190000
+Lagos,2,1,Yes,16,Low,Non-Estate,Near,No,685000
+Ibadan,2,2,No,0,Medium,Non-Estate,Near,Yes,195000
+Abuja,2,2,No,20,High,Non-Estate,Far,Yes,865000
+Abuja,2,2,No,20,High,Non-Estate,Near,No,675000
+Ibadan,3,3,Yes,20,Medium,Estate,Near,Yes,665000
+Benin,3,2,Yes,16,Medium,Non-Estate,Near,No,370000
+Ilorin,4,3,No,16,Low,Non-Estate,Far,Yes,295000
+Port Harcourt,2,1,No,12,High,Estate,Far,No,495000
+Abuja,1,1,No,16,Medium,Estate,Far,Yes,445000
+Ibadan,2,2,No,16,Medium,Estate,Near,No,300000
+Lagos,5,3,Yes,16,Low,Non-Estate,Near,Yes,1435000
+Port Harcourt,3,2,No,8,High,Non-Estate,Near,Yes,560000
+Abuja,3,2,No,8,Medium,Estate,Near,Yes,735000
+Port Harcourt,1,1,No,20,Medium,Non-Estate,Near,Yes,345000
+Lagos,3,3,Yes,0,Medium,Estate,Near,Yes,720000
+Lagos,1,1,No,16,Medium,Non-Estate,Far,No,370000
+Benin,3,2,No,24,Medium,Non-Estate,Far,Yes,295000
+Lagos,4,4,Yes,16,High,Estate,Near,No,1650000
+Abuja,5,3,No,24,High,Non-Estate,Far,Yes,1675000
+Lagos,3,2,Yes,16,Medium,Non-Estate,Far,Yes,925000
+Lagos,2,1,No,0,High,Non-Estate,Near,Yes,440000
+Lagos,4,3,No,16,Medium,Estate,Near,No,1040000
+Lagos,3,2,Yes,8,Medium,Estate,Far,Yes,770000
+Benin,1,1,Yes,12,High,Estate,Near,Yes,225000
+Lagos,2,1,No,8,Medium,Non-Estate,Near,Yes,425000
+Ilorin,2,2,No,8,Medium,Non-Estate,Near,Yes,145000
+Port Harcourt,2,2,No,12,High,Estate,Near,Yes,610000
+Abuja,2,1,Yes,8,Low,Non-Estate,Far,Yes,615000
+Port Harcourt,3,2,No,12,High,Estate,Far,Yes,645000
+Abuja,2,1,Yes,16,High,Estate,Near,No,905000
+Ibadan,2,1,No,8,Medium,Non-Estate,Far,Yes,190000
+Lagos,3,3,No,8,Low,Estate,Far,Yes,730000
+Abuja,4,2,No,16,Medium,Estate,Far,Yes,1225000
+Benin,3,2,No,16,Low,Estate,Near,No,310000
+Benin,2,1,Yes,20,Medium,Non-Estate,Near,Yes,330000
+Benin,4,2,Yes,0,High,Non-Estate,Near,No,310000
+Abuja,4,2,No,20,Medium,Non-Estate,Near,No,985000
+Ibadan,2,1,No,12,Medium,Non-Estate,Near,No,210000
+Abuja,1,1,No,12,Medium,Non-Estate,Near,Yes,420000
+Abuja,3,2,No,4,Medium,Estate,Near,Yes,635000
+Lagos,4,3,No,12,High,Non-Estate,Near,Yes,855000
+Port Harcourt,5,4,No,8,Medium,Non-Estate,Far,No,615000
+Lagos,4,3,No,8,High,Non-Estate,Near,No,810000
+Abuja,3,2,Yes,12,Medium,Non-Estate,Far,Yes,940000
+Benin,3,2,Yes,16,Medium,Non-Estate,Far,No,320000
+Lagos,1,1,No,16,Medium,Estate,Near,Yes,510000
+Lagos,2,2,No,12,Medium,Non-Estate,Near,Yes,500000
+Lagos,2,1,No,12,Medium,Estate,Far,Yes,500000
+Benin,3,3,Yes,12,Low,Non-Estate,Near,Yes,340000
+Abuja,3,3,No,24,High,Estate,Far,No,1155000
+Abuja,3,3,Yes,12,Medium,Estate,Far,No,915000
+Ibadan,2,1,No,8,High,Non-Estate,Near,No,235000
+Ibadan,3,2,Yes,8,Low,Estate,Near,Yes,475000
+Abuja,1,1,Yes,12,Medium,Non-Estate,Near,No,520000
+Port Harcourt,2,1,Yes,12,Low,Non-Estate,Far,No,465000
+Ibadan,3,3,Yes,0,Medium,Non-Estate,Far,Yes,265000
+Port Harcourt,3,3,No,16,High,Estate,Far,Yes,765000
+Lagos,5,4,Yes,16,Low,Estate,Near,No,1450000
+Benin,2,1,Yes,16,Medium,Estate,Near,No,340000
+Abuja,2,2,No,4,Low,Non-Estate,Near,No,505000
+Lagos,2,1,No,8,Medium,Non-Estate,Far,Yes,450000
+Abuja,2,2,Yes,20,High,Non-Estate,Near,Yes,895000
+Lagos,4,2,Yes,20,Medium,Non-Estate,Near,No,1110000
+Lagos,3,2,No,8,Medium,Non-Estate,Far,No,460000
+Ibadan,4,3,No,4,Medium,Non-Estate,Near,Yes,310000
+Lagos,2,1,No,12,High,Estate,Near,No,540000
+Abuja,4,3,No,8,Medium,Estate,Near,No,925000
+Abuja,1,1,Yes,16,Medium,Estate,Near,No,585000
+Lagos,4,3,Yes,24,Medium,Estate,Far,No,1405000
+Ilorin,2,2,No,8,High,Non-Estate,Near,Yes,180000
+Lagos,2,1,No,4,Medium,Non-Estate,Near,No,410000
+Abuja,3,2,Yes,20,Medium,Non-Estate,Near,Yes,1035000
+Abuja,4,2,No,0,Medium,Non-Estate,Near,No,560000
+Lagos,1,1,Yes,24,Low,Non-Estate,Near,Yes,580000
+Lagos,2,2,Yes,16,Medium,Non-Estate,Near,No,710000
+Ibadan,4,2,Yes,20,Medium,Estate,Far,No,575000
+Ilorin,2,1,Yes,4,Medium,Estate,Near,No,205000
+Lagos,2,1,No,0,Medium,Estate,Far,No,335000
+Port Harcourt,2,2,No,12,Low,Estate,Near,Yes,445000
+Ibadan,2,1,Yes,12,High,Non-Estate,Far,No,315000
+Ibadan,4,2,No,8,High,Non-Estate,Near,Yes,410000
+Abuja,3,2,No,24,High,Estate,Near,Yes,1345000
+Abuja,3,2,No,16,Medium,Non-Estate,Far,No,725000
+Abuja,5,3,No,16,Medium,Non-Estate,Near,No,1150000
+Ibadan,2,2,Yes,4,High,Estate,Near,No,385000
+Ibadan,1,1,No,16,Medium,Estate,Near,Yes,220000
+Lagos,2,1,No,16,Medium,Non-Estate,Near,No,550000
+Abuja,2,1,No,12,High,Non-Estate,Near,No,590000
+Benin,2,1,No,20,Medium,Estate,Near,No,275000
+Ibadan,4,3,Yes,4,Medium,Estate,Far,No,420000
+Ilorin,3,3,No,8,Low,Estate,Far,Yes,245000
+Ibadan,2,2,Yes,4,Low,Estate,Far,No,285000
+Abuja,3,3,Yes,16,Low,Non-Estate,Near,No,885000
+Port Harcourt,3,3,Yes,12,High,Estate,Near,Yes,825000
+Port Harcourt,4,2,No,8,Medium,Estate,Far,Yes,710000
+Lagos,4,2,Yes,4,Medium,Estate,Near,No,1005000
+Abuja,3,2,No,0,High,Non-Estate,Far,Yes,575000
+Ibadan,3,2,No,4,Medium,Estate,Near,Yes,320000
+Lagos,3,2,No,12,Medium,Estate,Near,Yes,850000
+Ibadan,3,2,Yes,8,Medium,Non-Estate,Far,Yes,325000
+Port Harcourt,1,1,No,8,High,Non-Estate,Far,No,275000
+Ilorin,1,1,No,20,Low,Estate,Far,Yes,150000
+Lagos,3,3,No,12,Low,Estate,Far,Yes,785000
+Lagos,2,2,No,16,Low,Non-Estate,Far,No,420000
+Port Harcourt,1,1,No,0,Medium,Non-Estate,Near,Yes,205000
+Lagos,3,2,No,8,Medium,Estate,Far,No,630000
+Ibadan,1,1,No,12,Medium,Estate,Far,No,205000
+Ibadan,3,2,Yes,4,Low,Estate,Far,No,355000
+Lagos,3,2,No,4,Medium,Non-Estate,Near,No,575000
+Abuja,5,3,No,20,Low,Non-Estate,Far,Yes,1395000
+Abuja,2,1,No,20,Low,Non-Estate,Near,Yes,630000
+Abuja,1,1,No,4,Medium,Non-Estate,Near,Yes,295000
+Benin,3,2,Yes,8,High,Non-Estate,Near,Yes,390000
+Ibadan,4,3,No,24,High,Non-Estate,Near,Yes,745000
+Port Harcourt,5,4,No,4,High,Non-Estate,Near,Yes,700000
+Ibadan,2,1,No,12,Medium,Non-Estate,Far,No,230000
+Abuja,2,1,Yes,24,Medium,Estate,Far,Yes,865000
+Benin,4,2,No,24,Medium,Non-Estate,Near,Yes,395000
+Port Harcourt,2,1,No,12,Medium,Non-Estate,Far,Yes,385000
+Ibadan,3,3,Yes,4,Low,Non-Estate,Near,Yes,375000
+Benin,2,2,Yes,8,Medium,Estate,Near,No,290000
+Lagos,1,1,No,20,Medium,Non-Estate,Near,No,455000
+Ibadan,2,1,Yes,20,Medium,Non-Estate,Far,No,295000
+Lagos,2,1,No,12,Medium,Non-Estate,Near,No,415000
+Abuja,3,2,Yes,16,Low,Estate,Near,No,1230000
+Abuja,4,3,No,16,Medium,Non-Estate,Near,No,1055000
+Ilorin,2,1,No,16,Low,Estate,Far,Yes,175000
+Benin,4,3,No,16,High,Non-Estate,Far,Yes,470000
+Ibadan,1,1,No,16,Low,Non-Estate,Near,No,205000
+Ibadan,3,3,No,12,Medium,Estate,Near,Yes,450000
+Port Harcourt,1,1,No,8,High,Estate,Far,Yes,345000
+Benin,4,3,Yes,16,Medium,Non-Estate,Far,Yes,450000
+Abuja,3,2,No,12,Low,Estate,Near,Yes,795000
+Abuja,3,2,Yes,8,Medium,Non-Estate,Far,No,850000
+Lagos,4,4,No,16,Low,Non-Estate,Far,Yes,940000
+Ibadan,3,3,Yes,16,Low,Estate,Near,Yes,515000
+Ibadan,5,3,Yes,20,Low,Non-Estate,Near,Yes,765000
+Abuja,3,2,No,4,Medium,Estate,Near,No,715000
+Lagos,4,2,Yes,12,High,Non-Estate,Far,No,950000
+Ibadan,3,2,Yes,8,Medium,Estate,Near,Yes,470000
+Lagos,1,1,No,20,Medium,Non-Estate,Near,No,355000
+Ibadan,3,3,No,4,Low,Non-Estate,Far,Yes,245000
+Ilorin,1,1,No,16,Medium,Non-Estate,Far,No,125000
+Abuja,3,2,No,16,High,Estate,Near,No,955000
+Lagos,2,1,Yes,8,Low,Estate,Near,No,535000
+Ibadan,3,2,No,24,High,Non-Estate,Near,Yes,575000
+Ibadan,1,1,Yes,20,Medium,Non-Estate,Far,Yes,270000
+Abuja,2,2,No,8,High,Estate,Far,Yes,665000
+Ilorin,2,1,No,0,Medium,Estate,Near,Yes,125000
+Lagos,5,3,No,8,Medium,Estate,Near,Yes,1020000
+Abuja,2,1,No,8,High,Non-Estate,Far,Yes,550000
+Ibadan,2,1,Yes,20,High,Estate,Near,Yes,450000
+Benin,3,3,No,24,Low,Estate,Far,No,385000
+Lagos,3,2,No,4,High,Estate,Near,Yes,690000
+Ibadan,2,1,Yes,12,Low,Non-Estate,Far,No,265000
+Port Harcourt,2,1,Yes,12,Low,Estate,Near,No,455000
+Abuja,2,2,No,4,Medium,Non-Estate,Near,No,410000
+Lagos,5,3,No,8,Medium,Estate,Near,No,1160000
+Benin,1,1,No,8,High,Non-Estate,Far,No,160000
+Lagos,2,2,No,12,Medium,Non-Estate,Near,No,495000
+Abuja,1,1,Yes,16,Low,Estate,Near,Yes,675000
+Lagos,2,1,No,16,Medium,Estate,Far,Yes,605000
+Benin,3,2,No,4,Medium,Non-Estate,Far,No,180000
+Port Harcourt,2,1,Yes,16,Medium,Non-Estate,Far,Yes,475000
+Ibadan,1,1,No,16,Medium,Non-Estate,Near,Yes,190000
+Lagos,2,1,Yes,20,Low,Estate,Far,No,740000
+Port Harcourt,1,1,Yes,12,Medium,Non-Estate,Near,No,350000
+Port Harcourt,1,1,Yes,20,Medium,Non-Estate,Near,No,465000
+Ibadan,4,4,No,20,Medium,Non-Estate,Near,Yes,625000
+Benin,3,2,No,12,Medium,Non-Estate,Near,No,305000
+Lagos,4,3,No,8,Low,Non-Estate,Near,Yes,840000
+Port Harcourt,4,3,Yes,20,Low,Estate,Near,No,1200000
+Lagos,3,3,No,16,Medium,Estate,Far,Yes,805000
+Abuja,1,1,No,20,Low,Non-Estate,Near,No,410000
+Lagos,3,3,No,16,Medium,Non-Estate,Near,Yes,815000
+Abuja,4,4,No,12,High,Estate,Near,Yes,1485000
+Abuja,3,2,No,4,Medium,Non-Estate,Far,Yes,555000
+Port Harcourt,3,2,Yes,8,Medium,Non-Estate,Near,Yes,675000
+Abuja,2,1,No,24,Medium,Estate,Near,No,915000
+Ibadan,4,2,No,8,Medium,Estate,Near,Yes,445000
+Abuja,3,2,No,4,High,Non-Estate,Far,Yes,645000
+Lagos,5,3,Yes,16,High,Estate,Near,Yes,2060000
+Ibadan,2,1,Yes,16,Medium,Estate,Near,No,330000
+Lagos,2,1,No,8,Medium,Estate,Near,Yes,455000
+Abuja,2,1,Yes,8,High,Estate,Far,Yes,855000
+Port Harcourt,3,3,Yes,12,Low,Non-Estate,Near,No,700000
+Abuja,2,1,No,0,High,Non-Estate,Far,No,390000
+Lagos,1,1,No,16,High,Non-Estate,Near,No,480000
+Abuja,5,3,No,8,Low,Non-Estate,Far,No,855000
+Benin,1,1,No,20,High,Non-Estate,Near,Yes,220000
+Port Harcourt,4,4,Yes,16,High,Estate,Far,No,1240000
+Port Harcourt,2,1,No,16,High,Estate,Near,No,495000
+Port Harcourt,4,3,Yes,8,Medium,Non-Estate,Near,No,705000
+Lagos,3,2,No,12,Low,Non-Estate,Near,Yes,725000
+Abuja,4,4,No,12,Medium,Estate,Far,No,980000
+Ibadan,4,4,No,8,Medium,Estate,Far,Yes,415000
+Lagos,1,1,Yes,16,Low,Non-Estate,Near,No,445000
+Lagos,1,1,No,12,Medium,Estate,Far,Yes,335000
+Lagos,2,1,Yes,16,Medium,Non-Estate,Near,Yes,760000
+Abuja,3,3,No,4,Low,Estate,Far,Yes,590000
+Ilorin,4,2,No,4,Medium,Estate,Near,Yes,270000
+Lagos,2,1,No,24,Low,Non-Estate,Near,No,555000
+Abuja,3,2,Yes,12,Medium,Non-Estate,Near,No,1005000
+Lagos,2,2,No,12,Medium,Non-Estate,Far,No,480000
+Ilorin,4,2,No,12,Low,Estate,Far,Yes,275000
+Lagos,5,3,Yes,8,High,Non-Estate,Near,No,1450000
+Abuja,2,1,No,16,Low,Non-Estate,Near,No,490000
+Ibadan,2,2,Yes,4,Medium,Estate,Near,Yes,320000
+Ibadan,1,1,No,12,High,Estate,Near,No,265000
+Abuja,3,2,No,12,High,Estate,Near,Yes,1075000
+Abuja,3,2,No,20,Low,Non-Estate,Near,Yes,950000
+Abuja,1,1,No,12,High,Non-Estate,Near,Yes,405000
+Lagos,2,2,Yes,4,High,Estate,Far,No,530000
+Lagos,2,2,Yes,12,Medium,Estate,Far,Yes,610000
+Abuja,3,2,No,4,Medium,Estate,Near,Yes,815000
+Lagos,3,3,No,8,Low,Non-Estate,Far,No,625000
+Lagos,1,1,Yes,0,Medium,Estate,Near,Yes,345000
+Port Harcourt,3,2,No,12,Medium,Estate,Far,Yes,540000
+Ilorin,3,2,No,4,High,Non-Estate,Near,No,180000
+Port Harcourt,2,1,Yes,12,Medium,Non-Estate,Far,Yes,435000
+Lagos,1,1,No,20,Medium,Estate,Near,No,455000
+Lagos,3,2,Yes,16,Low,Non-Estate,Near,Yes,950000
+Ilorin,5,3,No,4,Low,Estate,Far,No,305000
+Lagos,2,1,Yes,8,Low,Non-Estate,Near,Yes,570000
+Lagos,2,1,No,16,Low,Non-Estate,Near,No,515000
+Port Harcourt,2,1,No,20,Medium,Non-Estate,Far,Yes,475000
+Port Harcourt,3,2,No,0,High,Non-Estate,Far,No,410000
+Port Harcourt,2,1,No,16,Medium,Estate,Near,No,475000
+Lagos,2,1,No,12,Medium,Non-Estate,Near,No,450000
+Lagos,3,3,Yes,12,Medium,Estate,Near,Yes,970000
+Ilorin,3,3,No,24,Medium,Estate,Far,No,345000
+Lagos,2,1,No,16,Medium,Non-Estate,Near,Yes,620000
+Port Harcourt,2,2,No,20,Medium,Non-Estate,Far,No,460000
+Ibadan,3,3,Yes,8,Medium,Non-Estate,Near,Yes,470000
+Port Harcourt,1,1,Yes,12,Low,Estate,Near,Yes,335000
+Abuja,1,1,No,12,Low,Non-Estate,Near,Yes,425000
+Lagos,4,3,No,8,Medium,Estate,Near,No,960000
+Port Harcourt,1,1,No,12,High,Non-Estate,Far,Yes,315000
+Benin,3,2,No,8,Medium,Estate,Near,Yes,340000
+Benin,4,2,Yes,4,High,Estate,Far,Yes,440000
+Lagos,2,1,No,8,Medium,Estate,Near,No,450000
+Lagos,2,1,No,16,Medium,Non-Estate,Near,No,475000
+Benin,3,3,No,20,Medium,Estate,Near,Yes,435000
+Ibadan,4,3,Yes,12,High,Non-Estate,Far,No,640000
+Benin,4,3,Yes,12,Low,Estate,Far,No,395000
+Lagos,3,3,Yes,4,Medium,Estate,Near,Yes,860000
+Port Harcourt,1,1,No,20,Low,Estate,Far,Yes,380000
+Ibadan,3,2,Yes,12,Medium,Non-Estate,Near,Yes,385000
+Port Harcourt,2,1,Yes,16,High,Estate,Far,No,560000
+Abuja,2,2,No,16,Medium,Estate,Far,No,650000
+Lagos,1,1,Yes,8,Medium,Non-Estate,Far,Yes,350000
+Port Harcourt,2,2,Yes,12,High,Estate,Far,Yes,590000
+Lagos,3,2,Yes,24,Medium,Non-Estate,Far,Yes,925000
+Abuja,2,1,Yes,4,Medium,Estate,Far,Yes,535000
+Ilorin,2,1,No,16,High,Non-Estate,Near,No,210000
+Abuja,2,1,No,24,Medium,Estate,Near,No,850000
+Ibadan,4,4,No,8,Medium,Non-Estate,Far,Yes,425000
+Lagos,3,3,No,20,Low,Non-Estate,Far,No,735000
+Port Harcourt,2,1,No,20,Low,Non-Estate,Near,Yes,515000
+Ilorin,1,1,No,16,Medium,Non-Estate,Near,No,145000
+Lagos,2,2,Yes,8,Medium,Non-Estate,Far,Yes,630000
+Lagos,4,2,Yes,8,High,Estate,Far,No,1035000
+Abuja,3,2,No,0,High,Estate,Near,Yes,790000
+Lagos,3,3,Yes,16,High,Non-Estate,Near,Yes,1225000
+Ibadan,3,3,Yes,16,Medium,Non-Estate,Near,No,465000
+Benin,2,2,No,12,High,Estate,Near,Yes,265000
+Abuja,4,3,No,8,Medium,Non-Estate,Far,No,840000
+Lagos,3,3,Yes,4,Medium,Estate,Far,No,655000
+Abuja,1,1,Yes,16,Medium,Non-Estate,Near,No,505000
+Ibadan,1,1,No,16,Low,Non-Estate,Near,No,185000
+Lagos,3,2,No,20,Low,Non-Estate,Far,Yes,755000
+Port Harcourt,4,3,Yes,16,High,Estate,Near,No,1365000
+Port Harcourt,2,1,No,16,Medium,Non-Estate,Near,No,425000
+Port Harcourt,4,2,No,16,Medium,Non-Estate,Far,Yes,705000
+Lagos,3,2,No,12,Medium,Estate,Far,No,645000
+Ibadan,2,2,Yes,12,High,Non-Estate,Near,No,395000
+Lagos,1,1,Yes,20,Medium,Non-Estate,Far,No,465000
+Lagos,1,1,No,16,Medium,Estate,Near,Yes,505000
+Benin,3,2,No,8,Low,Estate,Near,No,265000
+Ibadan,2,1,Yes,4,Medium,Estate,Near,Yes,290000
+Lagos,2,1,No,8,High,Non-Estate,Near,No,475000
+Lagos,3,2,Yes,12,Medium,Non-Estate,Near,Yes,925000
+Lagos,3,3,Yes,8,Medium,Non-Estate,Near,Yes,925000
+Lagos,1,1,No,8,Medium,Estate,Far,No,310000
+Lagos,2,1,Yes,12,High,Non-Estate,Far,No,620000
+Lagos,2,2,No,4,Medium,Non-Estate,Near,No,430000
+Abuja,3,3,No,16,Medium,Non-Estate,Near,Yes,1015000
+Ibadan,4,2,No,12,Medium,Estate,Near,No,460000
+Port Harcourt,2,2,No,12,Low,Non-Estate,Near,No,340000
+Port Harcourt,4,3,No,4,High,Non-Estate,Near,No,590000
+Lagos,3,3,Yes,8,High,Estate,Far,Yes,1005000
+Ilorin,3,3,No,12,High,Non-Estate,Near,Yes,275000
+Ibadan,3,3,No,16,High,Non-Estate,Near,No,405000
+Ibadan,2,2,Yes,16,High,Estate,Near,Yes,425000
+Ibadan,1,1,Yes,8,Medium,Non-Estate,Near,No,210000
+Benin,3,3,Yes,12,High,Estate,Far,Yes,540000
+Abuja,3,2,No,8,Medium,Non-Estate,Near,No,745000
+Lagos,3,2,No,24,Low,Estate,Near,No,970000
+Port Harcourt,2,1,No,24,Medium,Estate,Far,No,575000
+Ibadan,4,2,No,12,High,Non-Estate,Near,Yes,450000
+Ibadan,3,3,No,16,Medium,Non-Estate,Near,No,405000
+Abuja,1,1,No,16,High,Non-Estate,Far,Yes,415000
+Lagos,2,1,No,16,Low,Non-Estate,Far,No,485000
+Abuja,3,2,No,16,Medium,Non-Estate,Near,Yes,970000
+Benin,3,2,No,24,Medium,Non-Estate,Near,No,400000
+Port Harcourt,2,2,No,12,Low,Non-Estate,Far,No,360000
+Abuja,4,3,No,12,Low,Estate,Near,Yes,1195000
+Lagos,2,1,No,16,Low,Estate,Near,No,645000
+Abuja,2,2,No,16,High,Estate,Near,Yes,805000
+Benin,4,3,No,16,Low,Non-Estate,Near,No,410000
+Port Harcourt,4,3,No,8,Medium,Estate,Near,No,645000
+Ibadan,3,3,No,8,Low,Estate,Near,Yes,410000
+Abuja,4,3,No,4,Medium,Estate,Far,Yes,750000
+Port Harcourt,1,1,No,12,Medium,Non-Estate,Near,No,250000
+Lagos,4,2,Yes,12,Medium,Estate,Near,Yes,1260000
+Ibadan,2,1,Yes,24,Medium,Estate,Near,Yes,430000
+Abuja,2,1,No,12,Low,Non-Estate,Far,Yes,450000
+Abuja,2,2,No,16,Medium,Non-Estate,Near,Yes,680000
+Port Harcourt,2,1,No,8,High,Estate,Near,Yes,515000
+Benin,2,1,No,16,Low,Non-Estate,Near,Yes,205000
+Lagos,2,1,No,12,Medium,Estate,Near,Yes,630000
+Ibadan,1,1,Yes,16,Low,Non-Estate,Far,No,235000
+Lagos,2,2,Yes,8,Low,Estate,Near,No,640000
+Abuja,3,2,No,12,Medium,Non-Estate,Near,Yes,805000
+Lagos,2,1,Yes,12,Medium,Non-Estate,Far,No,470000
+Abuja,2,1,No,12,Low,Non-Estate,Near,No,495000
+Abuja,3,2,No,20,Medium,Estate,Near,Yes,990000
+Lagos,4,4,No,20,High,Non-Estate,Near,No,1095000
+Abuja,3,2,No,24,High,Estate,Far,No,1125000
+Benin,2,1,No,16,High,Non-Estate,Near,Yes,255000
+Lagos,3,2,Yes,24,Medium,Non-Estate,Near,Yes,1175000
+Ibadan,2,1,No,16,Medium,Non-Estate,Near,Yes,290000
+Abuja,1,1,No,8,Medium,Non-Estate,Near,No,395000
+Port Harcourt,2,1,Yes,12,Low,Non-Estate,Far,Yes,390000
+Lagos,4,2,Yes,8,Medium,Non-Estate,Far,No,710000
+Lagos,2,1,Yes,0,Medium,Estate,Far,No,445000
+Lagos,1,1,Yes,4,Medium,Non-Estate,Far,Yes,285000
+Lagos,1,1,No,0,High,Non-Estate,Far,Yes,290000
+Lagos,4,2,No,16,Low,Non-Estate,Near,Yes,860000
+Port Harcourt,3,3,No,12,Medium,Non-Estate,Near,Yes,575000
+Benin,2,1,No,8,Low,Non-Estate,Near,Yes,175000
+Ibadan,3,3,No,16,Medium,Non-Estate,Near,No,375000
+Port Harcourt,3,3,Yes,16,Low,Non-Estate,Near,No,705000
+Lagos,3,3,No,24,Medium,Estate,Near,Yes,925000
+Lagos,2,1,No,12,Medium,Non-Estate,Near,No,415000
+Abuja,4,3,No,12,Medium,Non-Estate,Near,Yes,1005000
+Lagos,2,1,No,8,Medium,Estate,Far,Yes,425000
+Abuja,3,3,No,8,Medium,Estate,Near,No,885000
+Abuja,1,1,Yes,8,Medium,Non-Estate,Near,Yes,430000
+Abuja,2,2,No,12,Medium,Estate,Far,No,540000
+Abuja,2,2,No,24,Medium,Non-Estate,Near,No,695000
+Ibadan,3,2,Yes,0,High,Non-Estate,Near,No,315000
+Ibadan,1,1,No,4,Medium,Non-Estate,Near,Yes,125000
+Abuja,3,3,No,4,Medium,Non-Estate,Far,Yes,545000
+Benin,2,1,Yes,16,High,Non-Estate,Far,Yes,290000
+Ilorin,3,2,No,8,High,Non-Estate,Near,No,215000
+Abuja,4,4,Yes,12,High,Estate,Near,No,1825000
+Abuja,3,2,No,4,Medium,Non-Estate,Near,No,650000
+Abuja,3,3,Yes,12,Medium,Non-Estate,Near,No,895000
+Benin,3,3,No,4,Medium,Non-Estate,Far,No,195000
+Benin,2,2,Yes,12,Medium,Non-Estate,Far,No,260000
+Lagos,4,2,Yes,4,High,Estate,Near,Yes,1180000
+Abuja,2,1,Yes,16,Medium,Non-Estate,Far,No,780000
+Port Harcourt,3,2,No,12,High,Non-Estate,Near,No,500000
+Abuja,3,2,No,16,Medium,Estate,Far,Yes,885000
+Lagos,2,1,No,12,Medium,Non-Estate,Far,No,465000
+Benin,2,1,No,8,High,Non-Estate,Near,No,230000
+Port Harcourt,2,1,No,4,High,Non-Estate,Far,No,275000
+Ibadan,4,2,Yes,12,High,Non-Estate,Near,No,605000
+Benin,4,3,No,12,High,Estate,Near,Yes,465000
+Ibadan,3,2,Yes,12,Medium,Non-Estate,Far,Yes,350000
+Abuja,3,2,No,16,Medium,Estate,Near,Yes,975000
+Port Harcourt,4,3,No,16,High,Non-Estate,Near,Yes,795000
+Lagos,1,1,No,16,Medium,Non-Estate,Far,Yes,395000
+Port Harcourt,2,1,Yes,4,Medium,Non-Estate,Far,Yes,395000
+Lagos,3,2,No,12,Medium,Non-Estate,Near,No,710000
+Port Harcourt,4,3,Yes,4,Medium,Estate,Near,Yes,780000
+Lagos,4,4,Yes,16,Low,Non-Estate,Near,Yes,1045000
+Lagos,2,2,Yes,8,Medium,Non-Estate,Near,Yes,555000
+Lagos,1,1,No,4,Low,Non-Estate,Far,Yes,250000
+Lagos,2,1,No,20,Medium,Estate,Near,Yes,725000
+Ibadan,2,1,Yes,12,High,Non-Estate,Near,Yes,350000
+Ibadan,2,1,Yes,8,Medium,Non-Estate,Near,Yes,290000
+Abuja,3,3,No,0,High,Non-Estate,Near,Yes,665000
+Lagos,1,1,No,12,Medium,Non-Estate,Far,Yes,300000
+Lagos,4,4,Yes,20,High,Estate,Near,No,1820000
+Lagos,2,1,Yes,12,Low,Non-Estate,Near,Yes,580000
+Lagos,3,2,No,24,Low,Non-Estate,Far,No,805000
+Benin,1,1,No,4,High,Estate,Near,Yes,170000
+Lagos,2,2,No,12,High,Non-Estate,Near,Yes,535000
+Abuja,1,1,No,16,Low,Non-Estate,Near,Yes,430000
+Lagos,5,3,Yes,12,High,Estate,Near,No,1715000
+Lagos,4,2,Yes,4,Medium,Estate,Near,Yes,830000
+Abuja,2,1,Yes,12,High,Estate,Near,No,965000
+Port Harcourt,2,1,Yes,12,Medium,Estate,Near,No,495000
+Lagos,4,4,No,16,Medium,Estate,Far,Yes,1095000
+Lagos,2,1,No,16,Medium,Estate,Near,No,675000
+Abuja,2,2,No,16,Medium,Estate,Far,Yes,725000
+Lagos,3,2,Yes,16,Medium,Non-Estate,Far,Yes,840000
+Lagos,4,3,No,8,Medium,Non-Estate,Near,Yes,675000
+Ilorin,1,1,No,12,Low,Estate,Near,Yes,120000
+Port Harcourt,2,2,Yes,16,Medium,Non-Estate,Near,Yes,600000
+Port Harcourt,4,2,No,24,Low,Non-Estate,Near,No,775000
+Abuja,2,1,Yes,4,High,Non-Estate,Far,Yes,575000
+Abuja,1,1,Yes,12,Medium,Non-Estate,Near,No,550000
+Abuja,3,2,No,8,High,Non-Estate,Far,Yes,700000
+Port Harcourt,4,3,No,8,High,Estate,Far,No,740000
+Ibadan,2,1,Yes,12,Medium,Estate,Near,Yes,375000
+Lagos,5,4,Yes,12,High,Non-Estate,Near,No,1510000
+Abuja,3,2,No,0,Medium,Non-Estate,Near,No,510000
+Abuja,1,1,No,16,Low,Non-Estate,Far,Yes,380000
+Benin,5,4,No,16,Medium,Estate,Far,Yes,620000
+Port Harcourt,2,1,Yes,24,Medium,Non-Estate,Near,Yes,635000
+Abuja,2,1,Yes,4,High,Non-Estate,Near,Yes,650000
+Lagos,3,2,Yes,12,Medium,Non-Estate,Near,Yes,885000
+Port Harcourt,2,1,Yes,12,Medium,Estate,Far,No,435000
+Lagos,1,1,Yes,8,Medium,Non-Estate,Far,Yes,405000
+Abuja,1,1,Yes,12,Medium,Non-Estate,Near,Yes,515000
+Lagos,2,1,No,16,Low,Non-Estate,Near,Yes,545000
+Port Harcourt,4,3,Yes,0,Medium,Non-Estate,Near,No,635000
+Lagos,3,2,No,24,High,Estate,Near,Yes,1285000
+Abuja,5,4,Yes,16,High,Non-Estate,Far,Yes,1770000
+Benin,2,1,No,16,Medium,Estate,Near,Yes,295000
+Lagos,2,1,Yes,16,Medium,Non-Estate,Far,Yes,585000
+Abuja,2,1,No,8,Low,Estate,Near,No,555000
+Abuja,2,1,Yes,16,Medium,Non-Estate,Near,No,655000
+Lagos,2,2,No,8,High,Non-Estate,Near,No,445000
+Ibadan,3,3,No,20,Medium,Non-Estate,Far,No,345000
+Lagos,4,2,No,4,Low,Non-Estate,Far,No,520000
+Abuja,5,3,Yes,8,High,Non-Estate,Near,Yes,1305000
+Port Harcourt,2,1,No,12,High,Non-Estate,Near,Yes,470000
+Port Harcourt,4,3,No,8,Medium,Estate,Near,Yes,685000
+Port Harcourt,2,1,Yes,12,Low,Estate,Near,Yes,580000
+Lagos,1,1,No,12,Low,Non-Estate,Far,Yes,275000
+Lagos,4,3,No,20,Low,Estate,Near,Yes,1055000
+Ibadan,3,3,No,12,Medium,Non-Estate,Near,Yes,360000
+Abuja,2,1,No,8,Low,Estate,Far,Yes,500000
+Ibadan,2,2,No,8,High,Non-Estate,Near,No,240000
+Ibadan,2,1,No,12,High,Non-Estate,Near,No,320000
+Ibadan,3,3,No,12,Medium,Non-Estate,Near,Yes,350000
+Abuja,2,2,No,16,Medium,Estate,Far,No,725000
+Abuja,5,3,No,4,Medium,Estate,Near,No,950000
+Ibadan,1,1,No,8,High,Estate,Near,No,230000
+Abuja,2,1,No,8,High,Estate,Far,Yes,600000
+Lagos,2,1,Yes,8,Low,Non-Estate,Near,No,565000
+Benin,3,3,No,8,Low,Non-Estate,Far,Yes,235000
+Benin,2,2,Yes,16,High,Estate,Far,No,310000
+Abuja,3,2,Yes,8,Medium,Non-Estate,Far,No,770000
+Lagos,4,2,Yes,12,Low,Non-Estate,Far,No,870000
+Abuja,4,3,No,12,Medium,Estate,Near,Yes,1025000
+Ibadan,4,2,Yes,8,High,Non-Estate,Near,No,475000
+Benin,4,3,No,16,Low,Estate,Far,Yes,455000
+Lagos,3,2,No,12,High,Non-Estate,Near,Yes,665000
+Lagos,4,3,Yes,12,Low,Non-Estate,Near,Yes,1045000
+Benin,2,1,Yes,16,High,Estate,Far,No,340000
+Abuja,2,1,No,8,Medium,Non-Estate,Near,No,510000
+Abuja,2,1,No,20,Medium,Non-Estate,Near,No,555000
+Ilorin,2,1,No,12,Medium,Estate,Far,Yes,185000
+Lagos,2,2,No,12,High,Non-Estate,Far,Yes,480000
+Port Harcourt,5,4,No,20,High,Non-Estate,Far,Yes,1040000
+Lagos,2,1,No,16,Medium,Non-Estate,Far,Yes,505000
+Abuja,1,1,No,12,Medium,Non-Estate,Far,Yes,430000
+Ibadan,3,3,No,16,Medium,Non-Estate,Far,Yes,335000
+Abuja,1,1,No,12,Medium,Non-Estate,Near,Yes,370000
+Ilorin,1,1,Yes,12,High,Non-Estate,Far,No,165000
+Port Harcourt,2,1,No,4,Low,Non-Estate,Near,No,275000
+Abuja,2,2,No,4,Medium,Estate,Near,No,550000
+Lagos,2,1,No,16,Medium,Non-Estate,Near,Yes,625000
+Abuja,3,3,Yes,4,Low,Estate,Near,Yes,1040000
+Abuja,3,3,No,4,High,Estate,Near,Yes,830000
+Lagos,2,1,Yes,16,Medium,Non-Estate,Near,Yes,680000
+Abuja,2,2,Yes,0,Medium,Non-Estate,Near,No,570000
+Abuja,2,1,Yes,8,High,Non-Estate,Near,Yes,640000
+Ibadan,3,3,No,12,Medium,Non-Estate,Near,No,350000
+Port Harcourt,1,1,Yes,12,Medium,Non-Estate,Far,No,305000
+Ibadan,1,1,Yes,16,Low,Non-Estate,Far,Yes,210000
+Lagos,3,2,Yes,12,Medium,Estate,Far,Yes,1035000
+Lagos,2,2,No,12,Low,Estate,Near,No,595000
+Port Harcourt,1,1,Yes,16,Medium,Estate,Far,No,390000
+Abuja,2,1,Yes,12,Medium,Non-Estate,Near,No,740000
+Lagos,4,2,No,12,Medium,Estate,Near,No,895000
+Ibadan,4,3,No,20,Medium,Estate,Far,Yes,640000
+Ibadan,3,2,Yes,12,Low,Non-Estate,Far,Yes,355000
+Abuja,2,1,Yes,8,High,Non-Estate,Far,Yes,620000
+Lagos,3,2,Yes,0,Low,Non-Estate,Far,Yes,485000
+Ibadan,5,4,No,12,High,Estate,Near,Yes,750000
+Port Harcourt,5,3,No,0,Medium,Non-Estate,Far,Yes,500000
+Ibadan,2,1,No,12,Medium,Non-Estate,Far,No,200000
+Ibadan,4,2,Yes,16,Medium,Non-Estate,Far,No,590000
+Ibadan,2,1,No,12,High,Non-Estate,Far,Yes,300000
+Abuja,2,1,Yes,8,Medium,Estate,Near,Yes,760000
+Lagos,3,2,Yes,16,Medium,Non-Estate,Near,No,990000
+Port Harcourt,2,2,No,8,High,Estate,Near,Yes,570000
+Port Harcourt,4,3,No,16,High,Estate,Near,No,1020000
+Ibadan,1,1,Yes,12,Medium,Estate,Near,No,255000
+Lagos,3,2,No,4,High,Non-Estate,Near,Yes,690000
+Lagos,4,3,No,20,Medium,Non-Estate,Far,Yes,995000
+Benin,4,2,No,8,Low,Non-Estate,Far,No,235000
+Ibadan,2,2,No,24,Medium,Non-Estate,Far,Yes,315000
+Benin,2,1,No,0,Medium,Estate,Near,Yes,170000
+Ibadan,3,2,No,8,Medium,Non-Estate,Near,Yes,355000
+Port Harcourt,2,1,No,4,High,Non-Estate,Far,No,335000
+Port Harcourt,5,4,No,0,Medium,Non-Estate,Near,Yes,685000
+Benin,4,2,Yes,16,Low,Non-Estate,Far,No,440000
+Port Harcourt,2,1,No,16,High,Estate,Far,Yes,500000
+Port Harcourt,1,1,Yes,16,Medium,Non-Estate,Near,Yes,420000
+Lagos,1,1,Yes,8,High,Non-Estate,Far,No,370000
+Abuja,4,4,No,12,High,Non-Estate,Near,Yes,1190000
+Ibadan,2,1,Yes,16,High,Non-Estate,Far,Yes,405000
+Lagos,2,1,No,12,High,Non-Estate,Near,Yes,585000
+Lagos,2,2,No,16,Low,Estate,Near,Yes,705000
+Abuja,3,2,No,12,Medium,Non-Estate,Far,Yes,665000
+Lagos,1,1,Yes,4,Low,Non-Estate,Far,No,325000
+Lagos,2,1,Yes,16,Medium,Estate,Far,No,630000
+Abuja,4,3,No,16,Medium,Estate,Near,No,1225000
+Benin,4,2,No,16,Low,Non-Estate,Far,No,320000
+Abuja,3,3,Yes,4,High,Estate,Far,No,975000
+Lagos,1,1,Yes,8,High,Estate,Far,No,420000
+Lagos,2,1,No,8,Medium,Non-Estate,Far,No,375000
+Port Harcourt,3,3,Yes,8,Medium,Non-Estate,Far,Yes,635000
+Abuja,2,1,No,8,Medium,Estate,Far,Yes,550000
+Ibadan,4,2,No,16,High,Non-Estate,Near,No,515000
+Port Harcourt,3,3,No,12,Medium,Non-Estate,Near,Yes,580000
+Ibadan,1,1,Yes,12,Medium,Non-Estate,Near,No,250000
+Lagos,4,4,Yes,8,Medium,Non-Estate,Far,Yes,1100000
+Port Harcourt,5,4,Yes,20,Medium,Non-Estate,Far,Yes,1170000
+Lagos,1,1,No,4,High,Estate,Far,No,320000
+Benin,3,2,No,16,Low,Non-Estate,Near,Yes,310000
+Port Harcourt,2,1,No,24,Low,Estate,Near,No,470000
+Abuja,2,2,No,16,High,Estate,Near,No,785000
+Lagos,2,1,Yes,24,High,Non-Estate,Near,No,805000
+Lagos,3,3,No,16,High,Estate,Near,Yes,960000
+Port Harcourt,5,4,No,8,Medium,Non-Estate,Far,Yes,765000
+Lagos,3,2,No,8,Medium,Non-Estate,Near,Yes,590000
+Port Harcourt,1,1,Yes,8,Medium,Estate,Near,No,320000
+Lagos,3,2,No,0,Low,Estate,Near,Yes,580000
+Port Harcourt,2,1,No,16,Medium,Non-Estate,Far,Yes,450000
+Ibadan,4,4,No,8,Low,Non-Estate,Far,Yes,425000
+Ibadan,2,1,Yes,16,Medium,Non-Estate,Near,Yes,340000
+Ibadan,2,1,No,8,High,Non-Estate,Far,No,200000
+Lagos,2,1,Yes,12,Medium,Estate,Near,Yes,630000
+Lagos,3,3,No,24,High,Estate,Near,Yes,1155000
+Port Harcourt,2,2,No,8,Medium,Non-Estate,Near,No,335000
+Abuja,3,3,No,16,Medium,Estate,Near,No,1110000
+Abuja,2,2,No,16,Medium,Non-Estate,Far,No,675000
+Lagos,2,1,No,8,High,Non-Estate,Far,No,490000
+Lagos,2,2,Yes,12,Medium,Non-Estate,Far,Yes,660000
+Lagos,4,4,Yes,8,High,Non-Estate,Near,Yes,1235000
+Benin,4,2,No,16,Low,Non-Estate,Near,No,380000
+Lagos,2,1,No,12,High,Non-Estate,Near,No,610000
+Port Harcourt,2,2,Yes,12,Low,Non-Estate,Near,No,495000
+Lagos,1,1,Yes,16,High,Non-Estate,Near,No,485000
+Port Harcourt,3,3,No,8,Medium,Non-Estate,Near,No,445000
+Abuja,2,2,No,16,High,Non-Estate,Far,Yes,725000
+Benin,4,3,No,20,Medium,Non-Estate,Far,Yes,395000
+Benin,4,3,Yes,20,Low,Non-Estate,Near,No,575000
+Abuja,2,1,No,16,High,Estate,Near,No,805000
+Benin,2,1,No,12,Low,Estate,Near,No,235000
+Ilorin,4,3,No,24,Low,Estate,Near,No,350000
+Ibadan,4,3,No,8,High,Estate,Near,Yes,535000
+Ibadan,1,1,Yes,12,Low,Non-Estate,Near,Yes,215000
+Lagos,2,1,No,4,Low,Estate,Far,Yes,425000
+Port Harcourt,2,1,Yes,24,Medium,Non-Estate,Far,No,550000
+Lagos,2,1,Yes,16,High,Non-Estate,Near,Yes,890000
+Lagos,2,1,No,16,Low,Estate,Far,Yes,580000
+Ilorin,1,1,No,4,Medium,Estate,Near,No,115000
+Abuja,3,2,No,16,Medium,Non-Estate,Far,Yes,885000
+Ibadan,2,2,No,16,High,Non-Estate,Near,No,375000
+Ibadan,1,1,No,16,High,Non-Estate,Near,Yes,210000
+Benin,2,1,No,8,High,Non-Estate,Near,Yes,240000
+Ilorin,4,3,Yes,12,Medium,Non-Estate,Near,No,320000
+Lagos,4,3,No,4,Medium,Non-Estate,Near,No,660000
+Lagos,2,1,Yes,12,Low,Estate,Far,Yes,550000
+Abuja,2,2,No,8,Medium,Non-Estate,Far,No,500000
+Lagos,5,4,Yes,8,High,Estate,Near,Yes,1610000
+Lagos,2,1,No,4,Medium,Non-Estate,Near,Yes,410000
+Abuja,2,1,No,8,Low,Non-Estate,Far,Yes,475000
+Ibadan,2,2,No,4,Medium,Non-Estate,Far,No,200000
+Port Harcourt,2,2,No,20,Medium,Estate,Far,Yes,510000
+Abuja,2,1,No,12,Medium,Non-Estate,Near,Yes,625000
+Port Harcourt,4,2,No,8,Medium,Non-Estate,Far,No,530000
+Lagos,3,2,No,12,Medium,Non-Estate,Far,Yes,625000
+Lagos,2,1,No,12,Low,Estate,Near,Yes,620000
+Ibadan,4,2,Yes,20,High,Non-Estate,Near,Yes,675000
+Port Harcourt,1,1,Yes,4,Medium,Non-Estate,Far,No,255000
+Ibadan,2,1,Yes,8,Low,Non-Estate,Far,Yes,265000
+Lagos,3,2,Yes,24,Medium,Non-Estate,Near,No,930000
+Ibadan,3,3,No,8,High,Non-Estate,Far,Yes,340000
+Port Harcourt,1,1,Yes,0,High,Estate,Near,Yes,360000
+Port Harcourt,2,1,Yes,4,Medium,Estate,Near,No,400000
+Port Harcourt,3,3,Yes,0,Low,Non-Estate,Near,Yes,480000
+Benin,3,2,No,24,Low,Non-Estate,Far,No,330000
+Port Harcourt,3,3,No,8,Medium,Estate,Near,Yes,630000
+Port Harcourt,2,1,No,20,Medium,Non-Estate,Near,Yes,510000
+Ilorin,1,1,No,24,Medium,Non-Estate,Near,Yes,180000
+Ibadan,2,1,Yes,12,Medium,Estate,Near,Yes,355000
+Abuja,1,1,No,0,Medium,Non-Estate,Far,Yes,285000
+Ibadan,4,4,No,4,Low,Estate,Near,Yes,450000
+Abuja,2,1,Yes,12,Low,Estate,Far,Yes,675000
+Lagos,2,1,No,12,Medium,Non-Estate,Far,Yes,525000
+Port Harcourt,3,2,No,12,Low,Non-Estate,Near,Yes,570000
+Benin,2,1,No,12,Low,Estate,Far,Yes,200000
+Benin,2,1,No,20,Medium,Non-Estate,Near,Yes,270000
+Abuja,4,3,Yes,12,High,Estate,Near,Yes,1755000
+Abuja,4,3,Yes,16,High,Estate,Far,No,1565000
+Lagos,3,3,Yes,20,High,Estate,Far,No,1395000
+Ilorin,1,1,Yes,4,Medium,Estate,Near,No,145000
+Ilorin,3,2,Yes,8,Medium,Estate,Near,Yes,315000
+Port Harcourt,3,3,No,4,Medium,Non-Estate,Far,Yes,395000
+Ibadan,1,1,Yes,4,High,Non-Estate,Far,Yes,190000
+Ibadan,2,1,No,12,Low,Estate,Near,No,260000
+Port Harcourt,4,3,No,8,Low,Estate,Near,Yes,740000
+Lagos,1,1,No,12,Medium,Estate,Near,Yes,430000
+Abuja,3,3,No,24,High,Non-Estate,Near,Yes,1075000
+Port Harcourt,2,2,No,4,High,Estate,Near,No,400000
+Port Harcourt,2,2,No,12,High,Estate,Near,No,530000
+Abuja,1,1,No,4,Medium,Non-Estate,Near,Yes,355000
+Benin,4,4,No,8,Medium,Non-Estate,Far,Yes,360000
+Lagos,2,1,No,12,High,Estate,Near,No,620000
+Abuja,3,2,Yes,20,Medium,Non-Estate,Near,Yes,1025000
+Port Harcourt,3,2,No,8,High,Estate,Near,Yes,600000
+Port Harcourt,3,2,No,4,Medium,Estate,Near,No,440000
+Port Harcourt,5,4,No,8,Medium,Non-Estate,Near,Yes,860000
+Lagos,3,2,Yes,4,High,Non-Estate,Far,Yes,645000
+Lagos,2,1,No,8,Low,Non-Estate,Near,Yes,420000
+Port Harcourt,5,4,No,12,High,Estate,Near,No,1160000
+Port Harcourt,3,3,Yes,4,Medium,Non-Estate,Near,Yes,660000
+Lagos,2,1,No,12,High,Estate,Near,No,715000
+Ibadan,1,1,No,12,Medium,Non-Estate,Near,No,200000
+Abuja,4,3,No,12,Medium,Non-Estate,Near,No,1020000
+Port Harcourt,2,1,No,0,Medium,Estate,Near,No,325000
+Ibadan,3,3,No,24,Medium,Non-Estate,Far,Yes,485000
+Lagos,2,1,No,8,Medium,Non-Estate,Far,Yes,455000
+Lagos,2,1,Yes,16,High,Estate,Near,No,970000
+Ibadan,3,3,No,8,Medium,Non-Estate,Far,No,290000
+Port Harcourt,1,1,No,12,Medium,Non-Estate,Far,Yes,260000
+Port Harcourt,2,1,No,8,High,Estate,Far,No,410000
+Ibadan,3,3,No,8,Medium,Non-Estate,Near,Yes,350000
+Ibadan,2,1,Yes,0,Medium,Non-Estate,Far,Yes,225000
+Ilorin,3,2,No,8,Low,Non-Estate,Far,No,195000
+Abuja,4,2,Yes,20,High,Non-Estate,Near,Yes,1590000
+Abuja,3,2,Yes,16,Medium,Non-Estate,Near,Yes,1020000
+Abuja,1,1,Yes,4,Medium,Estate,Far,No,480000
+Lagos,2,1,Yes,12,High,Non-Estate,Far,No,575000
+Port Harcourt,3,3,No,20,High,Estate,Near,No,795000
+Lagos,4,3,Yes,16,Low,Estate,Far,No,1240000
+Benin,4,2,Yes,4,High,Estate,Near,No,400000
+Port Harcourt,4,2,No,20,High,Non-Estate,Near,No,835000
+Port Harcourt,2,2,No,8,Low,Non-Estate,Near,Yes,340000
+Abuja,2,1,Yes,12,High,Estate,Near,Yes,835000
+Lagos,2,2,Yes,12,Medium,Non-Estate,Far,Yes,630000
+Lagos,2,1,Yes,20,Medium,Estate,Near,No,785000
+Abuja,1,1,Yes,20,Medium,Non-Estate,Far,Yes,565000
+Lagos,4,2,Yes,20,Medium,Non-Estate,Near,Yes,1120000
+Port Harcourt,2,1,No,0,Low,Estate,Near,No,310000
+Benin,2,1,Yes,20,High,Estate,Near,Yes,395000
+Benin,1,1,No,4,Low,Estate,Near,Yes,130000
+Port Harcourt,4,3,No,8,Medium,Estate,Far,Yes,625000
+Lagos,3,2,No,12,Low,Non-Estate,Near,No,600000
+Benin,3,2,No,12,High,Estate,Far,Yes,350000
+Benin,4,3,No,12,Medium,Non-Estate,Near,Yes,380000
+Lagos,2,1,No,12,Medium,Non-Estate,Near,Yes,565000
+Ibadan,3,2,No,20,Medium,Non-Estate,Near,Yes,470000

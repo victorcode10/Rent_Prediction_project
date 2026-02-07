@@ -1,0 +1,67 @@
+=====================================
+NIGERIAN HOUSE RENT DATASET
+Column Descriptions
+=====================================
+
+1. city
+   - Type: Categorical (Text)
+   - Values: Lagos, Abuja, Port Harcourt, Ibadan, Benin, Ilorin
+   - Meaning: The Nigerian city where the property is located
+   - Why it matters: Location is the #1 factor affecting rent prices in Nigeria. 
+     Lagos and Abuja typically have the highest rents due to being commercial hubs.
+
+2. number_of_bedrooms
+   - Type: Numeric (Integer)
+   - Values: 1, 2, 3, 4, 5
+   - Meaning: Total number of bedrooms in the property
+   - Why it matters: More bedrooms = bigger property = higher rent
+
+3. number_of_bathrooms
+   - Type: Numeric (Integer)
+   - Values: 1, 2, 3, 4
+   - Meaning: Total number of bathrooms in the property
+   - Why it matters: More bathrooms indicate better quality and convenience
+
+4. furnished
+   - Type: Categorical (Text)
+   - Values: Yes, No
+   - Meaning: Whether the property comes with furniture and appliances
+   - Why it matters: Furnished apartments command 20-30% premium in Nigerian rental market
+
+5. power_supply_hours
+   - Type: Numeric (Integer)
+   - Values: 0-24 (hours per day)
+   - Meaning: Average hours of electricity supply per day
+   - Why it matters: CRITICAL in Nigeria! Properties with 24-hour power supply 
+     (generator/inverter/solar) are significantly more expensive
+
+6. security_level
+   - Type: Categorical (Text)
+   - Values: Low, Medium, High
+   - Meaning: Security measures (gates, guards, CCTV, etc.)
+   - Why it matters: Security is a major concern. High security areas command premium prices
+
+7. estate_type
+   - Type: Categorical (Text)
+   - Values: Estate, Non-Estate
+   - Meaning: Whether property is in a gated estate or regular neighborhood
+   - Why it matters: Estate properties offer better infrastructure, security, and amenities
+
+8. proximity_to_road
+   - Type: Categorical (Text)
+   - Values: Near, Far
+   - Meaning: How close the property is to a main road
+   - Why it matters: Properties near main roads have better accessibility and transportation
+
+9. parking_space
+   - Type: Categorical (Text)
+   - Values: Yes, No
+   - Meaning: Whether the property has dedicated parking space
+   - Why it matters: Parking is valuable in urban areas; adds to property value
+
+10. monthly_rent (TARGET VARIABLE)
+    - Type: Numeric (Integer)
+    - Values: Range from ₦50,000 to ₦2,000,000+
+    - Meaning: Monthly rental price in Nigerian Naira (₦)
+    - Why it matters: This is what we want to predict!
+
